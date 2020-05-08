@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Initial Post
 ---
 
 This is the first blog post for ST 558!
