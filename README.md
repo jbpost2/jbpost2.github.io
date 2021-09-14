@@ -6,7 +6,7 @@
   <li><a href="index.html">Home</a></li>
   <li><a href="pages/OpenEd">Open Ed Resources</a></li>
   <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn">Other Ed</a>
+    <a href="javascript:void(0)" class="dropbtn">OtherEd</a>
     <div class="dropdown-content">
       <a href="pages/QL">Link 1</a>
       <a href="pages/Statnchat">Link 2</a>
