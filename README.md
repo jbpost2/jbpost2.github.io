@@ -13,7 +13,7 @@ ul {
 
 li {
   float: left;
-  border-right: 1px solid #bbb;
+  border-right: 1px solid #a4a4a4;
 }
 
 li:last-child {
@@ -72,6 +72,7 @@ li.dropdown {
       <a href="#">Link 3</a>
     </div>
   </li>
+  <li style="float:right"><a href="#about">About</a></li>
 </ul>
 
 ## Welcome to GitHub Pages
