@@ -3,14 +3,14 @@
 </head>
 
 <ul>
-  <li><a href="README.html">Home</a></li>
-  <li><a href="#news">News</a></li>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="pages/OpenEd">Open Ed Resources</a></li>
   <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
+    <a href="javascript:void(0)" class="dropbtn">Other Ed</a>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+      <a href="pages/QL">Link 1</a>
+      <a href="pages/Statnchat">Link 2</a>
+      <a href="pages/SportsStats">Link 3</a>
     </div>
   </li>
 </ul>
