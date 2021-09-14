@@ -8,9 +8,8 @@
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">OtherEd</a>
     <div class="dropdown-content">
-      <a href="pages/QL">Link 1</a>
-      <a href="pages/Statnchat">Link 2</a>
-      <a href="pages/SportsStats">Link 3</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
     </div>
   </li>
 </ul>
