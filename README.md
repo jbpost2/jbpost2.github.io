@@ -1,6 +1,9 @@
 <head>
 <style>
 ul {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -10,8 +13,13 @@ ul {
 
 li {
   float: left;
+  border-right: 1px solid #bbb;
 }
 
+li:last-child {
+  border-right: none;
+}  
+  
 li a, .dropbtn {
   display: inline-block;
   color: white;
