@@ -1,11 +1,8 @@
-Justin Post
-================
-
 <head>
   <link rel="stylesheet" href="css/styles.css">
 </head>
-
-<ul>
+    
+    <ul>
     <li><a href="index.html">Home</a></li>
     <li><a href="pages/OpenEd">Open Ed Resources</a></li>
     <li class="dropdown">
@@ -17,5 +14,3 @@ Justin Post
         </div>
      </li>
 </ul>
-
-Stuff\!
