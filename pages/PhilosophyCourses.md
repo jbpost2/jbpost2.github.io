@@ -21,10 +21,10 @@
             <a href="SAS.html">Basics of SAS Course</a>
             <a href="Python.html">Basics of Python Course</a>
             <a href="R.html">Basics of R Course</a>
-            <a href="TeachingWithR.html">Teaching with R</a>
-            <a href="BasicsOfRForDataScience.html">Basics of R for Data Science and Statistics</a>
-            <a href="ImprovingRPrograms.html">Improving R Programs</a>
-            <a href="RForAutomatingAndSharing">R for Automating Workflow and Sharing Work</a>
+            <a href="OtherRCourses.html#TeachingWithR">Teaching with R</a>
+            <a href="OtherRCourses.html#DataMatters">Basics of R for Data Science and Statistics</a>
+            <a href="OtherRCourses.html#DataMatters">Improving R Programs</a>
+            <a href="OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
     <li><a href="Articles.html">Articles</a></li>
@@ -33,4 +33,32 @@
     <li style="float:right"><a href="CV.html">CV</a></li>
 </ul>
 
-Stuff!
+## Philosophy
+
+Just pull big points from my philosophy and talk about reaching groups.
+
+## Courses
+
+Teaching has always been a passion of mine. I am privileged to have
+taught both undergraduate and graduate courses, including many courses
+for our online Master’s program. The courses I’ve taught at NCSU are
+listed below. The courses I’ve designed and created are in bold.
+
+-   **ST 307 - Introduction to Statistical Programming - SAS**
+-   **ST 308 - Introduction to Statistical Programming - R**
+-   ST 311 - Introduction to Statistics
+-   ST 370 - Probability and Statistics for Engineers
+-   ST 372 - Introduction to Statistical Inference and Regression
+-   ST 421 - Introduction to Mathematical Statistics I
+-   ST 422 - Introduction to Mathematical Statistics II
+-   **ST 501 - Fundamentals of Inference I**
+-   **ST 502 - Fundamentals of Inference II**
+-   ST 511 - Statistical Methods For Researchers I
+-   ST 512 - Statistical Methods For Researchers II
+-   **ST 513 - Statistics for Management and Social Sciences I**
+-   ST 521 - Statistical Theory I
+-   ST 555 - Statistical Programming I
+-   **ST 558 - Introduction to Data Science**
+
+If you are currently enrolled in one of these courses, the material for
+the classes is available on &lt;wolfware.ncsu.edu&gt;.

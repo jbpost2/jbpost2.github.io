@@ -6,6 +6,8 @@ output:
             before_body: ../render/menuTopLevel.html
 ---
 
+## About Me  
+
 <div style = "float:left;">
   <img src = "images/headshot.jpg" alt ="headshot" style="padding: 10px;">
 </div>
@@ -17,4 +19,4 @@ I have been involved in the department on and off since 2007. I was a graduate s
 
 As Director of Online Education I am heading the efforts to improve and grow our online program, update and oversee some of our large undergraduate introductory courses (some sections a hybrid between online and in person), and administer a few of our introductory programming courses (flipped courses).
 
-Education is my passion.  I'm a big proponent of open educational resources and open-source software.  Please peruse my site and contact me if you'd like to chat!
+Education is my passion.  I'm a big proponent of open educational resources and open-source software.  Please peruse my site and contact me (`justin_post@ncsu.edu`) if you'd like to chat!

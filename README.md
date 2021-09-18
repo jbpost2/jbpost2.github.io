@@ -21,10 +21,10 @@
             <a href="pages/SAS.html">Basics of SAS Course</a>
             <a href="pages/Python.html">Basics of Python Course</a>
             <a href="pages/R.html">Basics of R Course</a>
-            <a href="pages/TeachingWithR.html">Teaching with R</a>
-            <a href="pages/BasicsOfRForDataScience.html">Basics of R for Data Science and Statistics</a>
-            <a href="pages/ImprovingRPrograms.html">Improving R Programs</a>
-            <a href="pages/RForAutomatingAndSharing">R for Automating Workflow and Sharing Work</a>
+            <a href="pages/OtherRCourses.html#TeachingWithR">Teaching with R</a>
+            <a href="pages/OtherRCourses.html#DataMatters">Basics of R for Data Science and Statistics</a>
+            <a href="pages/OtherRCourses.html#DataMatters">Improving R Programs</a>
+            <a href="pages/OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
     <li><a href="pages/Articles.html">Articles</a></li>
@@ -32,6 +32,8 @@
     <li><a href="pages/QL.html">Numeracy</a></li>
     <li style="float:right"><a href="pages/CV.html">CV</a></li>
 </ul>
+
+## About Me
 
 <div style="float:left;">
 
@@ -59,4 +61,4 @@ programming courses (flipped courses).
 
 Education is my passion. I’m a big proponent of open educational
 resources and open-source software. Please peruse my site and contact me
-if you’d like to chat!
+(`justin_post@ncsu.edu`) if you’d like to chat!

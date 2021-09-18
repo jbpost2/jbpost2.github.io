@@ -21,10 +21,10 @@
             <a href="SAS.html">Basics of SAS Course</a>
             <a href="Python.html">Basics of Python Course</a>
             <a href="R.html">Basics of R Course</a>
-            <a href="TeachingWithR.html">Teaching with R</a>
-            <a href="BasicsOfRForDataScience.html">Basics of R for Data Science and Statistics</a>
-            <a href="ImprovingRPrograms.html">Improving R Programs</a>
-            <a href="RForAutomatingAndSharing">R for Automating Workflow and Sharing Work</a>
+            <a href="OtherRCourses.html#TeachingWithR">Teaching with R</a>
+            <a href="OtherRCourses.html#DataMatters">Basics of R for Data Science and Statistics</a>
+            <a href="OtherRCourses.html#DataMatters">Improving R Programs</a>
+            <a href="OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
     <li><a href="Articles.html">Articles</a></li>
@@ -33,4 +33,22 @@
     <li style="float:right"><a href="CV.html">CV</a></li>
 </ul>
 
-Stuff!
+## <a name = "DataMatters"></a> Data Matters Courses
+
+Description
+
+### Basics of R for Data Science and Statistics
+
+Description
+
+### Improving R Programs
+
+Description
+
+### R for Automating Workflow & Sharing Work
+
+Description
+
+## <a name = "TeachingWithR"></a> Teaching With R
+
+Description
