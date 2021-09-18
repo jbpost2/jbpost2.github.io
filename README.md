@@ -33,33 +33,30 @@
     <li style="float:right"><a href="pages/CV.html">CV</a></li>
 </ul>
 
-<div style="padding: 10px;">
-
- 
-
-</div>
-
 <div style="float:left;">
 
-<img src = "images/headshot.jpg" alt ="headshot" style="padding: 10px; percentage: 75%;">
+<img src = "images/headshot.jpg" alt ="headshot" style="padding: 10px;">
 
 </div>
 
-Hello and thank you for visiting my web page. I am currently a Associate
-Teaching Professor and the Director of Online Education in the
+<div style="padding: 10px;">
+
+Hello and thank you for visiting my web page. I am currently an
+Associate Teaching Professor and the Director of Online Education in the
 Department of Statistics at North Carolina State University.
+
+</div>
 
 I have been involved in the department on and off since 2007. I was a
 graduate student from 2007-2012 and came back to the university in 2013
 as a Teaching Assistant Professor.
-
-We have one of the largest doctoral programs in the country, a growing
-online master’s program, a large undergraduate program, and courses that
-reach students across many fields of study. As awareness of the utility
-of statistics and data science continues to evolve we continue to grow!
 
 As Director of Online Education I am heading the efforts to improve and
 grow our online program, update and oversee some of our large
 undergraduate introductory courses (some sections a hybrid between
 online and in person), and administer a few of our introductory
 programming courses (flipped courses).
+
+Education is my passion. I’m a big proponent of open educational
+resources and open-source software. Please peruse my site and contact me
+if you’d like to chat!
