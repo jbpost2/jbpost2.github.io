@@ -11,7 +11,7 @@ li.menu {
   border-right: 1px solid #a4a4a4;
 }
 
-li a, .dropbtn {
+li a, .menu.dropbtn {
   display: inline-block;
   color: white;
   text-align: center;
