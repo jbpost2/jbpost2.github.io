@@ -49,3 +49,7 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+li:last-child {
+  border-right: none;
+}
