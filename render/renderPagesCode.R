@@ -61,7 +61,7 @@ rmarkdown::render("Rmd/QL.Rmd",
 )
 rmarkdown::render("Rmd/R.Rmd", 
                   output_format = "github_document", 
-                  output_file = "../pages/R.Rmd", 
+                  output_file = "../pages/R.Rm", 
                   output_options = list(html_preview = FALSE)
 )
 rmarkdown::render("Rmd/RForAutomatingAndSharing.Rmd", 
