@@ -5,7 +5,7 @@
 
 <ul class = "menu">
     <li class = "menu"><a href="index.html">Home</a></li>
-    <li class="dropdown">
+    <li class="menu dropdown">
         <a href="javascript:void(0)" class="dropbtn">Teaching</a>
         <div class="dropdown-content">
             <a href="pages/PhilosophyCourses.html">Philosophy & Courses</a>
@@ -15,7 +15,7 @@
         </div>
      </li>
     
-    <li class="dropdown">
+    <li class="menu dropdown">
         <a href="javascript:void(0)" class="dropbtn">Open Ed Materials</a>
         <div class="dropdown-content">
             <a href="pages/SAS.html">Basics of SAS Course</a>
