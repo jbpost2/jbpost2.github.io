@@ -1,10 +1,10 @@
 
 <head>
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="../css/styles.css">
 </head>
 
 <ul>
-    <li><a href="index.html">Home</a></li>
+    <li><a href="../index.html">Home</a></li>
     <li class="dropdown">
         <a href="javascript:void(0)" class="dropbtn">Teaching</a>
         <div class="dropdown-content">
