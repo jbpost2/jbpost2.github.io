@@ -32,7 +32,7 @@ Justin Post
     <li><a href="pages/Articles.html">Articles</a></li>
     <li><a href="pages/Outreach.html">Outreach</a></li>
     <li><a href="pages/QL.html">Numeracy</a></li>
-    <li><a href="pages/CV.html">CV</a></li>
+    <li style="float:right"><a href="pages/CV.html">CV</a></li>
 </ul>
 
 Stuff!
