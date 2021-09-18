@@ -3,7 +3,7 @@
   <link rel="stylesheet" href="css/styles.css">
 </head>
 
-<ul>
+<ul style = "padding: 10px;">
     <li><a href="index.html">Home</a></li>
     <li class="dropdown">
         <a href="javascript:void(0)" class="dropbtn">Teaching</a>
