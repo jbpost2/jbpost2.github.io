@@ -29,8 +29,9 @@ Justin Post
             <a href="pages/RforAutomatingAndSharing">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
+    <li><a href="pages/Articles.html">Articles</a></li>
     <li><a href="pages/Outreach.html">Outreach</a></li>
-    <li><a href="pages/Other.html">Other</a></li>
+    <li><a href="pages/QL.html">Numeracy</a></li>
     <li><a href="pages/CV.html">CV</a></li>
 </ul>
 
