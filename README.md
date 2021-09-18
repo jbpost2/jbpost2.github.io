@@ -3,8 +3,8 @@
   <link rel="stylesheet" href="css/styles.css">
 </head>
 
-<ul>
-    <li><a href="index.html">Home</a></li>
+<ul class = "menu">
+    <li class = "menu"><a href="index.html">Home</a></li>
     <li class="dropdown">
         <a href="javascript:void(0)" class="dropbtn">Teaching</a>
         <div class="dropdown-content">
@@ -27,10 +27,10 @@
             <a href="pages/OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
-    <li><a href="pages/Articles.html">Articles</a></li>
-    <li><a href="pages/Outreach.html">Outreach</a></li>
-    <li><a href="pages/QL.html">Numeracy</a></li>
-    <li style="float:right"><a href="pages/CV.html">CV</a></li>
+    <li class = "menu"><a href="pages/Articles.html">Articles</a></li>
+    <li class = "menu"><a href="pages/Outreach.html">Outreach</a></li>
+    <li class = "menu"><a href="pages/QL.html">Numeracy</a></li>
+    <li class = "menu" style="float:right"><a href="pages/CV.html">CV</a></li>
 </ul>
 
 ## About Me
