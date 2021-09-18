@@ -7,7 +7,7 @@ output:
 ---
 
 <div style = "float:left;">
-  <img src = "images/headshot.jpg" alt ="headshot">
+  <img src = "images/headshot.jpg" alt ="headshot" style="padding: 10px; percentage: 75%;">
 </div>
 
 Hello and thank you for visiting my web page. I am currently a Associate Teaching Professor and the Director of Online Education in the Department of Statistics at North Carolina State University.

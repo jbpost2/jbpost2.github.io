@@ -35,7 +35,7 @@
 
 <div style="float:left;">
 
-<img src = "images/headshot.jpg" alt ="headshot">
+<img src = "images/headshot.jpg" alt ="headshot" style="padding: 10px; percentage: 75%;">
 
 </div>
 
