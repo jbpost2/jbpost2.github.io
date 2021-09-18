@@ -3,7 +3,7 @@
   <link rel="stylesheet" href="css/styles.css">
 </head>
 
-<ul style = "padding: 10px;">
+<ul>
     <li><a href="index.html">Home</a></li>
     <li class="dropdown">
         <a href="javascript:void(0)" class="dropbtn">Teaching</a>
@@ -32,6 +32,12 @@
     <li><a href="pages/QL.html">Numeracy</a></li>
     <li style="float:right"><a href="pages/CV.html">CV</a></li>
 </ul>
+
+<div style="padding: 10px;">
+
+ 
+
+</div>
 
 <div style="float:left;">
 

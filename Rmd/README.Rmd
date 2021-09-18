@@ -6,6 +6,10 @@ output:
             before_body: ../render/menuTopLevel.html
 ---
 
+<div style = "padding: 10px;">
+&nbsp;
+</div>
+
 <div style = "float:left;">
   <img src = "images/headshot.jpg" alt ="headshot" style="padding: 10px; percentage: 75%;">
 </div>
