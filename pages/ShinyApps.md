@@ -35,87 +35,38 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
-<div class="row">
+## R Shiny Apps
 
-    <div class="box">
-        <div class="col-lg-12">
-            <hr>
-            <h2 class="intro-text text-center"> <strong>R Shiny</strong> Apps
-            </h2>
-            <hr>
-        </div>
-        <div class="col-sm-4 text-center">
-            <a href="https://shiny.stat.ncsu.edu/jbpost2/BasicBayes/"><img class="img-responsive" src="images/Bayes.png" alt=""></a>
-            <h3> 
+<a href="https://shiny.stat.ncsu.edu/jbpost2/BasicBayes/"><img class="img-responsive" src="../images/Bayes.png" alt=""></a>
 
-<a href="https://shiny.stat.ncsu.edu/jbpost2/BasicBayes/">Basic Bayes
-App</a>
-
-</h3>
-
-``` 
-        <p > 
-```
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/BasicBayes/">Basic Bayes App</a>
 
 Prior/posterior example. Corresponds to Mathematical Statistics and Data
 Analysis section 3.5, example E, by John Rice. Flipping a coin 30 times
 and observing \# of Heads. Likelihood is a binomial. You can alter the
-Beta prior on Theta = P(Heads).
+Beta prior on Theta =
+P(Heads).
 
-</p>
+<a href="https://shiny.stat.ncsu.edu/jbpost2/MCMC/"><img class="img-responsive" src="../images/MCMC.png" alt=""></a>
 
-``` 
-    </div>
-    <div class="col-sm-4 text-center">
-        <a href="https://shiny.stat.ncsu.edu/jbpost2/MCMC/"><img class="img-responsive" src="images/MCMC.png" alt=""></a>
-        <h3>
-```
-
-<a href="https://shiny.stat.ncsu.edu/jbpost2/MCMC/">MCMC App</a>
-
-</h3>
-
-``` 
-        <p>
-```
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/MCMC/">MCMC App</a>
 
 Metropolis Hastings visualization for the same example as the Basic
-Bayes App.
+Bayes
+App.
 
-</p>
+<a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/"><img class="img-responsive" src="../images/NormApprox.png" alt=""></a>
 
-``` 
-    </div>
-    <div class="col-sm-4 text-center">
-        <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/"><img class="img-responsive" src="images/NormApprox.png" alt=""></a>
-        <h3>
-```
-
-<a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/">Normal
-Approx App</a>
-
-</h3>
-
-<p>
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/">Normal Approx App</a>
 
 Normal Approximation to the Binomial distribution and to the Poisson
 distribution.
-
-</p>
-
-``` 
-    </div>
-    <div class="clearfix"></div>
-</div>
-```
-
-</div>
 
 <div class="row">
 
     <div class="box">
         <div class="col-sm-4 text-center">
-            <a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/"><img class="img-responsive" src="images/SamplingDist.png" alt=""></a>
+            <a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/"><img class="img-responsive" src="../images/SamplingDist.png" alt=""></a>
             <h3> 
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/">Sampling
@@ -135,7 +86,7 @@ differing parent populations.
 ``` 
     </div>
     <div class="col-sm-4 text-center">
-        <a href="https://shiny.stat.ncsu.edu/jbpost2/OrderStatsDist/"><img class="img-responsive" src="images/OrderStats.png" alt=""></a>
+        <a href="https://shiny.stat.ncsu.edu/jbpost2/OrderStatsDist/"><img class="img-responsive" src="../images/OrderStats.png" alt=""></a>
         <h3>
 ```
 
@@ -157,7 +108,7 @@ well.
 ``` 
     </div>
     <div class="col-sm-4 text-center">
-        <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalPower/"><img class="img-responsive" src="images/Power.png" alt=""></a>
+        <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalPower/"><img class="img-responsive" src="../images/Power.png" alt=""></a>
         <h3>
 ```
 
@@ -185,7 +136,7 @@ normal population with known variance.
 
     <div class="box">
         <div class="col-sm-4 text-center">
-            <a href="https://shiny.stat.ncsu.edu/jbpost2/ZScores/"><img class="img-responsive" src="images/ZScores.png" alt=""></a>
+            <a href="https://shiny.stat.ncsu.edu/jbpost2/ZScores/"><img class="img-responsive" src="../images/ZScores.png" alt=""></a>
             <h3> 
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/ZScores/">Z Score App</a>
@@ -198,7 +149,7 @@ normal population with known variance.
         </p>
     </div>
     <div class="col-sm-4 text-center">
-        <a href="https://shiny.stat.ncsu.edu/jbpost2/Delta/"><img class="img-responsive" src="images/Delta.png" alt=""></a>
+        <a href="https://shiny.stat.ncsu.edu/jbpost2/Delta/"><img class="img-responsive" src="../images/Delta.png" alt=""></a>
         <h3> 
     <a href="https://shiny.stat.ncsu.edu/jbpost2/Delta/">Delta Method App</a>
         </h3>
@@ -207,7 +158,7 @@ normal population with known variance.
         </p>
     </div>
     <div class="col-sm-4 text-center">
-        <a href="https://shiny.stat.ncsu.edu/jbpost2/Transform/"><img class="img-responsive" src="images/transform.png" alt=""></a>
+        <a href="https://shiny.stat.ncsu.edu/jbpost2/Transform/"><img class="img-responsive" src="../images/transform.png" alt=""></a>
         <h3> 
     <a href="https://shiny.stat.ncsu.edu/jbpost2/Transform/">Transformation App</a>
         </h3>
@@ -231,7 +182,7 @@ normal population with known variance.
             <hr>
         </div>
         <div class="col-sm-3 text-center">
-            <a href="http://www.rossmanchance.com/applets/"><img class="img-responsive" src="images/RCApps.png" alt=""></a>
+            <a href="http://www.rossmanchance.com/applets/"><img class="img-responsive" src="../images/RCApps.png" alt=""></a>
             <h3> 
 
 <a href="http://www.rossmanchance.com/applets/">Rossman Chance Apps</a>
@@ -249,7 +200,7 @@ Applets to teach intro stats using the randomization based approach.
 ``` 
     </div>
     <div class="col-sm-3 text-center">
-        <a href="http://www.lock5stat.com/statkey/index.html"><img class="img-responsive" src="images/StatKey.png" alt=""></a>
+        <a href="http://www.lock5stat.com/statkey/index.html"><img class="img-responsive" src="../images/StatKey.png" alt=""></a>
         <h3>
 ```
 
@@ -269,7 +220,7 @@ Data</i>, another randomization based approach to intro stats.
 ``` 
     </div>
     <div class="col-sm-3 text-center">
-        <a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html"><img class="img-responsive" src="images/Stat2Labs.png" alt=""></a>
+        <a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html"><img class="img-responsive" src="../images/Stat2Labs.png" alt=""></a>
         <h3>
 ```
 
@@ -287,7 +238,7 @@ Game based resources for teaching intro stats.
 ``` 
     </div>
     <div class="col-sm-3 text-center">
-        <a href="http://www.distributome.org/"><img class="img-responsive" src="images/Distributome.png" alt=""></a>
+        <a href="http://www.distributome.org/"><img class="img-responsive" src="../images/Distributome.png" alt=""></a>
         <h3>
 ```
 
