@@ -11,7 +11,7 @@ li.menu {
   border-right: 1px solid #a4a4a4;
 }
 
-li a, .menu.dropbtn {
+li a, .dropbtn {
   display: inline-block;
   color: white;
   text-align: center;
@@ -19,11 +19,11 @@ li a, .menu.dropbtn {
   text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .menu.dropbtn {
+li a:hover, .dropdown:hover .dropbtn {
   background-color: red;
 }
 
-li.menu.dropdown {
+li.dropdown {
   display: inline-block;
 }
 
@@ -50,7 +50,7 @@ li.menu.dropdown {
   display: block;
 }
 
-li:last-child, .menu {
+li:last-child {
   border-right: none;
 }
 
