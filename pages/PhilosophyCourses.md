@@ -37,6 +37,12 @@
 
 ## Philosophy
 
+<div style="float: right;">
+
+<img src = "../images/question.png" alt = "Courtesy: pixabay">
+
+</div>
+
 To facilitate success for our students and ultimately our programs, we
 should start at the administrative level by setting a **welcoming
 tone**, providing **thoughtful and dedicated advising**, and having a
@@ -46,12 +52,6 @@ gauge how they are progressing in the program and if they are at risk or
 in need of help. We should intentionally create spaces and hold events
 to allow for informal interactions that help to promote a generally
 **comfortable and welcoming environment** for everyone.
-
-<div style="float: right;">
-
-<img src = "../images/question.png" alt = "Courtesy: pixabay">
-
-</div>
 
 In an instructor role, I believe many of these same themes are vital.
 When teaching, my goals are to get *every* student excited and

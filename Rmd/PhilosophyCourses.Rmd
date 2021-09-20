@@ -8,11 +8,11 @@ output:
 
 ## Philosophy
 
-To facilitate success for our students and ultimately our programs, we should start at the administrative level by setting a **welcoming tone**, providing **thoughtful and dedicated advising**, and having a **purposeful and inclusive curriculum**.  By setting **clear expectations** and having **open lines of communication** students can gauge how they are progressing in the program and if they are at risk or in need of help.  We should intentionally create spaces and hold events to allow for informal interactions that help to promote a generally **comfortable and welcoming environment** for everyone.
-
 <div style = "float: right;">
 <img src = "../images/question.png" alt = "Courtesy: pixabay">
 </div> 
+
+To facilitate success for our students and ultimately our programs, we should start at the administrative level by setting a **welcoming tone**, providing **thoughtful and dedicated advising**, and having a **purposeful and inclusive curriculum**.  By setting **clear expectations** and having **open lines of communication** students can gauge how they are progressing in the program and if they are at risk or in need of help.  We should intentionally create spaces and hold events to allow for informal interactions that help to promote a generally **comfortable and welcoming environment** for everyone.
 
 In an instructor role, I believe many of these same themes are vital.  When teaching, my goals are to get *every* student excited and **motivated to learn**.  I want to engage them in a discussion of the material that leads to a deeper understanding of both the details and the big picture concepts involved. By really involving them in this discussion, **critical thinking** and **problem solving** strategies can be honed and improved.  To help our students thrive, creating a comfortable and interactive learning environment where students are free to question you and the material is of paramount importance.  
 
