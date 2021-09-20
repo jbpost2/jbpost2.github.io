@@ -146,8 +146,6 @@ Variable.
 
 ### <a href="https://www.rossmanchance.com/applets/index2021.html" target = "_blank">Rossman Chance Apps</a>
 
-<figure>
-
 <blockquote cite="https://www.rossmanchance.com/applets/index2021.html">
 
 Rossman/Chance Applet Collection
@@ -155,17 +153,7 @@ Rossman/Chance Applet Collection
 
 </blockquote>
 
-<figcaption>
-
-rossmanchance.com
-
-</figcaption>
-
-</figure>
-
 ### <a href="http://www.lock5stat.com/statkey/index.html" target = "_blank">Stat Key</a>
-
-<figure>
 
 <blockquote cite="http://www.lock5stat.com/statkey/index.html">
 
@@ -174,17 +162,7 @@ Data
 
 </blockquote>
 
-<figcaption>
-
-lock5sat.com
-
-</figcaption>
-
-</figure>
-
-### <a href = "https://sites.psu.edu/shinyapps/" target = "_blank">Book of Apps for Statistics Teaching</a>
-
-<figure>
+### <a href = "https://sites.psu.edu/shinyapps/" target = "_blank">Penn State - Book of Apps for Statistics Teaching</a>
 
 <blockquote cite="https://sites.psu.edu/shinyapps/">
 
@@ -193,81 +171,41 @@ level covering topics in Data Gathering, Data Description, Basic
 Probability, and Statistical Inference and with eight chapters at the
 upper division level covering Probability, Regression, ANOVA, Time
 Series, Sampling, Categorical Data, Data Science, Stochastic Processes,
-and Biology.
+and
+Biology.
 
 </blockquote>
 
-<figcaption>
-
-Penn State Department of
-Statistics
-
-</figcaption>
-
-</figure>
-
-### <a href = "https://github.com/gastonstat/shiny-introstats/" target = "_blank">Apps for Feedman, Pisani, and Purves (2007)</a>
-
-<figure>
+### <a href = "https://github.com/gastonstat/shiny-introstats/" target = "_blank">Gaston Sanchez - Apps for Feedman, Pisani, and Purves (2007)</a>
 
 <blockquote cite="https://github.com/gastonstat/shiny-introstats/">
 
 This is a collection of Shiny apps for introductory statistics courses
 based on the classic textbook Statistics by David Freedman, Robert
-Pisani, and Roger Purves (2007). Fourth Edition. Norton & Company.
+Pisani, and Roger Purves (2007). Fourth Edition. Norton &
+Company.
 
 </blockquote>
 
-<figcaption>
-
-Gaston Sanchez, UC
-Berkeley
-
-</figcaption>
-
-</figure>
-
-### <a href = "http://www.statistics.calpoly.edu/shiny" target = "_blank">Book of Apps for Statistics Teaching</a>
-
-<figure>
+### <a href = "http://www.statistics.calpoly.edu/shiny" target = "_blank">Cal Poly apps</a>
 
 <blockquote cite="http://www.statistics.calpoly.edu/shiny">
 
-Web Application Teaching Tools for Statistics Using R and Shiny.
+Web Application Teaching Tools for Statistics Using R and
+Shiny.
 
 </blockquote>
 
-<figcaption>
-
-Cal
-Poly
-
-</figcaption>
-
-</figure>
-
-### <a href = "http://www2.stat.duke.edu/~mc301/shinyed/" target = "_blank">Book of Apps for Statistics Teaching</a>
-
-<figure>
+### <a href = "http://www2.stat.duke.edu/~mc301/shinyed/" target = "_blank">Apps by Brittany Cohen</a>
 
 <blockquote cite="http://www2.stat.duke.edu/~mc301/shinyed/">
 
-Statistics education apps created with Shiny.
+Statistics education apps created with
+Shiny.
 
 </blockquote>
 
-<figcaption>
-
-Brittany
-Cohen
-
-</figcaption>
-
-</figure>
-
 ### <a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html" target = "_blank">Stat 2 Labs</a>
-
-<figure>
 
 <blockquote cite="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html">
 
@@ -279,17 +217,7 @@ classes.
 
 </blockquote>
 
-<figcaption>
-
-Stat2Labs
-
-</figcaption>
-
-</figure>
-
 ### <a href="http://www.distributome.org/" target = "_blank">Distributome.org</a>
-
-<figure>
 
 <blockquote cite="http://www.distributome.org/">
 
@@ -299,11 +227,3 @@ learning, and computational utilization of diverse probability
 distributions.
 
 </blockquote>
-
-<figcaption>
-
-www.Distributome.org
-
-</figcaption>
-
-</figure>
