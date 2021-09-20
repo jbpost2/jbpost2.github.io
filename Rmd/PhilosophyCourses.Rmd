@@ -9,7 +9,7 @@ output:
 ## Philosophy
 
 <div style = "float: right;">
-<img src = "../images/question.png" alt = "Courtesy: pixabay">
+  <img src = "../images/question.png" alt = "Courtesy: pixabay">
 </div> 
 
 To facilitate success for our students and ultimately our programs, we should start at the administrative level by setting a **welcoming tone**, providing **thoughtful and dedicated advising**, and having a **purposeful and inclusive curriculum**.  By setting **clear expectations** and having **open lines of communication** students can gauge how they are progressing in the program and if they are at risk or in need of help.  We should intentionally create spaces and hold events to allow for informal interactions that help to promote a generally **comfortable and welcoming environment** for everyone.
@@ -31,7 +31,11 @@ I believe that if we can accomplish these goals, the sky is the limit for the le
 
 ## Courses Taught 
 
-I've had the opportunity to teach both undergraduate and graduate courses, including many courses for our online Master's program. The courses I've taught at NCSU are listed below.  The courses I've designed or revamped are in bold.
+<div style = "float: right;">
+  <img src = "../images/wanttolearn.png" alt = "Courtesy: pixabay">
+</div>
+
+I've had the opportunity to teach both undergraduate and graduate courses, including many courses for our online Master's program. The courses I've taught at NCSU are listed below.  I really enjoy creating new courses and creating a coherent curriculum.  The courses I've designed or revamped are in bold.
 
 - **ST 307 - Introduction to Statistical Programming - SAS**
 - **ST 308 - Introduction to Statistical Programming - R**

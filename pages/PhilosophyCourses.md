@@ -91,10 +91,17 @@ real world.
 
 ## Courses Taught
 
+<div style="float: right;">
+
+<img src = "../images/wanttolearn.png" alt = "Courtesy: pixabay">
+
+</div>
+
 I’ve had the opportunity to teach both undergraduate and graduate
 courses, including many courses for our online Master’s program. The
-courses I’ve taught at NCSU are listed below. The courses I’ve designed
-or revamped are in bold.
+courses I’ve taught at NCSU are listed below. I really enjoy creating
+new courses and creating a coherent curriculum. The courses I’ve
+designed or revamped are in bold.
 
   - **ST 307 - Introduction to Statistical Programming - SAS**
   - **ST 308 - Introduction to Statistical Programming - R**
