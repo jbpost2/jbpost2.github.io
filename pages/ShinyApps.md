@@ -35,6 +35,19 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
+Creating visuals to explain concepts or to show nuances can make a huge
+impact on student learning. Having visuals that can be modified by a
+user allows students to ask their own questions, explore, and deepen
+their understanding.
+
+R Shiny is a package in R that allows for the creation of dynamic
+visuals that can run R code on the back end. I use these types of apps
+in my teaching quite often. Below are some of the apps I use in my
+classes. All of the code for these apps is available in github
+repos.
+
+<hr class = "cool">
+
 ## R Shiny Apps
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/BasicBayes/"><img class="img-responsive" src="../images/Bayes.png" alt=""></a>
