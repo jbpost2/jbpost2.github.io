@@ -19,7 +19,7 @@ li a.menu, .dropbtn {
   text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
+li a.menu:hover, .dropdown:hover .dropbtn {
   background-color: red;
 }
 
