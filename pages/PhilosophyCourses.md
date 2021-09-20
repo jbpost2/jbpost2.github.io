@@ -45,7 +45,13 @@ expectations** and having **open lines of communication** students can
 gauge how they are progressing in the program and if they are at risk or
 in need of help. We should intentionally create spaces and hold events
 to allow for informal interactions that help to promote a generally
-comfortable and welcoming environment for everyone.
+**comfortable and welcoming environment** for everyone.
+
+<div style="float: right;">
+
+<img src = "../images/question.png" alt = "Courtesy: pixabay">
+
+</div>
 
 In an instructor role, I believe many of these same themes are vital.
 When teaching, my goals are to get *every* student excited and
@@ -110,7 +116,7 @@ or revamped are in bold.
 -   **ST 558 - Introduction to Data Science**
 
 If you are currently enrolled in one of these courses, the material for
-the classes is available on &lt;wolfware.ncsu.edu&gt;.
+the classes is available on [wolfware](wolfware.ncsu.edu).
 
 I’ve also taught Calculus II and Differential Equations at the
 University of Mount Union.
