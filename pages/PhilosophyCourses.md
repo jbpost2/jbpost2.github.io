@@ -93,7 +93,7 @@ real world.
 
 <div style="float: right;">
 
-<img src = "../images/wanttolearn.png" alt = "Courtesy: pixabay">
+<img src = "../images/wanttolearn.jpg" alt = "Courtesy: pixabay">
 
 </div>
 
