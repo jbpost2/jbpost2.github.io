@@ -37,14 +37,15 @@
 
 ## <a name = "DataMatters"></a> Data Matters Courses
 
-I’ve taught the following three courses for [Data
-Matters](https://datamatters.org/), a week-long series of one and
-two-day courses aimed at students and professionals in business,
-research, and government from 2016-2021. The material is open to anyone.
-Feel free to use these materials for any educational purpose\!
+I’ve taught the following three courses for
+<a href ="https://datamatters.org/" target = "_blank">Data Matters</a> a
+week-long series of one and two-day courses aimed at students and
+professionals in business, research, and government from 2016-2021. The
+material is open to anyone. Feel free to use these materials for any
+educational
+purpose\!
 
-\<hr class =
-"cool\>
+<hr class = "cool">
 
 ### <a href = "https://jbpost2.github.io/Basics-of-R-for-Data-Science-and-Statistics/CourseFiles.html" target = "_blank">Basics of R for Data Science and Statistics</a>
 
@@ -82,10 +83,10 @@ Day 2:
 package)
 
 <a href = "https://jbpost2.github.io/Basics-of-R-for-Data-Science-and-Statistics/CourseFiles.html" target = "_blank">Here
-is the course site.</a>
+is the course
+site.</a>
 
-\<hr class =
-"cool\>
+<hr class = "cool">
 
 ### <a href = "https://jbpost2.github.io/Improving-R-Programs/CourseFiles.html" target = "_blank">Improving R Programs </a>
 
@@ -109,10 +110,10 @@ the following topics:
 writing
 
 <a href = "https://jbpost2.github.io/Improving-R-Programs/CourseFiles.html" target = "_blank">Here
-is the course site.</a>
+is the course
+site.</a>
 
-\<hr class =
-"cool\>
+<hr class = "cool">
 
 ### <a href = "https://jbpost2.github.io/R-for-Automating-Workflow-Sharing-Work/CourseFiles.html" target = "_blank">R for Automating Workflow & Sharing Work </a>
 
@@ -136,19 +137,19 @@ Students will learn about the following topics:
 apps
 
 <a href = "https://jbpost2.github.io/R-for-Automating-Workflow-Sharing-Work/CourseFiles.html" target = "_blank">Here
-is the course site.</a>
+is the course
+site.</a>
 
-\<hr class =
-"cool\>
+<hr class = "cool">
 
 ## <a name = "TeachingWithR"></a> <a href = "https://jbpost2.github.io/TeachingWithR/CourseFiles.html" target="_blank">Teaching With R</a>
 
-At the [United States Conference on Teaching Statistics
-(USCOTS)](https://www.causeweb.org/cause/uscots/) 2021 I gave a workshop
-(with [Matthew Beckman](https://science.psu.edu/stat/people/mdb268) from
-Penn State)
-<a href= "https://jbpost2.github.io/TeachingWithR/CourseFiles.html" target="_blank">called
-`TeachingWithR`</a>.
+At the
+<a href = "https://www.causeweb.org/cause/uscots/" target = "_blank">United
+States Conference on Teaching Statistics (USCOTS)</a> 2021 I gave a
+workshop (with
+<a href = "https://science.psu.edu/stat/people/mdb268" target = "_blank">Matthew
+Beckman</a> from Penn State) called `TeachingWithR`.
 
 The workshop was intended to provide an introduction to data wrangling
 and visualization using packages from the `tidyverse`, creating
