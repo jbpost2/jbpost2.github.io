@@ -6,4 +6,4 @@ output:
             before_body: ../render/menu.html
 ---
 
-Stuff!
+Pull from usual CV...

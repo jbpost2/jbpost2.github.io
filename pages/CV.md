@@ -16,7 +16,7 @@
      </li>
     
     <li class="menu dropdown">
-        <a href="javascript:void(0)" class="dropbtn">Open Ed Materials</a>
+        <a href="javascript:void(0)" class="dropbtn">Open Ed</a>
         <div class="dropdown-content">
             <a href="SAS.html">Basics of SAS Course</a>
             <a href="Python.html">Basics of Python Course</a>
@@ -36,4 +36,4 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
-Stuff\!
+Pull from usual CV…

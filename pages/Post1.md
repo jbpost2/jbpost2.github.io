@@ -16,7 +16,7 @@
      </li>
     
     <li class="menu dropdown">
-        <a href="javascript:void(0)" class="dropbtn">Open Ed Materials</a>
+        <a href="javascript:void(0)" class="dropbtn">Open Ed</a>
         <div class="dropdown-content">
             <a href="SAS.html">Basics of SAS Course</a>
             <a href="Python.html">Basics of Python Course</a>
@@ -30,6 +30,7 @@
     <li class = "menu"><a class = "menu" href="Articles.html">Articles</a></li>
     <li class = "menu"><a class = "menu" href="Outreach.html">Outreach</a></li>
     <li class = "menu"><a class = "menu" href="QL.html">Numeracy</a></li>
+    <li class = "menu"><a class = "menu" href="Misc.html">Misc.</a></li>
     <li class = "menu" style="float:right"><a class = "menu" href="CV.html">CV</a></li>
 </ul>
 
