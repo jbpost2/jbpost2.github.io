@@ -35,6 +35,8 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
+## R Shiny Apps
+
 Creating visuals to explain concepts or to show nuances can make a huge
 impact on student learning. Having visuals that can be modified by a
 user allows students to ask their own questions, explore, and deepen
@@ -48,230 +50,111 @@ repos.
 
 <hr class = "cool">
 
-## R Shiny Apps
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/BasicBayes/" target = "_blank">Basic Bayes App</a>
 
-<a href="https://shiny.stat.ncsu.edu/jbpost2/BasicBayes/"><img class="img-responsive" src="../images/Bayes.png" alt=""></a>
+This is a basic prior/posterior visualization app. You can see how the
+posterior changes under different likelihoods and prior distribution
+settings. Specifically, the Beta distribution as the conjugate prior for
+the Binomial and the Gamma distribution as the conjugate prior for the
+Poisson are
+implemented.
 
-### <a href="https://shiny.stat.ncsu.edu/jbpost2/BasicBayes/">Basic Bayes App</a>
+<a href="https://shiny.stat.ncsu.edu/jbpost2/BasicBayes/" target = "_blank"><img class="img-responsive" src="../images/Bayes.png" alt=""></a>
 
-Prior/posterior example. Corresponds to Mathematical Statistics and Data
-Analysis section 3.5, example E, by John Rice. Flipping a coin 30 times
-and observing \# of Heads. Likelihood is a binomial. You can alter the
-Beta prior on Theta =
-P(Heads).
+<hr class = "cool">
 
-<a href="https://shiny.stat.ncsu.edu/jbpost2/MCMC/"><img class="img-responsive" src="../images/MCMC.png" alt=""></a>
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/MCMC/" target = "_blank">MCMC App</a>
 
-### <a href="https://shiny.stat.ncsu.edu/jbpost2/MCMC/">MCMC App</a>
+Metropolis Hastings visualization for an example where we know the
+posterior distribution. Specifically, this app demonstrates a basic
+implemention of the MH algorithm for the use of a Beta prior on a
+Binomial
+likelihood.
 
-Metropolis Hastings visualization for the same example as the Basic
-Bayes
-App.
+<a href="https://shiny.stat.ncsu.edu/jbpost2/MCMC/" target = "_blank"><img class="img-responsive" src="../images/MCMC.png" alt=""></a>
 
-<a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/"><img class="img-responsive" src="../images/NormApprox.png" alt=""></a>
-
-### <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/">Normal Approx App</a>
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/" target = "_blank">Normal Approx App</a>
 
 Normal Approximation to the Binomial distribution and to the Poisson
 distribution.
 
-<div class="row">
+<a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/" target = "_blank"><img class="img-responsive" src="../images/NormApprox.png" alt=""></a>
 
-    <div class="box">
-        <div class="col-sm-4 text-center">
-            <a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/"><img class="img-responsive" src="../images/SamplingDist.png" alt=""></a>
-            <h3> 
-
-<a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/">Sampling
-Dist App</a>
-
-</h3>
-
-``` 
-        <p align="left"> 
-```
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/" target = "_blank">Sampling Dist App</a>
 
 Applet to visualize sampling distributions of different statistics from
-differing parent populations.
+differing parent
+populations.
 
-</p>
+<a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/" target = "_blank"><img class="img-responsive" src="../images/SamplingDist.png" alt=""></a>
 
-``` 
-    </div>
-    <div class="col-sm-4 text-center">
-        <a href="https://shiny.stat.ncsu.edu/jbpost2/OrderStatsDist/"><img class="img-responsive" src="../images/OrderStats.png" alt=""></a>
-        <h3>
-```
-
-<a href="https://shiny.stat.ncsu.edu/jbpost2/OrderStatsDist/">Order
-Statistics App</a>
-
-</h3>
-
-``` 
-        <p>
-```
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/OrderStatsDist/" target = "_blank">Order Statistics App</a>
 
 Applet that simulates the distribution of an order statistic from a beta
 distribution random sample. The joint distribution is also visualized as
 well.
 
-</p>
+<a href="https://shiny.stat.ncsu.edu/jbpost2/OrderStatsDist/" target = "_blank"><img class="img-responsive" src="../images/OrderStats.png" alt=""></a>
 
-``` 
-    </div>
-    <div class="col-sm-4 text-center">
-        <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalPower/"><img class="img-responsive" src="../images/Power.png" alt=""></a>
-        <h3>
-```
-
-<a href="https://shiny.stat.ncsu.edu/jbpost2/NormalPower/">Normal Power
-App</a>
-
-</h3>
-
-<p>
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalPower/" target = "_blank">Normal Power App</a>
 
 Power applet to demonstrate ideas for a one sample mean test from a
-normal population with known variance.
+normal population with known
+variance.
 
-</p>
+<a href="https://shiny.stat.ncsu.edu/jbpost2/NormalPower/" target = "_blank"><img class="img-responsive" src="../images/Power.png" alt=""></a>
 
-``` 
-    </div>
-    <div class="clearfix"></div>
-</div>
-```
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/ZScores/" target = "_blank">Z Score App</a>
 
-</div>
+Applet to visualize the standardization of normal random
+variables.
 
-<div class="row">
+<a href="https://shiny.stat.ncsu.edu/jbpost2/ZScores/" target = "_blank"><img class="img-responsive" src="../images/ZScores.png" alt=""></a>
 
-    <div class="box">
-        <div class="col-sm-4 text-center">
-            <a href="https://shiny.stat.ncsu.edu/jbpost2/ZScores/"><img class="img-responsive" src="../images/ZScores.png" alt=""></a>
-            <h3> 
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/Delta/" target = "_blank">Delta Method App</a>
 
-<a href="https://shiny.stat.ncsu.edu/jbpost2/ZScores/">Z Score App</a>
+Applet to visualize and compare the first and second order delta
+method.
 
-</h3>
+<a href="https://shiny.stat.ncsu.edu/jbpost2/Delta/" target = "_blank"><img class="img-responsive" src="../images/Delta.png" alt=""></a>
 
-``` 
-        <p align="left"> 
-    Applet to visualize the standardization of normal random variables.
-        </p>
-    </div>
-    <div class="col-sm-4 text-center">
-        <a href="https://shiny.stat.ncsu.edu/jbpost2/Delta/"><img class="img-responsive" src="../images/Delta.png" alt=""></a>
-        <h3> 
-    <a href="https://shiny.stat.ncsu.edu/jbpost2/Delta/">Delta Method App</a>
-        </h3>
-        <p align="left"> 
-    Applet to visualize and compare the first and second order delta method.
-        </p>
-    </div>
-    <div class="col-sm-4 text-center">
-        <a href="https://shiny.stat.ncsu.edu/jbpost2/Transform/"><img class="img-responsive" src="../images/transform.png" alt=""></a>
-        <h3> 
-    <a href="https://shiny.stat.ncsu.edu/jbpost2/Transform/">Transformation App</a>
-        </h3>
-        <p align="left"> 
-    Applet to visualize the transformation from a Gamma to an Inverse Gamma Random Variable.
-        </p>
-    </div>
-    <div class="clearfix"></div>
-</div>
-```
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/Transform/" target = "_blank">Transformation App</a>
 
-</div>
+Applet to visualize the transformation from a Gamma to an Inverse Gamma
+Random
+Variable.
 
-<div class="row">
+<a href="https://shiny.stat.ncsu.edu/jbpost2/Transform/" target = "_blank"><img class="img-responsive" src="../images/transform.png" alt=""></a>
 
-    <div class="box">
-        <div class="col-lg-12">
-            <hr>
-            <h2 class="intro-text text-center"> Other Useful <strong>Vis and App Sites</strong>
-            </h2>
-            <hr>
-        </div>
-        <div class="col-sm-3 text-center">
-            <a href="http://www.rossmanchance.com/applets/"><img class="img-responsive" src="../images/RCApps.png" alt=""></a>
-            <h3> 
+## Other Useful <strong>Vis and App Sites</strong>
 
-<a href="http://www.rossmanchance.com/applets/">Rossman Chance Apps</a>
+### <a href="http://www.rossmanchance.com/applets/" target = "_blank">Rossman Chance Apps</a>
 
-</h3>
+Applets to teach intro stats using the randomization based
+approach.
 
-``` 
-       <p align="left"> 
-```
+<a href="http://www.rossmanchance.com/applets/" target = "_blank"><img class="img-responsive" src="../images/RCApps.png" alt=""></a>
 
-Applets to teach intro stats using the randomization based approach.
-
-</p>
-
-``` 
-    </div>
-    <div class="col-sm-3 text-center">
-        <a href="http://www.lock5stat.com/statkey/index.html"><img class="img-responsive" src="../images/StatKey.png" alt=""></a>
-        <h3>
-```
-
-<a href="http://www.lock5stat.com/statkey/index.html">Stat Key</a>
-
-</h3>
-
-``` 
-        <p>
-```
+### <a href="http://www.lock5stat.com/statkey/index.html" target = "_blank">Stat Key</a>
 
 Applets to accompany the book <i>Statistics Unlocking the Power of
-Data</i>, another randomization based approach to intro stats.
+Data</i>, another randomization based approach to intro
+stats.
 
-</p>
+<a href="http://www.lock5stat.com/statkey/index.html" target = "_blank"><img class="img-responsive" src="../images/StatKey.png" alt=""></a>
 
-``` 
-    </div>
-    <div class="col-sm-3 text-center">
-        <a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html"><img class="img-responsive" src="../images/Stat2Labs.png" alt=""></a>
-        <h3>
-```
+### <a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html" target = "_blank">Stat 2 Labs</a>
 
-<a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html">Stat
-2 Labs</a>
+Game based resources for teaching intro
+stats.
 
-</h3>
+<a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html" target = "_blank"><img class="img-responsive" src="../images/Stat2Labs.png" alt=""></a>
 
-<p>
-
-Game based resources for teaching intro stats.
-
-</p>
-
-``` 
-    </div>
-    <div class="col-sm-3 text-center">
-        <a href="http://www.distributome.org/"><img class="img-responsive" src="../images/Distributome.png" alt=""></a>
-        <h3>
-```
-
-<a href="http://www.distributome.org/">Distributome.org</a>
-
-</h3>
-
-<p>
+### <a href="http://www.distributome.org/" target = "_blank">Distributome.org</a>
 
 The Probability Distributome Project is an open-source, open
 content-development project for exploring, discovering, navigating,
 learning, and computational utilization of diverse probability
 distributions.
 
-</p>
-
-``` 
-    </div>
-    <div class="clearfix"></div>
-</div>
-```
-
-</div>
+<a href="http://www.distributome.org/" target = "_blank"><img class="img-responsive" src="../images/Distributome.png" alt=""></a>
