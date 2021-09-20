@@ -54,6 +54,11 @@ li:last-child {
   border-right: none;
 }
 
+li.blog {
+  font-weight: bold;
+  font-style: lucida;
+}
+
 hr.cool {
   border: 0;
   height: 2px;

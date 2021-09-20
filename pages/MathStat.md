@@ -39,7 +39,5 @@
 
 ## List of posts:
 
-  - <a> href = “Post1.html”\> Post \#1 - description</a>
-  - <a class = "blog"> href = “Post2.html”\> Post \#2 - description</a>
-
-dafaa
+  - <a class = "blog" href = "Post1.html"> Post \#1 - description</a>
+  - <a class = "blog" href = "Post2.html"> Post \#2 - description</a>
