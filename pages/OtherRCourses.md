@@ -37,101 +37,129 @@
 
 ## <a name = "DataMatters"></a> Data Matters Courses
 
-Justin taught the following three courses for [Data
+I’ve taught the following three courses for [Data
 Matters](https://datamatters.org/), a week-long series of one and
 two-day courses aimed at students and professionals in business,
 research, and government from 2016-2021. The material is open to anyone.
 Feel free to use these materials for any educational purpose\!
 
-### Basics of R for Data Science and Statistics
+\<hr class =
+"cool\>
+
+### <a href = "https://jbpost2.github.io/Basics-of-R-for-Data-Science-and-Statistics/CourseFiles.html" target = "_blank">Basics of R for Data Science and Statistics</a>
 
 #### Course description
 
-This course introduces the powerful and popular R statistical software
-through the RStudio integrated development environment. R is fully
+This course introduces the powerful and popular `R` statistical software
+through the RStudio integrated development environment. `R` is fully
 developed programming language and one of the major platforms for doing
 data science. This course covers frequently used data structures,
 importing raw data, common data manipulations, summary statistics, and
-data visualizations through the suite of packages called the tidyverse.
+data visualizations through the suite of packages called the
+`tidyverse`.
 
 #### Course Outline
 
-The course provides a modern introduction to the R through the extremely
-popular suite of packages called the tidyverse. A rough outline is given
-below:
+The course provides a modern introduction to the `R` through the
+extremely popular suite of packages called the `tidyverse`. A rough
+outline is given below:
 
 Day 1:
 
-  - Basics of how R stores data
-  - R Packages and the tidyverse
-  - Reading data from common formats into R (readr package)
-  - Using R Markdown for reproducibility (rmarkdown and knitr packages)
-  - Common data manipulations and creating new variables (dplyr package)
+  - Basics of how `R` stores data
+  - `R` packages and the `tidyverse`
+  - Reading data from common formats into `R` (`readr` package)
+  - Using `R Markdown` for reproducibility (`rmarkdown` and `knitr`
+    packages)
+  - Common data manipulations and creating new variables (`dplyr`
+    package)
 
 Day 2:
 
-  - Reshaping data for summarizing and modeling (tidyr package)
+  - Reshaping data for summarizing and modeling (`tidyr` package)
   - Types of data and numeric summaries (including across groups)
-  - Creating publication ready graphs (ggplot2 package)
+  - Creating publication ready graphs (`ggplot2`
+package)
 
-### Improving R Programs
+<a href = "https://jbpost2.github.io/Basics-of-R-for-Data-Science-and-Statistics/CourseFiles.html" target = "_blank">Here
+is the course site.</a>
+
+\<hr class =
+"cool\>
+
+### <a href = "https://jbpost2.github.io/Improving-R-Programs/CourseFiles.html" target = "_blank">Improving R Programs </a>
 
 #### Course description
 
 This course introduces common programming techniques that can improve
-the efficiency of your R programs. These techniques include the use of
+the efficiency of your `R` programs. These techniques include the use of
 loops and vectorized functions to avoid repeated sections of code. To
-really take R programs to the next level, we’ll see how to write custom
-functions that will help to streamline code.
+really take `R` programs to the next level, we’ll see how to write
+custom functions that will help to streamline code.
 
 #### Course Outline
 
-The course provides a brief overview of R data structures followed by
+The course provides a brief overview of `R` data structures followed by
 the following topics:
 
-  - Loops in R
-  - Vectorized functions (apply family of functions)
-  - How R functions work
-  - Function writing
+  - Loops in `R`
+  - Vectorized functions (`apply` family of functions)
+  - How `R` functions work
+  - Function
+writing
 
-### R for Automating Workflow & Sharing Work
+<a href = "https://jbpost2.github.io/Improving-R-Programs/CourseFiles.html" target = "_blank">Here
+is the course site.</a>
+
+\<hr class =
+"cool\>
+
+### <a href = "https://jbpost2.github.io/R-for-Automating-Workflow-Sharing-Work/CourseFiles.html" target = "_blank">R for Automating Workflow & Sharing Work </a>
 
 #### Course description
 
-The course provides participants an introduction to utilizing R for
-writing reproducible reports and presentations that easily embed R
+The course provides participants an introduction to utilizing `R` for
+writing reproducible reports and presentations that easily embed `R`
 output, using online repositories and version control software for
-collaboration, creation of basic websites using R, and the development
+collaboration, creation of basic websites using `R`, and the development
 of interactive dashboards and web applets.
 
 #### Course Outline
 
 Students will learn about the following topics:
 
-  - The R Markdown language
-  - How to automate reports with R Markdown
-  - Use of git and github for collaboration and version control
-  - Basic creation of websites through Markdown and github
-  - R Shiny web apps
+  - The `R Markdown` language
+  - How to automate reports with `R Markdown`
+  - Use of `git` and `github` for collaboration and version control
+  - Basic creation of websites through `Markdown` and `github`
+  - `R Shiny` web
+apps
 
-## <a name = "TeachingWithR"></a> Teaching With R
+<a href = "https://jbpost2.github.io/R-for-Automating-Workflow-Sharing-Work/CourseFiles.html" target = "_blank">Here
+is the course site.</a>
 
-USCOTS 2021
+\<hr class =
+"cool\>
 
-This workshop is intended to provide an introduction to data wrangling
-and visualization using packages from the tidyverse, creating
-reproducible analyses using RMarkdown, and producing basic interactivity
-using R Shiny. Topics will be introduced with examples. Participants
-will then do small activities in breakout rooms that will give them a
-chance to try out the code and concepts.
+## <a name = "TeachingWithR"></a> <a href = "https://jbpost2.github.io/TeachingWithR/CourseFiles.html" target="_blank">Teaching With R</a>
 
-Participants should leave this workshop being able to create HTML
-documents that provide documentation of their work, do common
-manipulations of data, produce customized graphics, and allow for
-interactivity with R using the shiny package.
+At the [United States Conference on Teaching Statistics
+(USCOTS)](https://www.causeweb.org/cause/uscots/) 2021 I gave a workshop
+(with [Matthew Beckman](https://science.psu.edu/stat/people/mdb268) from
+Penn State)
+<a href= "https://jbpost2.github.io/TeachingWithR/CourseFiles.html" target="_blank">called
+`TeachingWithR`</a>.
 
-This workshop will be most beneficial for those that have some basic
-programming experience, although not necessarily in R.
+The workshop was intended to provide an introduction to data wrangling
+and visualization using packages from the `tidyverse`, creating
+reproducible analyses using `R Markdown`, and producing basic
+interactivity using `R Shiny`.
 
-Participants should come with R and RStudio installed and will need to
-have permission to download packages onto their computer.
+The goals for the workshop were that teachers would leave being able to
+create HTML documents that provide documentation of their work, do
+common manipulations of data, produce customized graphics, and allow for
+interactivity with `R` using the `shiny`
+package.
+
+<a href = "https://jbpost2.github.io/TeachingWithR/CourseFiles.html" target = "_blank">Here
+is the workshop site.</a>
