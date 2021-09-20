@@ -65,7 +65,7 @@ li.blog {
   font-weight: bold;
 }
 
-li a.blog {
+li.blog a.blog {
   font-family: lucida;
 }
 
