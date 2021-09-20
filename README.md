@@ -4,7 +4,7 @@
 </head>
 
 <ul class = "menu">
-    <li class = "menu"><a href="index.html">Home</a></li>
+    <li class = "menu"><a class = "menu" href="index.html">Home</a></li>
     <li class="menu dropdown">
         <a href="javascript:void(0)" class="dropbtn">Teaching</a>
         <div class="dropdown-content">
@@ -27,10 +27,10 @@
             <a href="pages/OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
-    <li class = "menu"><a href="pages/Articles.html">Articles</a></li>
-    <li class = "menu"><a href="pages/Outreach.html">Outreach</a></li>
-    <li class = "menu"><a href="pages/QL.html">Numeracy</a></li>
-    <li class = "menu" style="float:right"><a href="pages/CV.html">CV</a></li>
+    <li class = "menu"><a class = "menu" href="pages/Articles.html">Articles</a></li>
+    <li class = "menu"><a class = "menu" href="pages/Outreach.html">Outreach</a></li>
+    <li class = "menu"><a class = "menu" href="pages/QL.html">Numeracy</a></li>
+    <li class = "menu" style="float:right"><a class = "menu" href="pages/CV.html">CV</a></li>
 </ul>
 
 <br style = "display: block; content: ''; margin-top: 10; ">
