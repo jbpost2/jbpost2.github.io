@@ -59,7 +59,7 @@ the Binomial and the Gamma distribution as the conjugate prior for the
 Poisson are
 implemented.
 
-<a href="https://shiny.stat.ncsu.edu/jbpost2/BasicBayes/" target = "_blank"><img   src="../images/Bayes.png" alt=""></a>
+<a href="https://shiny.stat.ncsu.edu/jbpost2/BasicBayes/" target = "_blank"><img src="../images/Bayes.png" alt=""></a>
 
 <hr class = "cool">
 
@@ -73,12 +73,16 @@ likelihood.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/MCMC/" target = "_blank"><img   src="../images/MCMC.png" alt=""></a>
 
+<hr class = "cool">
+
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/" target = "_blank">Normal Approx App</a>
 
 Normal Approximation to the Binomial distribution and to the Poisson
 distribution.
 
-<a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/" target = "_blank"><img   src="../images/NormApprox.png" alt=""></a>
+<a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/" target = "_blank"><img src="../images/NormApprox.png" alt=""></a>
+
+<hr class = "cool">
 
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/" target = "_blank">Sampling Dist App</a>
 
@@ -86,7 +90,9 @@ Applet to visualize sampling distributions of different statistics from
 differing parent
 populations.
 
-<a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/" target = "_blank"><img   src="../images/SamplingDist.png" alt=""></a>
+<a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/" target = "_blank"><img src="../images/SamplingDist.png" alt=""></a>
+
+<hr class = "cool">
 
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/OrderStatsDist/" target = "_blank">Order Statistics App</a>
 
@@ -96,6 +102,8 @@ well.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/OrderStatsDist/" target = "_blank"><img   src="../images/OrderStats.png" alt=""></a>
 
+<hr class = "cool">
+
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalPower/" target = "_blank">Normal Power App</a>
 
 Power applet to demonstrate ideas for a one sample mean test from a
@@ -104,6 +112,8 @@ variance.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalPower/" target = "_blank"><img   src="../images/Power.png" alt=""></a>
 
+<hr class = "cool">
+
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/ZScores/" target = "_blank">Z Score App</a>
 
 Applet to visualize the standardization of normal random
@@ -111,12 +121,16 @@ variables.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/ZScores/" target = "_blank"><img   src="../images/ZScores.png" alt=""></a>
 
+<hr class = "cool">
+
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/Delta/" target = "_blank">Delta Method App</a>
 
 Applet to visualize and compare the first and second order delta
 method.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/Delta/" target = "_blank"><img   src="../images/Delta.png" alt=""></a>
+
+<hr class = "cool">
 
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/Transform/" target = "_blank">Transformation App</a>
 
@@ -126,35 +140,170 @@ Variable.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/Transform/" target = "_blank"><img   src="../images/transform.png" alt=""></a>
 
+<hr class = "cool">
+
 ## Other Useful <strong>Vis and App Sites</strong>
 
-### <a href="http://www.rossmanchance.com/applets/" target = "_blank">Rossman Chance Apps</a>
+### <a href="https://www.rossmanchance.com/applets/index2021.html" target = "_blank">Rossman Chance Apps</a>
 
-Applets to teach intro stats using the randomization based
-approach.
+<figure>
 
-<a href="http://www.rossmanchance.com/applets/" target = "_blank"><img   src="../images/RCApps.png" alt=""></a>
+<blockquote cite="https://www.rossmanchance.com/applets/index2021.html">
+
+Rossman/Chance Applet Collection
+2021
+
+</blockquote>
+
+<figcaption>
+
+rossmanchance.com
+
+</figcaption>
+
+</figure>
 
 ### <a href="http://www.lock5stat.com/statkey/index.html" target = "_blank">Stat Key</a>
 
-Applets to accompany the book <i>Statistics Unlocking the Power of
-Data</i>, another randomization based approach to intro
-stats.
+<figure>
 
-<a href="http://www.lock5stat.com/statkey/index.html" target = "_blank"><img   src="../images/StatKey.png" alt=""></a>
+<blockquote cite="http://www.lock5stat.com/statkey/index.html">
+
+StatKey to accompany Statistics: Unlocking the Power of
+Data
+
+</blockquote>
+
+<figcaption>
+
+lock5sat.com
+
+</figcaption>
+
+</figure>
+
+### <a href = "https://sites.psu.edu/shinyapps/" target = "_blank">Book of Apps for Statistics Teaching</a>
+
+<figure>
+
+<blockquote cite="https://sites.psu.edu/shinyapps/">
+
+The book is laid out in twelve chapters with four at the introductory
+level covering topics in Data Gathering, Data Description, Basic
+Probability, and Statistical Inference and with eight chapters at the
+upper division level covering Probability, Regression, ANOVA, Time
+Series, Sampling, Categorical Data, Data Science, Stochastic Processes,
+and Biology.
+
+</blockquote>
+
+<figcaption>
+
+Penn State Department of
+Statistics
+
+</figcaption>
+
+</figure>
+
+### <a href = "https://github.com/gastonstat/shiny-introstats/" target = "_blank">Apps for Feedman, Pisani, and Purves (2007)</a>
+
+<figure>
+
+<blockquote cite="https://github.com/gastonstat/shiny-introstats/">
+
+This is a collection of Shiny apps for introductory statistics courses
+based on the classic textbook Statistics by David Freedman, Robert
+Pisani, and Roger Purves (2007). Fourth Edition. Norton & Company.
+
+</blockquote>
+
+<figcaption>
+
+Gaston Sanchez, UC
+Berkeley
+
+</figcaption>
+
+</figure>
+
+### <a href = "http://www.statistics.calpoly.edu/shiny" target = "_blank">Book of Apps for Statistics Teaching</a>
+
+<figure>
+
+<blockquote cite="http://www.statistics.calpoly.edu/shiny">
+
+Web Application Teaching Tools for Statistics Using R and Shiny.
+
+</blockquote>
+
+<figcaption>
+
+Cal
+Poly
+
+</figcaption>
+
+</figure>
+
+### <a href = "http://www2.stat.duke.edu/~mc301/shinyed/" target = "_blank">Book of Apps for Statistics Teaching</a>
+
+<figure>
+
+<blockquote cite="http://www2.stat.duke.edu/~mc301/shinyed/">
+
+Statistics education apps created with Shiny.
+
+</blockquote>
+
+<figcaption>
+
+Brittany
+Cohen
+
+</figcaption>
+
+</figure>
 
 ### <a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html" target = "_blank">Stat 2 Labs</a>
 
-Game based resources for teaching intro
-stats.
+<figure>
 
-<a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html" target = "_blank"><img   src="../images/Stat2Labs.png" alt=""></a>
+<blockquote cite="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html">
+
+This stat2labs site provides project-based materials that emphasize
+real-world applications and conceptual understanding. The materials are
+designed to ease the workload of faculty while still incorporating
+research-like experiences into their own
+classes.
+
+</blockquote>
+
+<figcaption>
+
+Stat2Labs
+
+</figcaption>
+
+</figure>
 
 ### <a href="http://www.distributome.org/" target = "_blank">Distributome.org</a>
+
+<figure>
+
+<blockquote cite="http://www.distributome.org/">
 
 The Probability Distributome Project is an open-source, open
 content-development project for exploring, discovering, navigating,
 learning, and computational utilization of diverse probability
 distributions.
 
-<a href="http://www.distributome.org/" target = "_blank"><img   src="../images/Distributome.png" alt=""></a>
+</blockquote>
+
+<figcaption>
+
+www.Distributome.org
+
+</figcaption>
+
+</figure>
