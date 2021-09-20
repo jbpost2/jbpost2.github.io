@@ -33,6 +33,6 @@
     <li class = "menu" style="float:right"><a href="CV.html">CV</a></li>
 </ul>
 
-<br style = "display: block; content: ""; margin-top: 10; ">
+<br style = "display: block; content: ''; margin-top: 10; ">
 
 Stuff!
