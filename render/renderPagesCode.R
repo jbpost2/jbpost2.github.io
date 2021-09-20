@@ -22,6 +22,11 @@ rmarkdown::render("Rmd/MathStat.Rmd",
                   output_file = "../pages/MathStat.md", 
                   output_options = list(html_preview = FALSE)
 )
+rmarkdown::render("Rmd/Misc.Rmd", 
+                  output_format = "github_document", 
+                  output_file = "../pages/Misc.md", 
+                  output_options = list(html_preview = FALSE)
+)
 rmarkdown::render("Rmd/Online.Rmd", 
                   output_format = "github_document", 
                   output_file = "../pages/Online.md", 

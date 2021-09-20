@@ -30,6 +30,7 @@
     <li class = "menu"><a class = "menu" href="Articles.html">Articles</a></li>
     <li class = "menu"><a class = "menu" href="Outreach.html">Outreach</a></li>
     <li class = "menu"><a class = "menu" href="QL.html">Numeracy</a></li>
+    <li class = "menu"><a class = "menu" href="Misc.html">Misc.</a></li>
     <li class = "menu" style="float:right"><a class = "menu" href="CV.html">CV</a></li>
 </ul>
 
@@ -97,11 +98,10 @@ real world.
 
 </div>
 
-I’ve had the opportunity to teach both undergraduate and graduate
-courses, including many courses for our online Master’s program. The
-courses I’ve taught at NCSU are listed below. I really enjoy creating
-new courses and creating a coherent curriculum. The courses I’ve
-designed or revamped are in bold.
+I’ve taught a lot of courses while at NC State, including many courses
+for our online Master’s program. The courses I’ve taught are listed
+below. I really enjoy creating new courses and creating a coherent
+curriculum. The courses I’ve designed or revamped are in bold.
 
   - **ST 307 - Introduction to Statistical Programming - SAS**
   - **ST 308 - Introduction to Statistical Programming - R**

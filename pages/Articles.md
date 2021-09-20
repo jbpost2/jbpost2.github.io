@@ -30,9 +30,12 @@
     <li class = "menu"><a class = "menu" href="Articles.html">Articles</a></li>
     <li class = "menu"><a class = "menu" href="Outreach.html">Outreach</a></li>
     <li class = "menu"><a class = "menu" href="QL.html">Numeracy</a></li>
+    <li class = "menu"><a class = "menu" href="Misc.html">Misc.</a></li>
     <li class = "menu" style="float:right"><a class = "menu" href="CV.html">CV</a></li>
 </ul>
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
-Stuff\!
+## NC State workshops and slides here
+
+## Articles from FF, etc.

@@ -30,6 +30,7 @@
     <li class = "menu"><a class = "menu" href="pages/Articles.html">Articles</a></li>
     <li class = "menu"><a class = "menu" href="pages/Outreach.html">Outreach</a></li>
     <li class = "menu"><a class = "menu" href="pages/QL.html">Numeracy</a></li>
+    <li class = "menu"><a class = "menu" href="pages/Misc.html">Misc.</a></li>
     <li class = "menu" style="float:right"><a class = "menu" href="pages/CV.html">CV</a></li>
 </ul>
 
