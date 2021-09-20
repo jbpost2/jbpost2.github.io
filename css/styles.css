@@ -19,11 +19,11 @@ li a, .menu.dropbtn {
   text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
+li a:hover, .dropdown:hover .menu.dropbtn {
   background-color: red;
 }
 
-li.dropdown {
+li.menu.dropdown {
   display: inline-block;
 }
 
@@ -50,7 +50,7 @@ li.dropdown {
   display: block;
 }
 
-li:last-child {
+li:last-child, .menu {
   border-right: none;
 }
 
