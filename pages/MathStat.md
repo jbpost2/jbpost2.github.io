@@ -39,5 +39,5 @@
 
 ## List of posts:
 
-1.  <a href = "Post1.html"> Post \#1 - description</a>
-2.  <a href = "Post2.html"> Post \#2 - description</a>
+  - <a href = "Post1.html"> Post \#1 - description</a>
+  - <a href = "Post2.html"> Post \#2 - description</a>
