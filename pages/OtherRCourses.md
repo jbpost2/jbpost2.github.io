@@ -41,7 +41,7 @@ Justin taught the following three courses for [Data
 Matters](https://datamatters.org/), a week-long series of one and
 two-day courses aimed at students and professionals in business,
 research, and government from 2016-2021. The material is open to anyone.
-Feel free to use these materials for any educational purpose!
+Feel free to use these materials for any educational purpose\!
 
 ### Basics of R for Data Science and Statistics
 
@@ -62,17 +62,17 @@ below:
 
 Day 1:
 
--   Basics of how R stores data
--   R Packages and the tidyverse
--   Reading data from common formats into R (readr package)
--   Using R Markdown for reproducibility (rmarkdown and knitr packages)
--   Common data manipulations and creating new variables (dplyr package)
+  - Basics of how R stores data
+  - R Packages and the tidyverse
+  - Reading data from common formats into R (readr package)
+  - Using R Markdown for reproducibility (rmarkdown and knitr packages)
+  - Common data manipulations and creating new variables (dplyr package)
 
 Day 2:
 
--   Reshaping data for summarizing and modeling (tidyr package)
--   Types of data and numeric summaries (including across groups)
--   Creating publication ready graphs (ggplot2 package)
+  - Reshaping data for summarizing and modeling (tidyr package)
+  - Types of data and numeric summaries (including across groups)
+  - Creating publication ready graphs (ggplot2 package)
 
 ### Improving R Programs
 
@@ -89,10 +89,10 @@ functions that will help to streamline code.
 The course provides a brief overview of R data structures followed by
 the following topics:
 
--   Loops in R
--   Vectorized functions (apply family of functions)
--   How R functions work
--   Function writing
+  - Loops in R
+  - Vectorized functions (apply family of functions)
+  - How R functions work
+  - Function writing
 
 ### R for Automating Workflow & Sharing Work
 
@@ -108,11 +108,11 @@ of interactive dashboards and web applets.
 
 Students will learn about the following topics:
 
--   The R Markdown language
--   How to automate reports with R Markdown
--   Use of git and github for collaboration and version control
--   Basic creation of websites through Markdown and github
--   R Shiny web apps
+  - The R Markdown language
+  - How to automate reports with R Markdown
+  - Use of git and github for collaboration and version control
+  - Basic creation of websites through Markdown and github
+  - R Shiny web apps
 
 ## <a name = "TeachingWithR"></a> Teaching With R
 

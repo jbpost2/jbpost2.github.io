@@ -66,20 +66,20 @@ to question you and the material is of paramount importance.
 There are many ways I try to accomplish these goals when teaching,
 including:
 
--   using **projects and capstone activities** that require problem
+  - using **projects and capstone activities** that require problem
     solving and high-level critical thinking
--   engaging in **discussions with students** during class or through
+  - engaging in **discussions with students** during class or through
     discussion forums  
--   employing **active learning** to help students take an active role
+  - employing **active learning** to help students take an active role
     in their learning
--   providing **clear expectations** for the day, topic, and semester
--   utilizing **interesting, relevant, and culturally sensitive
+  - providing **clear expectations** for the day, topic, and semester
+  - utilizing **interesting, relevant, and culturally sensitive
     motivating examples**
--   teaching with **passion and enthusiasm** that is evident on a daily
+  - teaching with **passion and enthusiasm** that is evident on a daily
     basis
--   obtaining **feedback** from our students to gauge misunderstandings
+  - obtaining **feedback** from our students to gauge misunderstandings
     and muddy points
--   implementing a **constant cycle of improvement** from semester to
+  - implementing a **constant cycle of improvement** from semester to
     semester
 
 I believe that if we can accomplish these goals, the sky is the limit
@@ -96,24 +96,24 @@ courses, including many courses for our online Master’s program. The
 courses I’ve taught at NCSU are listed below. The courses I’ve designed
 or revamped are in bold.
 
--   **ST 307 - Introduction to Statistical Programming - SAS**
--   **ST 308 - Introduction to Statistical Programming - R**
--   ST 311 - Introduction to Statistics
--   ST 370 - Probability and Statistics for Engineers
--   ST 372 - Introduction to Statistical Inference and Regression
--   ST 421 - Introduction to Mathematical Statistics I
--   ST 422 - Introduction to Mathematical Statistics II
--   **ST 501 - Fundamentals of Inference I**
--   **ST 502 - Fundamentals of Inference II**
--   ST 511 - Statistical Methods For Researchers I
--   ST 512 - Statistical Methods For Researchers II
--   **ST 513 - Statistics for Management and Social Sciences I**
--   **ST 514 - Statistics for Management and Social Sciences I** (I’ve
+  - **ST 307 - Introduction to Statistical Programming - SAS**
+  - **ST 308 - Introduction to Statistical Programming - R**
+  - ST 311 - Introduction to Statistics
+  - ST 370 - Probability and Statistics for Engineers
+  - ST 372 - Introduction to Statistical Inference and Regression
+  - ST 421 - Introduction to Mathematical Statistics I
+  - ST 422 - Introduction to Mathematical Statistics II
+  - **ST 501 - Fundamentals of Inference I**
+  - **ST 502 - Fundamentals of Inference II**
+  - ST 511 - Statistical Methods For Researchers I
+  - ST 512 - Statistical Methods For Researchers II
+  - **ST 513 - Statistics for Management and Social Sciences I**
+  - **ST 514 - Statistics for Management and Social Sciences I** (I’ve
     not been the instructor of record for this course.)
--   ST 521 - Statistical Theory I
--   **ST 554 - Big Data Analysis**
--   ST 555 - Statistical Programming I
--   **ST 558 - Introduction to Data Science**
+  - ST 521 - Statistical Theory I
+  - **ST 554 - Big Data Analysis**
+  - ST 555 - Statistical Programming I
+  - **ST 558 - Introduction to Data Science**
 
 If you are currently enrolled in one of these courses, the material for
 the classes is available on [wolfware](wolfware.ncsu.edu).

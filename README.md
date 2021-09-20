@@ -63,4 +63,4 @@ introductory programming courses (flipped courses).
 Education is my passion. I’m a big proponent of open educational
 resources and open-source software. I really enjoy curriculum
 development and course creation. Please peruse my site and contact me
-(`justin_post@ncsu.edu`) if you’d like to chat!
+(`justin_post@ncsu.edu`) if you’d like to chat\!
