@@ -54,6 +54,22 @@ li:last-child {
   border-right: none;
 }
 
+ul.blog {
+  border-left: 5px solid red;
+  background-color: #f1f1f1;
+  list-style-type: none;
+  padding: 10px 20px;
+}
+
+li.blog {
+  font-weight: bold;
+}
+
+li a.blog {
+  font-family: lucida;
+}
+
+
 hr.cool {
   border: 0;
   height: 2px;

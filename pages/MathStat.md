@@ -39,5 +39,18 @@
 
 ## List of posts:
 
-  - <a href = "Post1.html"> Post \#1 - description</a>
-  - <a href = "Post2.html"> Post \#2 - description</a>
+<ul class="blog">
+
+<li class="blog">
+
+<a class = "blog"> href = “Post1.html”\> Post \#1 - description</a>
+
+</li>
+
+<li class="blog">
+
+<a class = "blog"> href = “Post2.html”\> Post \#2 - description</a>
+
+</li>
+
+</ul>
