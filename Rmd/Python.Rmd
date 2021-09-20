@@ -6,4 +6,25 @@ output:
             before_body: ../render/menu.html
 ---
 
-Stuff!
+## Basics of Python  
+
+As part of our efforts to prepare our Online Master of Statistics and Applied Statistics and Data Management Certificate students, we've developed this short course on learning to use python.  
+
+The course is a free, open, non-credit course and is meant to provide training to our current graduate students on the basics of python so that learning how to use python doesn’t hinder their learning in the courses that use python in our programs.
+
+## Course Goals
+
+This course is designed to demonstrate the basic use of python for reading, manipulating, and plotting data via RStudio.  By the end of this course students will be able to:  
+
+- read and write basic notebooks using python
+- import well-formatted raw data with python
+- complete common data manipulation tasks in python
+- produce numerical and graphical summaries in python
+
+## Joining the Course  
+
+The course will be made available soon.  
+
+## Online Statistics Programs @ NC State  
+
+Want to join our online community?  [Check here for more information about our Online Master of Statistics and Online Graduate Certificate programs.](https://statistics.sciences.ncsu.edu/graduate/online-programs/) 

@@ -35,6 +35,4 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
-<a href = "MathStat.html">Link back to blog home.</a>
-
 Stuff 2

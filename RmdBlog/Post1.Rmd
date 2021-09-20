@@ -6,7 +6,5 @@ output:
             before_body: ../render/menu.html
 ---
 
-<a href = "MathStat.html">Link back to blog home.</a>
-
 Stuff 1
 

@@ -77,8 +77,11 @@ likelihood.
 
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/" target = "_blank">Normal Approx App</a>
 
-Normal Approximation to the Binomial distribution and to the Poisson
-distribution.
+The commonly used Normal approximations to the Binomial distribution and
+to the Poisson distribution are visualized in this app. Continuity
+corrections are shown visually and compared to the exac and
+non-corrected
+probabilities.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalApproximation/" target = "_blank"><img src="../images/NormApprox.png" alt=""></a>
 
@@ -86,9 +89,10 @@ distribution.
 
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/" target = "_blank">Sampling Dist App</a>
 
-Applet to visualize sampling distributions of different statistics from
-differing parent
-populations.
+This applet visualizes the sampling distribution of different
+statistics. The parent population can easily be changed to many of the
+commonly named distributions. Great for debunking the \(n>30\)
+myth.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/" target = "_blank"><img src="../images/SamplingDist.png" alt=""></a>
 
@@ -96,9 +100,13 @@ populations.
 
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/OrderStatsDist/" target = "_blank">Order Statistics App</a>
 
-Applet that simulates the distribution of an order statistic from a beta
-distribution random sample. The joint distribution is also visualized as
-well.
+This applet simulates the distribution of an order statistic from a
+random sample of beta random variables. One of the biggest issues in
+teaching this material is to get the students to understand that there
+is a distribution for, say, the smallest value from the sample\! The
+theory is given in the app along with a visualization of the joint
+distribution of two order
+statistics.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/OrderStatsDist/" target = "_blank"><img   src="../images/OrderStats.png" alt=""></a>
 
@@ -106,8 +114,8 @@ well.
 
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalPower/" target = "_blank">Normal Power App</a>
 
-Power applet to demonstrate ideas for a one sample mean test from a
-normal population with known
+A power applet to demonstrate the ideas surrounding power for a one
+sample mean test from a normal population with known
 variance.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/NormalPower/" target = "_blank"><img   src="../images/Power.png" alt=""></a>
@@ -116,8 +124,10 @@ variance.
 
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/ZScores/" target = "_blank">Z Score App</a>
 
-Applet to visualize the standardization of normal random
-variables.
+A basic applet to visualize probabilities for a Normally distributed
+random variable and the corresponding calculation for a Standard Normal
+random
+variable.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/ZScores/" target = "_blank"><img   src="../images/ZScores.png" alt=""></a>
 
@@ -125,8 +135,10 @@ variables.
 
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/Delta/" target = "_blank">Delta Method App</a>
 
-Applet to visualize and compare the first and second order delta
-method.
+An applet to visualize and compare the first and second order delta
+method approximations. Exact values for the transformation’s mean can be
+compared to the approximated
+values.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/Delta/" target = "_blank"><img   src="../images/Delta.png" alt=""></a>
 
@@ -134,9 +146,10 @@ method.
 
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/Transform/" target = "_blank">Transformation App</a>
 
-Applet to visualize the transformation from a Gamma to an Inverse Gamma
-Random
-Variable.
+An applet to visualize the transformation from a Gamma to an Inverse
+Gamma Random Variable. The app attempts to show how the CDFs of the
+original random variable and the transformed random variable
+behave.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/Transform/" target = "_blank"><img   src="../images/transform.png" alt=""></a>
 
