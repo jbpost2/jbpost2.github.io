@@ -11,7 +11,7 @@
             <a href="PhilosophyCourses.html">Philosophy & Courses</a>
             <a href="Online.html">Online Education</a>
             <a href="ShinyApps.html">R Shiny Teaching Apps</a>
-            <a href="MathStat.html">Teaching Math-Stat Blog</a>
+            <a href="MathStat.html">Teaching Mathematical Statistics Blog</a>
         </div>
      </li>
     
@@ -33,16 +33,62 @@
     <li class = "menu" style="float:right"><a href="CV.html">CV</a></li>
 </ul>
 
+<br style = "display: block; content: ""; margin-top: 10; ">
+
 ## Philosophy
 
-Just pull big points from my philosophy and talk about reaching groups.
+To facilitate success for our students and ultimately our programs, we
+should start at the administrative level by setting a **welcoming
+tone**, providing **thoughtful and dedicated advising**, and having a
+**purposeful and inclusive curriculum**. By setting **clear
+expectations** and having **open lines of communication** students can
+gauge how they are progressing in the program and if they are at risk or
+in need of help. We should intentionally create spaces and hold events
+to allow for informal interactions that help to promote a generally
+comfortable and welcoming environment for everyone.
 
-## Courses
+In an instructor role, I believe many of these same themes are vital.
+When teaching, my goals are to get *every* student excited and
+**motivated to learn**. I want to engage them in a discussion of the
+material that leads to a deeper understanding of both the details and
+the big picture concepts involved. By really involving them in this
+discussion, **critical thinking** and **problem solving** strategies can
+be honed and improved. To help our students thrive, creating a
+comfortable and interactive learning environment where students are free
+to question you and the material is of paramount importance.
 
-Teaching has always been a passion of mine. I am privileged to have
-taught both undergraduate and graduate courses, including many courses
-for our online Master’s program. The courses I’ve taught at NCSU are
-listed below. The courses I’ve designed and created are in bold.
+There are many ways I try to accomplish these goals when teaching,
+including:
+
+-   using **projects and capstone activities** that require problem
+    solving and high-level critical thinking
+-   engaging in **discussions with students** during class or through
+    discussion forums  
+-   employing **active learning** to help students take an active role
+    in their learning
+-   providing **clear expectations** for the day, topic, and semester
+-   utilizing **interesting, relevant, and culturally sensitive
+    motivating examples**
+-   teaching with **passion and enthusiasm** that is evident on a daily
+    basis
+-   obtaining **feedback** from our students to gauge misunderstandings
+    and muddy points
+-   implementing a **constant cycle of improvement** from semester to
+    semester
+
+I believe that if we can accomplish these goals, the sky is the limit
+for the learning that will occur in our classrooms and our programs. We
+can get the students interested and motivated about our material, we can
+get them to develop high-level critical thinking skills, and we can
+truly teach them skills and information they can use and take into the
+real world.
+
+## Courses Taught
+
+I’ve had the opportunity to teach both undergraduate and graduate
+courses, including many courses for our online Master’s program. The
+courses I’ve taught at NCSU are listed below. The courses I’ve designed
+or revamped are in bold.
 
 -   **ST 307 - Introduction to Statistical Programming - SAS**
 -   **ST 308 - Introduction to Statistical Programming - R**
@@ -56,9 +102,15 @@ listed below. The courses I’ve designed and created are in bold.
 -   ST 511 - Statistical Methods For Researchers I
 -   ST 512 - Statistical Methods For Researchers II
 -   **ST 513 - Statistics for Management and Social Sciences I**
+-   **ST 514 - Statistics for Management and Social Sciences I** (I’ve
+    not been the instructor of record for this course.)
 -   ST 521 - Statistical Theory I
+-   **ST 554 - Big Data Analysis**
 -   ST 555 - Statistical Programming I
 -   **ST 558 - Introduction to Data Science**
 
 If you are currently enrolled in one of these courses, the material for
 the classes is available on &lt;wolfware.ncsu.edu&gt;.
+
+I’ve also taught Calculus II and Differential Equations at the
+University of Mount Union.

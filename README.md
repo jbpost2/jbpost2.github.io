@@ -11,7 +11,7 @@
             <a href="pages/PhilosophyCourses.html">Philosophy & Courses</a>
             <a href="pages/Online.html">Online Education</a>
             <a href="pages/ShinyApps.html">R Shiny Teaching Apps</a>
-            <a href="pages/MathStat.html">Teaching Math-Stat Blog</a>
+            <a href="pages/MathStat.html">Teaching Mathematical Statistics Blog</a>
         </div>
      </li>
     
@@ -32,6 +32,8 @@
     <li class = "menu"><a href="pages/QL.html">Numeracy</a></li>
     <li class = "menu" style="float:right"><a href="pages/CV.html">CV</a></li>
 </ul>
+
+<br style = "display: block; content: ""; margin-top: 10; ">
 
 ## About Me
 
@@ -55,10 +57,10 @@ as a Teaching Assistant Professor.
 
 As Director of Online Education I am heading the efforts to improve and
 grow our online program, update and oversee some of our large
-undergraduate introductory courses (some sections a hybrid between
-online and in person), and administer a few of our introductory
-programming courses (flipped courses).
+undergraduate introductory courses, and administer a few of our
+introductory programming courses (flipped courses).
 
 Education is my passion. I’m a big proponent of open educational
-resources and open-source software. Please peruse my site and contact me
+resources and open-source software. I really enjoy curriculum
+development and course creation. Please peruse my site and contact me
 (`justin_post@ncsu.edu`) if you’d like to chat!

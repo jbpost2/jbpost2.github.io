@@ -11,7 +11,7 @@
             <a href="PhilosophyCourses.html">Philosophy & Courses</a>
             <a href="Online.html">Online Education</a>
             <a href="ShinyApps.html">R Shiny Teaching Apps</a>
-            <a href="MathStat.html">Teaching Math-Stat Blog</a>
+            <a href="MathStat.html">Teaching Mathematical Statistics Blog</a>
         </div>
      </li>
     
@@ -32,6 +32,8 @@
     <li class = "menu"><a href="QL.html">Numeracy</a></li>
     <li class = "menu" style="float:right"><a href="CV.html">CV</a></li>
 </ul>
+
+<br style = "display: block; content: ""; margin-top: 10; ">
 
 ## <a name = "DataMatters"></a> Data Matters Courses
 
