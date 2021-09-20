@@ -35,9 +35,6 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
-## Purpose & Rationale
+<a href = "MathStat.html">Link back to blog home.</a>
 
-## List of posts:
-
-  - <a href = "Post1.html"> Post \#1 - description</a>
-  - <a href = "Post2.html"> Post \#2 - description</a>
+Stuff 1
