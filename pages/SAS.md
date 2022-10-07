@@ -55,14 +55,14 @@ correlation and regression analysis is also discussed.
 
 By the end of this course students will be able to: - read and write SAS
 programs  
-\- import well-formatted raw data into SAS  
-\- complete common data manipulation tasks in SAS  
-\- produce numerical and graphical summaries in SAS - conduct a basic
+- import well-formatted raw data into SAS  
+- complete common data manipulation tasks in SAS  
+- produce numerical and graphical summaries in SAS - conduct a basic
 correlation and regression analysis
 
 ## Joining the Course
 
-If you’d like to join the course, please do\! [View the enrollment
+If you’d like to join the course, please do! [View the enrollment
 information.](https://docs.google.com/document/d/13M5UFpKpPUY3jyQKSrwg9rsctE7BeegXRY5fqLTkNCM/edit?usp=sharing)
 
 For those that just want to watch the video lectures from the course (no

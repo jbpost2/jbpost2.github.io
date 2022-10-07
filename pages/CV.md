@@ -36,4 +36,4 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
-Pull from usual CV…
+[PDF version](files/CV_Justin_Post.pdf)

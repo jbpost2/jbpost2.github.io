@@ -43,8 +43,7 @@ I’ve taught the following three courses for
 week-long series of one and two-day courses aimed at students and
 professionals in business, research, and government from 2016-2021. The
 material is open to anyone. Feel free to use these materials for any
-educational
-purpose\!
+educational purpose!
 
 <hr class = "cool">
 
@@ -68,24 +67,22 @@ outline is given below:
 
 Day 1:
 
-  - Basics of how `R` stores data
-  - `R` packages and the `tidyverse`
-  - Reading data from common formats into `R` (`readr` package)
-  - Using `R Markdown` for reproducibility (`rmarkdown` and `knitr`
+-   Basics of how `R` stores data
+-   `R` packages and the `tidyverse`
+-   Reading data from common formats into `R` (`readr` package)
+-   Using `R Markdown` for reproducibility (`rmarkdown` and `knitr`
     packages)
-  - Common data manipulations and creating new variables (`dplyr`
+-   Common data manipulations and creating new variables (`dplyr`
     package)
 
 Day 2:
 
-  - Reshaping data for summarizing and modeling (`tidyr` package)
-  - Types of data and numeric summaries (including across groups)
-  - Creating publication ready graphs (`ggplot2`
-package)
+-   Reshaping data for summarizing and modeling (`tidyr` package)
+-   Types of data and numeric summaries (including across groups)
+-   Creating publication ready graphs (`ggplot2` package)
 
 <a href = "https://jbpost2.github.io/Basics-of-R-for-Data-Science-and-Statistics/CourseFiles.html" target = "_blank">Here
-is the course
-site.</a>
+is the course site.</a>
 
 <hr class = "cool">
 
@@ -104,15 +101,13 @@ custom functions that will help to streamline code.
 The course provides a brief overview of `R` data structures followed by
 the following topics:
 
-  - Loops in `R`
-  - Vectorized functions (`apply` family of functions)
-  - How `R` functions work
-  - Function
-writing
+-   Loops in `R`
+-   Vectorized functions (`apply` family of functions)
+-   How `R` functions work
+-   Function writing
 
 <a href = "https://jbpost2.github.io/Improving-R-Programs/CourseFiles.html" target = "_blank">Here
-is the course
-site.</a>
+is the course site.</a>
 
 <hr class = "cool">
 
@@ -130,16 +125,14 @@ of interactive dashboards and web applets.
 
 Students will learn about the following topics:
 
-  - The `R Markdown` language
-  - How to automate reports with `R Markdown`
-  - Use of `git` and `github` for collaboration and version control
-  - Basic creation of websites through `Markdown` and `github`
-  - `R Shiny` web
-apps
+-   The `R Markdown` language
+-   How to automate reports with `R Markdown`
+-   Use of `git` and `github` for collaboration and version control
+-   Basic creation of websites through `Markdown` and `github`
+-   `R Shiny` web apps
 
 <a href = "https://jbpost2.github.io/R-for-Automating-Workflow-Sharing-Work/CourseFiles.html" target = "_blank">Here
-is the course
-site.</a>
+is the course site.</a>
 
 <hr class = "cool">
 
@@ -160,8 +153,7 @@ interactivity using `R Shiny`.
 The goals for the workshop were that teachers would leave being able to
 create HTML documents that provide documentation of their work, do
 common manipulations of data, produce customized graphics, and allow for
-interactivity with `R` using the `shiny`
-package.
+interactivity with `R` using the `shiny` package.
 
 <a href = "https://jbpost2.github.io/TeachingWithR/CourseFiles.html" target = "_blank">Here
 is the workshop site.</a>

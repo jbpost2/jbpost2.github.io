@@ -53,4 +53,4 @@ has a program to help guide students through the unknowns of a large
 university. When I first attended college I had no real idea about the
 types of opportunities that are available and which to focus on. In
 fact, I had never even considered graduate school until my senior year
-of college\!
+of college!

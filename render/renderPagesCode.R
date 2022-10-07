@@ -17,9 +17,15 @@ pages <- c("README",
            )
 
 lapply(pages, FUN = function(x){
-  rmarkdown::render(paste0("Rmd/", x, ".Rmd"), 
+  if(x == "README"){
+    rmarkdown::render(paste0("Rmd/", x, ".Rmd"), 
                     output_format = "github_document", 
                     output_file = paste0("../", x, ".md"), 
                     output_options = list(html_preview = FALSE)
-  )
+  )} else {
+    rmarkdown::render(paste0("Rmd/", x, ".Rmd"), 
+                      output_format = "github_document", 
+                      output_file = paste0("../pages/", x, ".md"), 
+                      output_options = list(html_preview = FALSE)
+    )}
 })
