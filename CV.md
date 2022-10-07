@@ -36,4 +36,4 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
-[PDF version](%22files/CV_Justin_Post.pdf%22)
+[PDF version](files/CV_Justin_Post.pdf)

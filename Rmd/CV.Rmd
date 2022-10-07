@@ -6,4 +6,4 @@ output:
             before_body: ../render/menu.html
 ---
 
-[PDF version]("files/CV_Justin_Post.pdf")
+[PDF version](files/CV_Justin_Post.pdf)
