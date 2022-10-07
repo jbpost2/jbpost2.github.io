@@ -61,25 +61,14 @@
 
 ## Professional Positions
 
-<div class="row">
-
-<div class="col-md-4" markdown="1">
-
-    6/2018 – present  
-    6/2018 – present  
-      </div>
-
-<div class="col-md-8" markdown="1">
-
-    Teaching Associate Professor at North Carolina State University  
-    Director of Online Education
-
-</div>
-
-</div>
+| Date             | Position                                                        |
+|:-----------------|:----------------------------------------------------------------|
+| 6/2018 – present | Teaching Associate Professor at North Carolina State University |
+| 6/2018 – present | Director of Online Education                                    |
 
 8/2013 – 5/2018 Teaching Assistant Professor at North Carolina State
-University 5/2015 – 5/2018 Director of Undergraduate Research
+University  
+5/2015 – 5/2018 Director of Undergraduate Research
 
 8/2012 – 5/2013 Assistant Professor at the University of Mount Union
 
@@ -90,25 +79,34 @@ University 5/2015 – 5/2018 Director of Undergraduate Research
 Life Sciences at North Carolina State University
 
 8/2007 – 5/2010 Teaching Assistant at North Carolina State University
-Director of Online Education Responsibilities
 
-Position goals: Improve and develop our online master of statistics and
-graduate certificate in applied statistics and data management programs.
-Provide guidance for other online/hybrid course offerings.
+## Director of Online Education Responsibilities
 
-Online master’s and certificate programs - Program direction o Created
-goals for master’s and certificate programs o Assessment of programs and
-student outcomes o Plan course offerings and update curriculum - Advise
-current and potential students - Developed student support and bridge
-materials o Online program orientation sessions o Created open
-programming courses o Hold sessions on useful/interesting topics
-(git/github, using the CLI, latex, makefiles, etc.) - Program
-advertisement and recruitment o Created and maintain online program
-websites o Write current student, alumni, and faculty spotlight articles
-o Established a virtual graduate program information session with
-in-person program director o Monitor google ad activity and keywords -
-Networking o Coordination of networking events and social media groups -
-Admissions for online master’s program
+### Position goals:
+
+Improve and develop our online master of statistics and graduate
+certificate in applied statistics and data management programs. Provide
+guidance for other online/hybrid course offerings.
+
+Online master’s and certificate programs
+
+-   Program direction
+    -   Created goals for master’s and certificate programs
+    -   Assessment of programs and student outcomes
+    -   Plan course offerings and update curriculum
+-   Advise current and potential students
+-   Developed student support and bridge materials
+    -   Online program orientation sessions o Created open programming
+        courses o Hold sessions on useful/interesting topics
+        (git/github, using the CLI, latex, makefiles, etc.)
+-   Program advertisement and recruitment o Created and maintain online
+    program websites o Write current student, alumni, and faculty
+    spotlight articles o Established a virtual graduate program
+    information session with in-person program director o Monitor google
+    ad activity and keywords
+-   Networking o Coordination of networking events and social media
+    groups
+-   Admissions for online master’s program
 
 Recording studio - Created lightboard and lecture recording space -
 Developed training materials and best practices for faculty and teaching
