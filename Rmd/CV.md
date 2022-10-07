@@ -248,7 +248,7 @@ time at NCSU
 -   Worked with statistics faculty to develop syllabi and expectations
     for projects suitable to undergraduates and language for inclusion
     of funding for projects in grant proposals. Projects needed to
-    include:
+    include
     -   Application of methods to real data
     -   Statistical programming
     -   Write-up and presentation of analysis and results to both
