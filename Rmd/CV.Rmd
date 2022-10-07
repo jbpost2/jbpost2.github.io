@@ -6,4 +6,4 @@ output:
             before_body: ../render/menu.html
 ---
 
-Pull from usual CV...
+[PDF version]("files/CV_Justin_Post.pdf")
