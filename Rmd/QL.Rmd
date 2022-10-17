@@ -6,7 +6,9 @@ output:
             before_body: ../render/menu.html
 ---
 
+## In-progress
 
+<!--
 ## QL at NC State
 
 Description and my role.  
@@ -14,3 +16,4 @@ Description and my role.
 ## Project with Bio
 
 Links to the activities too.
+-->

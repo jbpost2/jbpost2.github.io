@@ -36,10 +36,14 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
+## In-progress
+
+<!--
 ## QL at NC State
 
-Description and my role.
+Description and my role.  
 
 ## Project with Bio
 
 Links to the activities too.
+-->

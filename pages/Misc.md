@@ -36,6 +36,9 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
+## In-progress
+
+<!--
 ## SLG
 
 ## Undergrad Research
@@ -46,11 +49,7 @@
 
 ## Pack Promise Mentor
 
-Pack Promise is a…
+Pack Promise is a... 
 
-As a first generation college student myself, I’m really glad NC State
-has a program to help guide students through the unknowns of a large
-university. When I first attended college I had no real idea about the
-types of opportunities that are available and which to focus on. In
-fact, I had never even considered graduate school until my senior year
-of college!
+As a first generation college student myself, I'm really glad NC State has a program to help guide students through the unknowns of a large university.  When I first attended college I had no real idea about the types of opportunities that are available and which to focus on.  In fact, I had never even considered graduate school until my senior year of college!  
+-->

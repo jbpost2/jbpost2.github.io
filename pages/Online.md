@@ -36,9 +36,12 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
+## In-progress
+
+<!--
 ## Online program info and the role I play
 
-311 oversight too
+311 oversight too 
 
 ## Faculty Fellows
 
@@ -46,8 +49,10 @@
 
 ### Moodle Educator Certification
 
-### QM course certification
+### QM course certification  
 
-Also APPQMR certification.
+Also APPQMR certification.  
 
 ### Certificate of Reflective Teaching @ NC State
+
+-->

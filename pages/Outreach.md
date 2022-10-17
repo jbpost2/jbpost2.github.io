@@ -36,7 +36,10 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
-## Stat’n’Chat
+## In-progress
+
+<!--
+## Stat'n'Chat
 
 ## High School Collaboration
 
@@ -45,3 +48,5 @@
 ## JUNTOS
 
 ## Cary PD
+
+-->
