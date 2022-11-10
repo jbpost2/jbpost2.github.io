@@ -40,55 +40,103 @@
 
 <div style="float: right;">
 
-<img src = "../images/question.png" alt = "Courtesy: pixabay">
+<img src = "../images/question.png" alt = "Courtesy: pixabay. Idea image.">
 
 </div>
 
-To facilitate success for our students and ultimately our programs, we
-should start at the administrative level by setting a **welcoming
-tone**, providing **thoughtful and dedicated advising**, and having a
-**purposeful and inclusive curriculum**. By setting **clear
-expectations** and having **open lines of communication** students can
-gauge how they are progressing in the program and if they are at risk or
-in need of help. We should intentionally create spaces and hold events
-to allow for informal interactions that help to promote a generally
-**comfortable and welcoming environment** for everyone.
+As a teacher, my goals are to **make students feel welcome and
+supported** in the classroom, **motivate them to learn** the material,
+and **engage them in a discussion** of that material that leads to a
+deeper understanding of the concepts involved. By using active learning
+and involving them in a discussion of the material, students are forced
+to truly grapple with the ideas. This can **foster the critical thinking
+and problem solving skills** they need to succeed in and out of the
+classroom.
 
-In an instructor role, I believe many of these same themes are vital.
-When teaching, my goals are to get *every* student excited and
-**motivated to learn**. I want to engage them in a discussion of the
-material that leads to a deeper understanding of both the details and
-the big picture concepts involved. By really involving them in this
-discussion, **critical thinking** and **problem solving** strategies can
-be honed and improved. To help our students thrive, creating a
-comfortable and interactive learning environment where students are free
-to question you and the material is of paramount importance.
+To me the most important aspect of teaching is to create a comfortable,
+inclusive, and interactive learning environment for our students. **A
+welcoming classroom makes students feel confident enough to voice their
+questions and opinions and begin a dialogue with us.** To create a
+positive environment it is important to treat students with respect.
+This starts with a positive tone on the syllabus, clear expectations for
+success, and language about using preferred names and pronouns. In class
+I am careful to use examples that are inclusive and highlight
+contributions from underrepresented groups.
 
-There are many ways I try to accomplish these goals when teaching,
-including:
+<div style="float: left;">
 
--   using **projects and capstone activities** that require problem
-    solving and high-level critical thinking
--   engaging in **discussions with students** during class or through
-    discussion forums  
--   employing **active learning** to help students take an active role
-    in their learning
--   providing **clear expectations** for the day, topic, and semester
--   utilizing **interesting, relevant, and culturally sensitive
-    motivating examples**
--   teaching with **passion and enthusiasm** that is evident on a daily
-    basis
--   obtaining **feedback** from our students to gauge misunderstandings
-    and muddy points
--   implementing a **constant cycle of improvement** from semester to
-    semester
+<img src = "../images/mistake.png" alt = "Courtesy: Ok to make a mistake imag.">
 
-I believe that if we can accomplish these goals, the sky is the limit
-for the learning that will occur in our classrooms and our programs. We
-can get the students interested and motivated about our material, we can
-get them to develop high-level critical thinking skills, and we can
-truly teach them skills and information they can use and take into the
-real world.
+</div>
+
+In a face-to-face class I question the class about how what we are
+learning fits into the bigger picture narrative of the course. **This
+encourages discussions between the instructor and the students and helps
+to break down the usual passive learning, lecturer/listener paradigm and
+instead promotes active and engaged students.** In online courses I
+emulate this practice by recording shorter videos and including
+questions throughout. This helps the students to engage with the
+material and reflect on their learning process. I use discussion board
+posts to allow for student questions and participation in the larger
+conversation. In all of my courses I am unwaveringly positive when a
+student participates, whether they are right or wrong in their answer.
+The contribution is useful even when it is wrong as it allows us to
+discuss how we may have gone off track.
+
+I’m very careful to show the passion and enthusiasm for their learning
+on a daily basis. I make sure that they know I am there to support them
+and help them achieve at the highest level. **These efforts make
+students feel comfortable and that we have a mutual vested interest in
+the course.**
+
+<div style="float: right;">
+
+<img src = "../images/motivate.png" alt = "Motivation image.">
+
+</div>
+
+It is vitally important to motivate our students to be successful and
+set clear expectations for success. For me, this starts by being
+prepared at the beginning of the semester with a narrative for the
+entire course and by giving students clearly defined expectations of how
+to be successful. **Motivating students helps them to see the big
+picture concepts and make the important connections with other ideas in
+the course that lead to a deeper and more full understanding of the
+material.**
+
+I start each class with discussion of where we are in our narrative,
+what we are doing, and why we are doing it. This clearly places the
+material in their minds. Each topic in the course is introduced with a
+motivating example that allows them to see why it is useful and what
+they’ll be able to do once they’ve learned it. I’m careful to set clear
+goals for the level of understanding the students should have and how
+their learning will be assessed. The students are more motivated to
+achieve when they can easily see what they need to do to prosper in the
+course.
+
+Purposeful assessments are another way in which we can engage students
+in a discussion of the material. Along with the usual low stakes
+assessments, I love to give my students class projects, concept map
+assignments, and capstone projects. I usually require group work in
+these assignments to force the students to explain and defend their
+thinking to their peers. **These types of assessments require purposeful
+communication, problem solving, and high-level critical thinking that
+truly leads to a deeper, longer lasting, understanding.**
+
+Lastly, teaching requires that we do our best to never become passive.
+**We should always be refining our craft and learning new pedagogy.**
+Each class will be different and thus, we must adapt for the current
+batch of students. We should constantly ask for and incorporate student
+feedback. The students of ten years from now will surely be as different
+as students from ten years ago. We must continue to go to workshops,
+participate in faculty exchanges, and attend conferences.
+
+**I believe that if we can accomplish these goals, the sky’s the limit
+for the learning that will occur in our classrooms!** When students are
+comfortable in their learning environment, motivated to learn the
+material, and are constantly engaging with the material, we can get them
+to develop their problem solving and high-level critical thinking skills
+required to be successful.
 
 ## Courses Taught
 
@@ -123,7 +171,7 @@ curriculum. The courses I’ve designed or revamped are in bold.
 -   **ST 558 - Introduction to Data Science**
 
 If you are currently enrolled in one of these courses, the material for
-the classes is available on [wolfware](wolfware.ncsu.edu).
+the classes is available on [wolfware](https://www.wolfware.ncsu.edu).
 
 I’ve also taught Calculus II and Differential Equations at the
 University of Mount Union.
