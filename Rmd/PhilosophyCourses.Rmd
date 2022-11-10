@@ -43,7 +43,7 @@ Lastly, teaching requires that we do our best to never become passive. **We shou
 ## Courses Taught 
 
 <div style = "float: right;padding: 7px 7px 7px 7px;">
-  <img src = "../images/curriculum.jpg" alt = "Courtesy: NC State" width = "400">
+  <img src = "../images/curriculum.jpg" alt = "Courtesy: NC State" width = "275">
 </div>
 
 I've taught a lot of courses while at NC State, including many courses for our online Master's program. The courses I've taught are listed below.  I really enjoy creating new courses and creating a coherent curriculum.  The courses I've designed or revamped are in bold.

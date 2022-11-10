@@ -43,6 +43,12 @@ impact on student learning. Having visuals that can be modified by a
 user allows students to ask their own questions, explore, and deepen
 their understanding.
 
+<div style="float: right;padding: 7px 7px 7px 7px;">
+
+<img src = "../images/hex-shiny.png" alt = "Hex sticker from RStudio" width = "200">
+
+</div>
+
 R Shiny is a package in R that allows for the creation of dynamic
 visuals that can run R code on the back end. I use these types of apps
 in my teaching quite often. Below are some of the apps I use in my
@@ -148,14 +154,21 @@ original random variable and the transformed random variable behave.
 
 ## Other Useful <strong>Vis and App Sites</strong>
 
-### <a href="https://www.rossmanchance.com/applets/index2021.html" target = "_blank">Rossman Chance Apps</a>
-
+<ul>
+<li>
+<a href="https://www.rossmanchance.com/applets/index2021.html" target = "_blank">Rossman
+Chance Apps</a>
+</li>
+</ul>
 <blockquote cite="https://www.rossmanchance.com/applets/index2021.html">
 Rossman/Chance Applet Collection 2021
 </blockquote>
-
-### <a href="http://www.lock5stat.com/statkey/index.html" target = "_blank">Stat Key</a>
-
+<ul>
+<li>
+<a href="http://www.lock5stat.com/statkey/index.html" target = "_blank">Stat
+Key</a>
+</li>
+</ul>
 <blockquote cite="http://www.lock5stat.com/statkey/index.html">
 StatKey to accompany Statistics: Unlocking the Power of Data
 </blockquote>
