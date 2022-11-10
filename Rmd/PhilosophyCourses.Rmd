@@ -26,7 +26,7 @@ In a face-to-face class I question the class about how what we are learning fits
 I’m very careful to show the passion and enthusiasm for their learning on a daily basis.  I make sure that they know I am there to support them and help them achieve at the highest level. **These efforts make students feel comfortable and that we have a mutual vested interest in the course.**
 
 <div style = "float: right; padding: 7px 7px 7px 7px;">
-  <img src = "../images/motivation.png" alt = "Motivation image.">
+  <img src = "../images/motivation.png" alt = "Motivation image." width = "350">
 </div> 
 
 It is vitally important to motivate our students to be successful and set clear expectations for success. For me, this starts by being prepared at the beginning of the semester with a narrative for the entire course and by giving students clearly defined expectations of how to be successful. **Motivating students helps them to see the big picture concepts and make the important connections with other ideas in the course that lead to a deeper and more full understanding of the material.**

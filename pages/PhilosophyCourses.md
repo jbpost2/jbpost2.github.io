@@ -91,7 +91,7 @@ the course.**
 
 <div style="float: right; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/motivation.png" alt = "Motivation image.">
+<img src = "../images/motivation.png" alt = "Motivation image." width = "350">
 
 </div>
 
