@@ -13,7 +13,8 @@ pages <- c("README",
            "QL",
            "R",
            "SAS",
-           "ShinyApps"
+           "ShinyApps",
+           "TeachingLanding"
            )
 
 lapply(pages, FUN = function(x){
