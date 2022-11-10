@@ -140,9 +140,9 @@ required to be successful.
 
 ## Courses Taught
 
-<div style="float: right;">
+<div style="float: right;padding: 7px 7px 7px 7px;">
 
-<img src = "../images/wanttolearn.jpg" alt = "Courtesy: pixabay">
+<img src = "../images/curriculum.jpg" alt = "Courtesy: NC State">
 
 </div>
 
@@ -175,3 +175,10 @@ the classes is available on [wolfware](https://www.wolfware.ncsu.edu).
 
 I’ve also taught Calculus II and Differential Equations at the
 University of Mount Union.
+
+## Professional Development
+
+I’ve taught professional development workshops many times over the
+years. These mostly are concerned with statistical programming. You can
+find information about these courses on my [open education
+page](OpenEd.html).

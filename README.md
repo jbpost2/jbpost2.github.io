@@ -85,5 +85,4 @@ program.
 
 I have an oversight role for our large undergraduate introductory course
 (ST 311) and administer a few of our introductory programming courses
-(ST 307/308\_, which are flipped courses taught by our graduate
-students.
+(ST 307/308), which are flipped courses taught by our graduate students.

@@ -23,4 +23,4 @@ I'm a big proponent of open educational resources and open-source software. I've
 
 Recently, I've been serving as the Director of Online Education in our department. The main task of this role involves administering the [online Master of Statistics and online graduate certificates programs](https://statistics.sciences.ncsu.edu/graduate/online-programs/). I head the efforts to continually improve the programs and courses, assess the program goals, plan course offerings, help advise students, support student success, train and support faculty, and market the program.
 
-I have an oversight role for our large undergraduate introductory course (ST 311) and administer a few of our introductory programming courses (ST 307/308_, which are flipped courses taught by our graduate students.
+I have an oversight role for our large undergraduate introductory course (ST 311) and administer a few of our introductory programming courses (ST 307/308), which are flipped courses taught by our graduate students.

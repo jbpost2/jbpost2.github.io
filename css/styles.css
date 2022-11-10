@@ -65,3 +65,7 @@ hr.cool {
   background: #333;
   background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
+
+html *{
+  font-family: Lucida Console, Courier New, monospace;
+}
