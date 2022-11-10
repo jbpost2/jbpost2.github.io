@@ -8,7 +8,7 @@ output:
 
 ## Philosophy
 
-<div style = "float: right;">
+<div style = "float: right; padding: 7px 7px 7px 7px;">
   <img src = "../images/question.png" alt = "Courtesy: pixabay. Idea image.">
 </div> 
 
@@ -16,7 +16,7 @@ As a teacher, my goals are to **make students feel welcome and supported** in th
 
 To me the most important aspect of teaching is to create a comfortable, inclusive, and interactive learning environment for our students. **A welcoming classroom makes students feel confident enough to voice their questions and opinions and begin a dialogue with us.** To create a positive environment it is important to treat students with respect. This starts with a positive tone on the syllabus, clear expectations for success, and language about using preferred names and pronouns.  In class I am careful to use examples that are inclusive and highlight contributions from underrepresented groups.  
 
-<div style = "float: left;">
+<div style = "float: left; padding: 7px 7px 7px 7px;">
   <img src = "../images/mistake.png" alt = "Courtesy: Ok to make a mistake imag.">
 </div> 
 
@@ -25,8 +25,8 @@ In a face-to-face class I question the class about how what we are learning fits
 
 I’m very careful to show the passion and enthusiasm for their learning on a daily basis.  I make sure that they know I am there to support them and help them achieve at the highest level. **These efforts make students feel comfortable and that we have a mutual vested interest in the course.**
 
-<div style = "float: right;">
-  <img src = "../images/motivate.png" alt = "Motivation image.">
+<div style = "float: right; padding: 7px 7px 7px 7px;">
+  <img src = "../images/motivation.png" alt = "Motivation image.">
 </div> 
 
 It is vitally important to motivate our students to be successful and set clear expectations for success. For me, this starts by being prepared at the beginning of the semester with a narrative for the entire course and by giving students clearly defined expectations of how to be successful. **Motivating students helps them to see the big picture concepts and make the important connections with other ideas in the course that lead to a deeper and more full understanding of the material.**

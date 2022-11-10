@@ -38,7 +38,7 @@
 
 ## Philosophy
 
-<div style="float: right;">
+<div style="float: right; padding: 7px 7px 7px 7px;">
 
 <img src = "../images/question.png" alt = "Courtesy: pixabay. Idea image.">
 
@@ -63,7 +63,7 @@ success, and language about using preferred names and pronouns. In class
 I am careful to use examples that are inclusive and highlight
 contributions from underrepresented groups.
 
-<div style="float: left;">
+<div style="float: left; padding: 7px 7px 7px 7px;">
 
 <img src = "../images/mistake.png" alt = "Courtesy: Ok to make a mistake imag.">
 
@@ -89,9 +89,9 @@ and help them achieve at the highest level. **These efforts make
 students feel comfortable and that we have a mutual vested interest in
 the course.**
 
-<div style="float: right;">
+<div style="float: right; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/motivate.png" alt = "Motivation image.">
+<img src = "../images/motivation.png" alt = "Motivation image.">
 
 </div>
 
