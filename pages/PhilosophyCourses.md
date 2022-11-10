@@ -142,7 +142,7 @@ required to be successful.
 
 <div style="float: right;padding: 7px 7px 7px 7px;">
 
-<img src = "../images/curriculum.jpg" alt = "Courtesy: NC State">
+<img src = "../images/curriculum.jpg" alt = "Courtesy: NC State" width = "400">
 
 </div>
 

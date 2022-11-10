@@ -65,14 +65,15 @@ Education is my passion and the focus of my career. I really enjoy
 curriculum development and course creation, but being in the classroom
 (virtual or in-person) is definitely the best part of my job. I have a
 number of [interactive applications I use for teaching and a
-blog](Teaching.html) that I’m writing about teaching statistical theory
-if you’re interested. (I’m also happy to create new apps or modify the
-ones I have if you have a request!)
+blog](pages/Teaching.html) that I’m writing about teaching statistical
+theory if you’re interested. (I’m also happy to create new apps or
+modify the ones I have if you have a request!)
 
 I’m a big proponent of open educational resources and open-source
 software. I’ve [developed a number of programming courses for
-professional development and student/faculty support](OpenEd.html). The
-materials are all freely available on github if you’d like to use them.
+professional development and student/faculty
+support](pages/OpenEd.html). The materials are all freely available on
+github if you’d like to use them.
 
 Recently, I’ve been serving as the Director of Online Education in our
 department. The main task of this role involves administering the
