@@ -6,7 +6,7 @@
 <ul class = "menu">
     <li class = "menu"><a class = "menu" href="index.html">Home</a></li>
     <li class="menu dropdown">
-        <a href="pages/TeachingLanding.html" class="dropbtn">Teaching</a>
+        <a href="pages/Teaching.html" class="dropbtn">Teaching</a>
         <div class="dropdown-content">
             <a href="pages/PhilosophyCourses.html">Philosophy & Courses</a>
             <a href="pages/Online.html">Online Education</a>
@@ -16,7 +16,7 @@
      </li>
     
     <li class="menu dropdown">
-        <a href="javascript:void(0)" class="dropbtn">Open Ed</a>
+        <a href="pages/OpenEd.html" class="dropbtn">Open Ed</a>
         <div class="dropdown-content">
             <a href="pages/SAS.html">Basics of SAS Course</a>
             <a href="pages/Python.html">Basics of Python Course</a>
@@ -54,14 +54,36 @@ Department of Statistics at North Carolina State University.
 
 I have been involved in the department on and off since 2007. I was a
 graduate student from 2007-2012 and came back to the university in 2013
-as a Teaching Assistant Professor.
+as a Teaching Assistant Professor. NC State has a wonderful statistics
+department. If you have any questions about our graduate programs
+(especially our [online master’s of statistics or applied statistics and
+data management
+certificate](https://statistics.sciences.ncsu.edu/graduate/online-programs/)),
+please don’t hesitate to reach out to me at (`justin_post@ncsu.edu`)!
 
-As Director of Online Education I am heading the efforts to improve and
-grow our online program, update and oversee some of our large
-undergraduate introductory courses, and administer a few of our
-introductory programming courses (flipped courses).
+Education is my passion and the focus of my career. I really enjoy
+curriculum development and course creation, but being in the classroom
+(virtual or in-person) is definitely the best part of my job. I have a
+number of [interactive applications I use for teaching and a
+blog](Teaching.html) that I’m writing about teaching statistical theory
+if you’re interested. (I’m also happy to create new apps or modify the
+ones I have if you have a request!)
 
-Education is my passion. I’m a big proponent of open educational
-resources and open-source software. I really enjoy curriculum
-development and course creation. Please peruse my site and contact me
-(`justin_post@ncsu.edu`) if you’d like to chat!
+I’m a big proponent of open educational resources and open-source
+software. I’ve [developed a number of programming courses for
+professional development and student/faculty support](OpenEd.html). The
+materials are all freely available on github if you’d like to use them.
+
+Recently, I’ve been serving as the Director of Online Education in our
+department. The main task of this role involves administering the
+[online Master of Statistics and online graduate certificates
+programs](https://statistics.sciences.ncsu.edu/graduate/online-programs/).
+I head the efforts to continually improve the programs and courses,
+assess the program goals, plan course offerings, help advise students,
+support student success, train and support faculty, and market the
+program.
+
+I have an oversight role for our large undergraduate introductory course
+(ST 311) and administer a few of our introductory programming courses
+(ST 307/308\_, which are flipped courses taught by our graduate
+students.
