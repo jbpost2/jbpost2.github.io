@@ -259,18 +259,18 @@ Engagement & Activities with Professional Associations
     + 2016 VIP Consultant
 
 ## North Carolina State University Related Service
-|Data                      | Item |
-|:-------------------------|:-----|
+|Data                       | Item |
+|:--------------------------|:-----|
 |2019 – present             |Statistics department curriculum committee|
 |2017 – present             |GLBT Advocate|
 |2017 – present             |Teaching mentor to various statistics department faculty|
-|2015 – 2018, 2022 – present| Stat’n’Chat Organizer (Local Stat-Ed Group)|
-|2018 – 2021                | Quant Literacy Champion: Division of Academic and Student Affairs|
-|2020                       | Faculty Advisor to Deep Learning with R group|
-|2018 – 2020                | DELTA Faculty Fellow| 
+|2015 – 2018, 2022 – present|Stat’n’Chat Organizer (Local Stat-Ed Group)|
+|2018 – 2021                |Quant Literacy Champion: Division of Academic and Student Affairs|
+|2020                       |Faculty Advisor to Deep Learning with R group|
+|2018 – 2020                |DELTA Faculty Fellow| 
 |2017 – 2020                |Pack Promise Mentor (First Generation College Students)
-|2017 –2020                   | Goodnight scholar mentor|
+|2017 – 2020                |Goodnight scholar mentor|
 |2013 – 2018                |Faculty Advisor to Sports Analytics Club|
-|2014 –2017                 |Faculty Advisor to Statistical Learning Group|
+|2014 – 2017                |Faculty Advisor to Statistical Learning Group|
 
 
