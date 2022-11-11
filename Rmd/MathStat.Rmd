@@ -12,6 +12,15 @@ output:
 <!--
 ## Purpose & Rationale
 
+In most graduate (and undergraduate) statistics programs two theoretical courses on probability and statistics form the core theory courses. Usually the courses were taught solely using pen and paper where
+
+- the first course focused on probability theory and properties of random variables
+- the second course looked at finding estimators and their properties, forming confidence intervals, and deriving hypothesis tests
+
+While I don't think there is anything inherently wrong with the traditional setup for the courses, there are quite a few issues that often pop up:
+
+- probability 
+these courses were taught solely with pen and paperThe way that t
 
 ## List of posts:
 
