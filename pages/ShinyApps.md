@@ -39,15 +39,16 @@
 ## R Shiny Apps
 
 Creating visuals to explain concepts or to show nuances can make a huge
-impact on student learning. Having visuals that can be modified by a
-user allows students to ask their own questions, explore, and deepen
-their understanding.
+impact on student learning.
 
 <div style="float: right;padding: 7px 7px 7px 7px;">
 
-<img src = "../images/hex-shiny.png" alt = "Hex sticker from RStudio" width = "200">
+<img src = "../images/hex-shiny.png" alt = "Hex sticker from RStudio" width = "100">
 
 </div>
+
+Having visuals that can be modified by a user allows students to ask
+their own questions, explore, and deepen their understanding.
 
 R Shiny is a package in R that allows for the creation of dynamic
 visuals that can run R code on the back end. I use these types of apps
@@ -159,22 +160,30 @@ original random variable and the transformed random variable behave.
 <a href="https://www.rossmanchance.com/applets/index2021.html" target = "_blank">Rossman
 Chance Apps</a>
 </li>
-</ul>
+<ul>
+<li>
 <blockquote cite="https://www.rossmanchance.com/applets/index2021.html">
 Rossman/Chance Applet Collection 2021
 </blockquote>
-<ul>
+</li>
+</ul>
 <li>
 <a href="http://www.lock5stat.com/statkey/index.html" target = "_blank">Stat
 Key</a>
 </li>
-</ul>
+<ul>
+<li>
 <blockquote cite="http://www.lock5stat.com/statkey/index.html">
 StatKey to accompany Statistics: Unlocking the Power of Data
 </blockquote>
-
-### <a href = "https://sites.psu.edu/shinyapps/" target = "_blank">Penn State - Book of Apps for Statistics Teaching</a>
-
+</li>
+</ul>
+<li>
+<a href = "https://sites.psu.edu/shinyapps/" target = "_blank">Penn
+State - Book of Apps for Statistics Teaching</a>
+</li>
+<ul>
+<li>
 <blockquote cite="https://sites.psu.edu/shinyapps/">
 The book is laid out in twelve chapters with four at the introductory
 level covering topics in Data Gathering, Data Description, Basic
@@ -183,41 +192,68 @@ upper division level covering Probability, Regression, ANOVA, Time
 Series, Sampling, Categorical Data, Data Science, Stochastic Processes,
 and Biology.
 </blockquote>
-
-### <a href = "https://github.com/gastonstat/shiny-introstats/" target = "_blank">Gaston Sanchez - Apps for Feedman, Pisani, and Purves (2007)</a>
-
+</li>
+</ul>
+<li>
+<a href = "https://github.com/gastonstat/shiny-introstats/" target = "_blank">Gaston
+Sanchez - Apps for Feedman, Pisani, and Purves (2007)</a>
+</li>
+<ul>
+<li>
 <blockquote cite="https://github.com/gastonstat/shiny-introstats/">
 This is a collection of Shiny apps for introductory statistics courses
 based on the classic textbook Statistics by David Freedman, Robert
 Pisani, and Roger Purves (2007). Fourth Edition. Norton & Company.
 </blockquote>
-
-### <a href = "http://www.statistics.calpoly.edu/shiny" target = "_blank">Cal Poly apps</a>
-
+</li>
+</ul>
+<li>
+<a href = "http://www.statistics.calpoly.edu/shiny" target = "_blank">Cal
+Poly apps</a>
+</li>
+<ul>
+<li>
 <blockquote cite="http://www.statistics.calpoly.edu/shiny">
 Web Application Teaching Tools for Statistics Using R and Shiny.
 </blockquote>
-
-### <a href = "http://www2.stat.duke.edu/~mc301/shinyed/" target = "_blank">Apps by Brittany Cohen</a>
-
+</li>
+</ul>
+<li>
+<a href = "http://www2.stat.duke.edu/~mc301/shinyed/" target = "_blank">Apps
+by Brittany Cohen</a>
+</li>
+<ul>
+<li>
 <blockquote cite="http://www2.stat.duke.edu/~mc301/shinyed/">
 Statistics education apps created with Shiny.
 </blockquote>
-
-### <a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html" target = "_blank">Stat 2 Labs</a>
-
+</li>
+</ul>
+<li>
+<a href="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html" target = "_blank">Stat
+2 Labs</a>
+</li>
+<ul>
+<li>
 <blockquote cite="http://web.grinnell.edu/individuals/kuipers/stat2labs/Labs.html">
 This stat2labs site provides project-based materials that emphasize
 real-world applications and conceptual understanding. The materials are
 designed to ease the workload of faculty while still incorporating
 research-like experiences into their own classes.
 </blockquote>
-
-### <a href="http://www.distributome.org/" target = "_blank">Distributome.org</a>
-
+</li>
+</ul>
+<li>
+<a href="http://www.distributome.org/" target = "_blank">Distributome.org</a>
+</li>
+<ul>
+<li>
 <blockquote cite="http://www.distributome.org/">
 The Probability Distributome Project is an open-source, open
 content-development project for exploring, discovering, navigating,
 learning, and computational utilization of diverse probability
 distributions.
 </blockquote>
+</li>
+</ul>
+</ul>

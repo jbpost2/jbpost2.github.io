@@ -409,6 +409,6 @@ time at NCSU
 | 2020                        | Faculty Advisor to Deep Learning with R group                     |
 | 2018 – 2020                 | DELTA Faculty Fellow                                              |
 | 2017 – 2020                 | Pack Promise Mentor (First Generation College Students)           |
-| 2017 –2020                  | Goodnight scholar mentor                                          |
+| 2017 – 2020                 | Goodnight scholar mentor                                          |
 | 2013 – 2018                 | Faculty Advisor to Sports Analytics Club                          |
-| 2014 –2017                  | Faculty Advisor to Statistical Learning Group                     |
+| 2014 – 2017                 | Faculty Advisor to Statistical Learning Group                     |
