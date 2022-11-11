@@ -36,7 +36,25 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
-## In-progress
+## Open Educational Materials
 
-<!--Landing page
--->
+I’ve always been a fan of open source software (which is part of the
+reason to love R and python!). At NC State we have a great department
+where (almost) everyone is willing to share their materials. In an
+effort to continue the tradition of sharing and helping to educate
+everyone, I’ve tried to make many of my materials freely accessible
+online (via my
+<a href = "https://github.com/jbpost2?tab=repositories" target = "_blank">github
+account</a>). There you’ll find all of the code for the [shiny
+apps](ShinyApps.html) I’ve created and a lot of statistical programming
+material as well.
+
+-   <a href="SAS.html">Basics of SAS Course</a>
+-   <a href="Python.html">Basics of Python Course</a>
+-   <a href="R.html">Basics of R Course</a>
+-   <a href="OtherRCourses.html#TeachingWithR">Teaching with R</a>
+-   <a href="OtherRCourses.html#DataMatters">Basics of R for Data
+    Science and Statistics</a>
+-   <a href="OtherRCourses.html#DataMatters">Improving R Programs</a>
+-   <a href="OtherRCourses.html#DataMatters">R for Automating Workflow
+    and Sharing Work</a>

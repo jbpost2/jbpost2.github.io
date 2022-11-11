@@ -29,7 +29,7 @@ At NC State we decided to split our first year PhD theory courses from our maste
 
 The courses have been very well received. The main difficulty in transitioning the course to the format is finding an appropriate book to use that students can read and understand (and of course you can pull problems from!). For years I've used the book by John Rice - Mathematical Statistics and Data Analysis. The book is very solid but doesn't exactly go in the order used in my course and, of course, the changes to the traditional sequence aren't all there.
 
-As such, I've created a lot of notes, examples, and activities myself. The purpose of this blog is to share those examples and discuss the teaching of these types of courses!  There was an excellent [session at JSM 2022 about the modernization of the mathematical statistics sequence](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=220799) (in many of the same ways I'm discussing here). 
+As such, I've created a lot of notes, examples, and activities myself. The purpose of this blog is to share those examples and discuss the teaching of these types of courses!  There was an excellent <a href = "https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=220799" target = "_blank">session at JSM 2022 about the modernization of the mathematical statistics sequence</a> (in many of the same ways I'm discussing here). 
 
 
 ## List of posts:

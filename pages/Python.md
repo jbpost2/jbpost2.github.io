@@ -64,6 +64,7 @@ The course will be made available soon.
 
 ## Online Statistics Programs @ NC State
 
-Want to join our online community? [Check here for more information
-about our Online Master of Statistics and Online Graduate Certificate
-programs.](https://statistics.sciences.ncsu.edu/graduate/online-programs/)
+Want to join our online community?
+<a href ="https://statistics.sciences.ncsu.edu/graduate/online-programs/" target = "_blank">Check
+here for more information about our Online Master of Statistics and
+Online Graduate Certificate programs.</a>

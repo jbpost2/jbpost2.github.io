@@ -83,10 +83,10 @@ changes to the traditional sequence aren’t all there.
 
 As such, I’ve created a lot of notes, examples, and activities myself.
 The purpose of this blog is to share those examples and discuss the
-teaching of these types of courses! There was an excellent [session at
-JSM 2022 about the modernization of the mathematical statistics
-sequence](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=220799)
-(in many of the same ways I’m discussing here).
+teaching of these types of courses! There was an excellent
+<a href = "https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=220799" target = "_blank">session
+at JSM 2022 about the modernization of the mathematical statistics
+sequence</a> (in many of the same ways I’m discussing here).
 
 ## List of posts:
 

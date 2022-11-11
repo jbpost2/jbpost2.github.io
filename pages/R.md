@@ -61,10 +61,18 @@ students will be able to:
 
 ## Joining the Course
 
-The course will be made available soon.
+If you’d like to join the course, please do!
+<a href = "https://docs.google.com/document/d/1R5PCdHgdzzu9ZOh0Li8oII1O00CnEBcMar6xH9O9kys/edit?usp=sharing" target = "_blank">View
+the enrollment information.</a>
+
+For those that just want to watch the video lectures from the course (no
+access to the code, assignments, etc.) you can find the
+<a href = "https://bit.ly/R-playlist" target = "_blank">course videos at
+this playlist</a>.
 
 ## Online Statistics Programs @ NC State
 
-Want to join our online community? [Check here for more information
-about our Online Master of Statistics and Online Graduate Certificate
-programs.](https://statistics.sciences.ncsu.edu/graduate/online-programs/)
+Want to join our online community?
+<a href = "https://statistics.sciences.ncsu.edu/graduate/online-programs/" target ="_blank">Check
+here for more information about our Online Master of Statistics and
+Online Graduate Certificate programs.</a>

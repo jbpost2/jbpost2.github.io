@@ -171,7 +171,8 @@ curriculum. The courses I’ve designed or revamped are in bold.
 -   **ST 558 - Introduction to Data Science**
 
 If you are currently enrolled in one of these courses, the material for
-the classes is available on [wolfware](https://www.wolfware.ncsu.edu).
+the classes is available on
+<a href = "https://www.wolfware.ncsu.edu" target ="_blank">wolfware.
 
 I’ve also taught Calculus II and Differential Equations at the
 University of Mount Union.

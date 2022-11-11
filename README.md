@@ -56,10 +56,11 @@ I have been involved in the department on and off since 2007. I was a
 graduate student from 2007-2012 and came back to the university in 2013
 as a Teaching Assistant Professor. NC State has a wonderful statistics
 department. If you have any questions about our graduate programs
-(especially our [online master’s of statistics or applied statistics and
-data management
-certificate](https://statistics.sciences.ncsu.edu/graduate/online-programs/)),
-please don’t hesitate to reach out to me at (`justin_post@ncsu.edu`)!
+(especially our
+<a href = "https://statistics.sciences.ncsu.edu/graduate/online-programs/" target ="_blank">online
+master’s of statistics or applied statistics and data management
+certificate</a>), please don’t hesitate to reach out to me at
+(`justin_post@ncsu.edu`)!
 
 Education is my passion and the focus of my career. I really enjoy
 curriculum development and course creation, but being in the classroom
@@ -77,12 +78,11 @@ github if you’d like to use them.
 
 Recently, I’ve been serving as the Director of Online Education in our
 department. The main task of this role involves administering the
-[online Master of Statistics and online graduate certificates
-programs](https://statistics.sciences.ncsu.edu/graduate/online-programs/).
-I head the efforts to continually improve the programs and courses,
-assess the program goals, plan course offerings, help advise students,
-support student success, train and support faculty, and market the
-program.
+<a href = "https://statistics.sciences.ncsu.edu/graduate/online-programs/" target ="_blank">online
+Master of Statistics and online graduate certificates programs</a>. I
+head the efforts to continually improve the programs and courses, assess
+the program goals, plan course offerings, help advise students, support
+student success, train and support faculty, and market the program.
 
 I have an oversight role for our large undergraduate introductory course
 (ST 311) and administer a few of our introductory programming courses

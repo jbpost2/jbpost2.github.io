@@ -25,10 +25,10 @@ By the end of this course students will be able to:
 
 ## Joining the Course  
 
-If you'd like to join the course, please do!  [View the enrollment information.](https://docs.google.com/document/d/13M5UFpKpPUY3jyQKSrwg9rsctE7BeegXRY5fqLTkNCM/edit?usp=sharing)
+If you'd like to join the course, please do!  <a href = "https://docs.google.com/document/d/13M5UFpKpPUY3jyQKSrwg9rsctE7BeegXRY5fqLTkNCM/edit?usp=sharing" target = "_blank">View the enrollment information.</a>
 
-For those that just want to watch the video lectures from the course (no access to the code, assignments, etc.) you can find the [course videos at this playlist](https://bit.ly/SAS-playlist).  
+For those that just want to watch the video lectures from the course (no access to the code, assignments, etc.) you can find the <a href = "https://bit.ly/SAS-playlist" target = "_blank">course videos at this playlist</a>.  
 
 ## Online Statistics Programs @ NC State  
 
-Want to join our online community?  [Check here for more information about our Online Master of Statistics and Online Graduate Certificate programs.](https://statistics.sciences.ncsu.edu/graduate/online-programs/) 
+Want to join our online community?  <a href = "https://statistics.sciences.ncsu.edu/graduate/online-programs/" target ="_blank">Check here for more information about our Online Master of Statistics and Online Graduate Certificate programs.</a>
