@@ -43,7 +43,7 @@ Luckily I began teaching online pre-pandemic which allowed for a smooth
 transition during ‘the COVID years’ (shutters). I started teaching ST
 501/502 (Fundamentals of Statistical Inference I/II) in the online
 format for our [online master of statistics
-program](https://statistics.sciences.ncsu.edu/graduate/online-programs/)
+program](https://statistics.sciences.ncsu.edu/graduate/online-programs/){:target=“\_blank”}
 in 2015. I took over as director of the online program (and certificate
 program) in 2018 and since then have been almost solely teaching online
 and developing online courses.
@@ -92,13 +92,14 @@ semester.
 ## Faculty Fellows
 
 From 2018 to 2020 I served as a [DELTA Faculty
-Fellow](https://delta.ncsu.edu/about-delta/meet-our-faculty-fellows/).
+Fellow](https://delta.ncsu.edu/about-delta/meet-our-faculty-fellows/){:target=“\_blank”}.
 DELTA (Digital Education and Learning Technology Applications) is the
 group on campus that handles and trains people on most all of our
 [digital education components (Moodle, Zoom, Panopto,
-etc.)](https://ncsu.service-now.com/delta?id=delta_home). DELTA is
-really the group that sets our university up for success in the online
-space. I can’t say enough great things about the people over there!
+etc.)](https://ncsu.service-now.com/delta?id=delta_home){:target=“\_blank”}.
+DELTA is really the group that sets our university up for success in the
+online space. I can’t say enough great things about the people over
+there!
 
 As a faculty fellow I had the opportunity to discuss teaching best
 practices for online and flipped courses, training of teaching
@@ -108,11 +109,12 @@ assistants, and more!
 
 Through a DELTA grant (did I mention they are awesome?) I was able to
 gain further training in teaching online and obtain [QM
-certification](https://www.qualitymatters.org/) for my ST 558 - Data
-Science for Statisticians course.
+certification](https://www.qualitymatters.org/){:target=“\_blank”} for
+my ST 558 - Data Science for Statisticians course.
 
 There is a [dedicated group at
-DELTA](https://delta.ncsu.edu/course-planning/delta-grants/) (led by
-Bethanne Winzeler and Jill Anderson) that takes a cohort of faculty
-through the QM certification process each year. I now happily serve as a
-faculty mentor for other folks going through QM certification process!
+DELTA](https://delta.ncsu.edu/course-planning/delta-grants/){:target=“\_blank”}
+(led by Bethanne Winzeler and Jill Anderson) that takes a cohort of
+faculty through the QM certification process each year. I now happily
+serve as a faculty mentor for other folks going through QM certification
+process!
