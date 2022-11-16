@@ -27,10 +27,10 @@
             <a href="OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
-    <li class = "menu"><a class = "menu" href="Articles.html">Articles</a></li>
+<!--    <li class = "menu"><a class = "menu" href="Articles.html">Articles</a></li>
     <li class = "menu"><a class = "menu" href="Outreach.html">Outreach</a></li>
     <li class = "menu"><a class = "menu" href="QL.html">Numeracy</a></li>
-    <li class = "menu"><a class = "menu" href="Misc.html">Misc.</a></li>
+    <li class = "menu"><a class = "menu" href="Misc.html">Misc.</a></li>-->
     <li class = "menu" style="float:right"><a class = "menu" href="CV.html">CV</a></li>
 </ul>
 
@@ -74,6 +74,11 @@ clear need for supplemental basic programming courses to get everyone up
 to speed. I developed courses in [R](R.html) and [SAS](SAS.html) (python
 coming soon) which are freely available to anyone, not just our graduate
 students.
+
+I’ve met a ton of awesome and interesting people in our online programs.
+If you are interested, there are
+<a href= "https://statistics.sciences.ncsu.edu/graduate/online-programs/online-students-faculty/" target ="_blank">articles
+about some of them here</a>!
 
 ### Oversight of Hybrid Courses
 

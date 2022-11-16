@@ -20,6 +20,8 @@ In this role I’ve had the opportunity to rethink the graduate program curricul
 
 As we try to incorporate computing into all of our courses, there was a clear need for supplemental basic programming courses to get everyone up to speed. I developed courses in [R](R.html) and [SAS](SAS.html) (python coming soon) which are freely available to anyone, not just our graduate students. 
 
+I've met a ton of awesome and interesting people in our online programs. If you are interested, there are <a href= "https://statistics.sciences.ncsu.edu/graduate/online-programs/online-students-faculty/" target ="_blank">articles about some of them here</a>!
+
 ### Oversight of Hybrid Courses
 
 As part of the role I've also had oversight of some of our large enrollment undergraduate courses that are taught in a hybrid or flipped manner with graduate students hosting the in-person portions of the class.  
