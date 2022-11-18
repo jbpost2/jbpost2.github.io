@@ -1,23 +1,11 @@
 #Code to render each webpage
 
-pages <- c("README", 
-           "Articles",
-           "CV",
-           "MathStat",
-           "Misc",
-           "Online",
-           "OtherRCourses",
-           "Outreach",
-           "PhilosophyCourses",
-           "Python",
-           "QL",
-           "R",
-           "SAS",
-           "ShinyApps",
-           "Teaching",
-           "OpenEd"
-           )
+#grab names from the Rmd folder
+to_render <- list.files("Rmd")
+#pull off just the name without the .Rmd
+pages <- unlist(strsplit(to_render, split = ".Rmd"))
 
+#now render all the pages. Need a separate case for the README due to the menu level differences
 lapply(pages, FUN = function(x){
   if(x == "README"){
     rmarkdown::render(paste0("Rmd/", x, ".Rmd"), 
