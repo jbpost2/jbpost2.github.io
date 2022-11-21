@@ -36,12 +36,6 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
-One of the things I really love about NC State is the abundant
-opportunities to get involved!
+# Sports Stats
 
--   [Outreach & Diversity](OutreachDiversity.html)
--   [Undergraduate Research](UndergradResearch.html)
--   [Statistical Learning Group](StatisticalLearningGroup.html) @ NC
-    State
--   [Sports Statistics](SportsStats.html)
--   [Articles, Workshops, & Misc](ArticlesWorkshops.html)
+In progress
