@@ -6,6 +6,8 @@ output:
             before_body: ../render/menu.html
 ---
 
+## Statistical Learning Group
+
 For a few years I had the pleasure of being the faculty mentor to the statistical learning group (SLG).  The group was originally formed by [Jami Jackson](https://www.linkedin.com/in/jami-mulgrave-ph-d-3419445/), [Neal Grantham](https://www.linkedin.com/in/nsgrantham/), [Joshua Day](https://www.linkedin.com/in/joshday/), [Dendi Suhubdy](https://www.linkedin.com/in/dendisuhubdy/), and [Brian Gaines](https://www.linkedin.com/in/briangainesstats/). Later Todd Wilson and [Kara Martinez](https://www.linkedin.com/in/kara-martinez-1163a4152/) led the group. All awesome people!
 
 The group had four major goals:

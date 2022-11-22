@@ -15,19 +15,17 @@ We usually meet monthly on Friday for dinner and discussion.  If you are interes
 
 ## Cary Academy
 
-I met [Craig Lazarksi](https://www.linkedin.com/in/craig-lazarski/) and Kristi Ramey as their instructor in our online master's program. They are both local and teach in the math department at [Cary Academy](https://www.caryacademy.org/). 
+I met [Craig Lazarksi](https://www.linkedin.com/in/craig-lazarski/) and Kristi Ramey as their instructor in our online master's program. They are both local and teach in the math department at [Cary Academy](https://www.caryacademy.org/).
 
 <div style = "float: right; padding: 7px 7px 7px 7px;">
-  <img src = "../images/CraigAward.jpg" alt = "Craig with his Honor a Teacher Award" width = "350">
+  <img src = "../images/CraigAward.jpg" alt = "Craig with his Honor a Teacher Award" width = "150">
   Craig was recently awarded the Cary Chamber of Commerce Honor a Teacher Award!
 </div> 
-
 As fellow educators we struck up a friendship. They approached me about a collaboration with their high school 'statculus' course and I was excited to join in. This course had a lot of flexibility but blended calculus ideas with statistics (and a bit of R).
 
 <div style = "float: left; padding: 7px 7px 7px 7px;">
   <img src = "../images/JustinCaryAcademy.jpg" alt = "Justin teaching at Cary Academy" width = "350">
 </div> 
-
 I taught six guest lectures around the ideas of using a model to predict, including quantifying quality of predictions using loss functions and how calculus is important to those ideas. The methods we focused on were multiple linear regression and k-nearest neighbors.  In the end we had the students break into teams and compete in a kaggle competition (inactive one but still a great experience). It was a great experience and we hope to continue with similar collaborations.
 
 You can find [information about the material presented here](https://github.com/jbpost2/caryAcademy).
@@ -46,7 +44,7 @@ You can see our [github repo here](https://github.com/jbpost2/Edu-tastic) and yo
 [Juntos](https://juntos.dasa.ncsu.edu/#) is a program that NC State started in 2007 to 'provide high school Latino students and their families with the knowledge, skills, and resources to ensure high school graduate and increase college access and attendance rates.'
 
 <div style = "float: right; padding: 7px 7px 7px 7px;">
-  <img src = "../images/TL-2.png" alt = "Juntos timeline" width = "350">
+  <img src = "../images/TL-2.png" alt = "Juntos timeline" width = "300">
 </div> 
 
 I got started with the group in 2017 when one of our undergraduate students did a project with them. After meeting with them, we decided to have an undergraduate internship/research type position there for a few semesters. During this time I helped them to completely revamp their data collection and reporting processes (we went from individual excel files and manually tabulation to a database with an online form their mentors could use with automated reporting). Our student [Didier Turcios](https://www.linkedin.com/in/didierturcios/) held the internship position there for a year and now serves as their program evaluator! (He's also a current statistician at RTI International and in our online master's of statistics program.)
@@ -64,14 +62,13 @@ Grant did a great job working through the data and literature (he ultimately wen
 
 ## GLBT advocate
 
-<div style = "float: right; padding: 7px 7px 7px 7px;">
-  <img src = "../images/WWW.RespectPack.2017.jpg" alt = "NC State Talley" width = "350">
-</div> 
-
 > The GLBT Advocate Program is intended to be a continuing education and engagement program for NC State faculty and staff. The Program is designed to provide faculty and staff with ongoing opportunities for learning and for showing their support as Allies and Advocates of the GLBT community. Faculty and staff who would like to participate in the Program agree to complete one educational workshop and attend one GLBT event on campus each year. 
 
-I've enjoyed being a [GLBT advocate](https://diversity.ncsu.edu/glbt/glbt-advocate-list/
-) since 2017. The program is really educational and has helped me to understand barriers and issues faced by those in the GLBT community.
+<div style = "float: right; padding: 7px 7px 7px 7px;">
+  <img src = "../images/WWW.RespectPack.2017.jpg" alt = "NC State Talley" width = "250">
+</div> 
+
+I've enjoyed being a [GLBT advocate](https://diversity.ncsu.edu/glbt/glbt-advocate-list/) since 2017. The program is really educational and has helped me to understand barriers and issues faced by those in the GLBT community.
 
 
 ## Pack Promise Mentor

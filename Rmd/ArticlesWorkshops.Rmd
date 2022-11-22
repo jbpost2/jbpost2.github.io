@@ -7,9 +7,12 @@ output:
 ---
 
 In progress
+
 <!--
 ## NC State workshops and slides here
 
 ## Articles from FF, etc.
+
+Add wordcloud video from youtube to web
 
 -->

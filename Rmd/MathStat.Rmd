@@ -7,7 +7,7 @@ output:
 ---
 
 
-## Purpose & Rationale
+## Math Stat Blog Purpose & Rationale
 
 In most graduate (and undergraduate) statistics programs two courses on probability and statistics form the core theory courses. Historically, the courses were taught solely using pen and paper where:
 

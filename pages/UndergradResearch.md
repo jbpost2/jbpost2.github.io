@@ -27,7 +27,8 @@
             <a href="OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
-    <li class = "menu"><a class = "menu" href="OtherActivities.html">Other Activities</a>
+    <li class = "menu dropdown">
+      <a class = "dropbtn" href="OtherActivities.html">Other Activities</a>
         <div class="dropdown-content">
             <a href="OutreachDiversity.html">Outreach & Diversity</a>
             <a href="UndergradResearch.html">Undergraduate Research</a>
@@ -41,6 +42,8 @@
 
 <br style = "display: block; content: ''; margin-top: 10; ">
 
+
+## Undergraduate Research
 
 For three years I led the departmental efforts to improve access to
 research for undergraduate students. Students involved in UR gain sought
@@ -64,8 +67,9 @@ My goals as the Director of Undergraduate Research were:
 
 Providing clear expectations about the projects really helped the
 students and faculty. ([See here for an example blank
-contract.](files/UndergradResearchFiles/ProjectSyllabus.docx)) We
-required that each project should (almost always) include the following:
+contract.](https://github.com/jbpost2/jbpost2.github.io/blob/main/files/UndergradResearchFiles/ProjectSyllabus.docx))
+We required that each project should (almost always) include the
+following:
 
 -   the use of software
 -   a striking visual demonstration (graph or video) to highlight the
@@ -88,17 +92,17 @@ required):
         end when they had a solid elevator speech to both the lay and
         statistical audience.  
 -   filling out [a weekly progress
-    form](files/UndergradResearchFiles/MeetingProgressForm.docx) with
-    their advisor at each meeting
+    form](https://github.com/jbpost2/jbpost2.github.io/blob/main/files/UndergradResearchFiles/MeetingProgressForm.docx)
+    with their advisor at each meeting
 
-I organized a session around [undergraduate research as JSM
-2018](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215256)
-([slides available
-here](files/UndergradResearchFiles/Post_Justin_Implementing_a_Department-wide_Undergraduate_Research_Program_153.pdf)).
+I organized a session around
+<a href = "https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215256" target = "_blank">undergraduate
+research as JSM 2018</a> ([slides available
+here](https://github.com/jbpost2/jbpost2.github.io/blob/main/files/UndergradResearchFiles/Post_Justin_Implementing_a_Department-wide_Undergraduate_Research_Program_153.pdf)).
 Unfortunately, with a change in leadership the role disappeared when I
 moved to being Director of Online Education. I still have lots of
 thoughts about UR at a departmental level. If you want to chat about it,
 please reach out!
 
-The [Council on undergraduate research](https://www.cur.org/) has a lot
-of great resources.
+The <a href = "https://www.cur.org" target = "_blank">Council on
+undergraduate research</a> has a lot of great resources.

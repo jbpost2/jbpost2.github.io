@@ -27,7 +27,8 @@
             <a href="OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
-    <li class = "menu"><a class = "menu" href="OtherActivities.html">Other Activities</a>
+    <li class = "menu dropdown">
+      <a class = "dropbtn" href="OtherActivities.html">Other Activities</a>
         <div class="dropdown-content">
             <a href="OutreachDiversity.html">Outreach & Diversity</a>
             <a href="UndergradResearch.html">Undergraduate Research</a>
@@ -42,9 +43,13 @@
 <br style = "display: block; content: ''; margin-top: 10; ">
 
 
-In progress <!--
+In progress
+
+<!--
 ## NC State workshops and slides here
 
 ## Articles from FF, etc.
+
+Add wordcloud video from youtube to web
 
 -->

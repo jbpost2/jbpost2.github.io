@@ -6,6 +6,8 @@ output:
             before_body: ../render/menu.html
 ---
 
+## Other Activities
+
 One of the best things about NC State is the abundant opportunities to get involved! Below you can read about a few of the fun things I've had the chance to do.
 
 - [Outreach & Diversity](OutreachDiversity.html)

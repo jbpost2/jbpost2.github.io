@@ -27,7 +27,8 @@
             <a href="OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
-    <li class = "menu"><a class = "menu" href="OtherActivities.html">Other Activities</a>
+    <li class = "menu dropdown">
+      <a class = "dropbtn" href="OtherActivities.html">Other Activities</a>
         <div class="dropdown-content">
             <a href="OutreachDiversity.html">Outreach & Diversity</a>
             <a href="UndergradResearch.html">Undergraduate Research</a>
@@ -63,7 +64,7 @@ Academy](https://www.caryacademy.org/).
 
 <div style="float: right; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/CraigAward.jpg" alt = "Craig with his Honor a Teacher Award" width = "350">
+<img src = "../images/CraigAward.jpg" alt = "Craig with his Honor a Teacher Award" width = "150">
 Craig was recently awarded the Cary Chamber of Commerce Honor a Teacher
 Award!
 
@@ -116,7 +117,7 @@ graduate and increase college access and attendance rates.’
 
 <div style="float: right; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/TL-2.png" alt = "Juntos timeline" width = "350">
+<img src = "../images/TL-2.png" alt = "Juntos timeline" width = "300">
 
 </div>
 
@@ -162,12 +163,6 @@ initial findings of some differences in traffic stop distributions.
 
 ## GLBT advocate
 
-<div style="float: right; padding: 7px 7px 7px 7px;">
-
-<img src = "../images/WWW.RespectPack.2017.jpg" alt = "NC State Talley" width = "350">
-
-</div>
-
 > The GLBT Advocate Program is intended to be a continuing education and
 > engagement program for NC State faculty and staff. The Program is
 > designed to provide faculty and staff with ongoing opportunities for
@@ -175,6 +170,12 @@ initial findings of some differences in traffic stop distributions.
 > GLBT community. Faculty and staff who would like to participate in the
 > Program agree to complete one educational workshop and attend one GLBT
 > event on campus each year.
+
+<div style="float: right; padding: 7px 7px 7px 7px;">
+
+<img src = "../images/WWW.RespectPack.2017.jpg" alt = "NC State Talley" width = "250">
+
+</div>
 
 I’ve enjoyed being a [GLBT
 advocate](https://diversity.ncsu.edu/glbt/glbt-advocate-list/) since
