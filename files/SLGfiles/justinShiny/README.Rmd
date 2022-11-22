@@ -1,8 +1,16 @@
+---
+output: 
+  github_document:
+    html_preview: FALSE
+---
+
 ```{r, echo = FALSE, results = 'asis'}
 to_render <- list.files()
 links <- sapply(X = to_render, FUN = function(x){
-  paste0("[", x, "](",x,")<br>")
+  paste0("<li>[", x, "](",x,")</li><br>")
 })
 names(links) <- NULL
-noquote(links)
+cat(noquote("<ul>"))
+cat(noquote(links))
+cat(noquote("</ul>"))
 ```
