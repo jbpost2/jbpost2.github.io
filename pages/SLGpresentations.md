@@ -81,21 +81,22 @@ below. The presentations were:
 -   Neal Grantham: Building a website with `jekyll`
 -   Chris Krut: Gaussian Processes in Machine Learning
 -   Justin Post: `Shiny` in `RStudio`
-    ([files](../files/SLGfiles/justinShiny),
+    ([files](https://github.com/jbpost2/jbpost2.github.io/tree/main/files/SLGfiles/justinShiny),
     [videos](https://www.youtube.com/watch?v=ohIOWfj_O-I&list=PLZ8YyTHkWK9y33rnFOChUHJf_k6dSNaBl))
 -   Brad Turnbull: Text Mining
     ([files](../files/SLGfiles/brad/Turnbull_TextAnalytics.pdf),
     [videos](https://www.youtube.com/watch?v=uY-L2PV2hWI&list=PLZ8YyTHkWK9xzrDnepBCd0LgeYEW33s84))
--   Adam Suarez: `R` Tips & Tricks ([files](../files/SLGfiles/adam/),
+-   Adam Suarez: `R` Tips & Tricks
+    ([files](https://github.com/jbpost2/jbpost2.github.io/tree/main/files/SLGfiles/adam/),
     [videos](https://www.youtube.com/watch?v=ErObi5v9hCs&list=PLZ8YyTHkWK9zkCiHur9DY6FMxH2jXhi3E))
 -   Suchit Mehrotra: Bayesian Methods for Missing Data
-    ([files](../files/SLGfiles/suchit),
+    ([files](https://github.com/jbpost2/jbpost2.github.io/tree/main/files/SLGfiles/suchit),
     [videos](https://www.youtube.com/watch?v=0XcrWoFZ1rI&list=PLZ8YyTHkWK9yyYnjT1fyaB-pwZw9tpBiH))
 
 ### Fall 2015
 
 -   Neal Grantham: The Hitchhiker’s Guide to Deep Learning
-    ([files](../files/SLGfiles/neal/deeplearning/hitchhikers-guide),
+    ([files](https://github.com/jbpost2/jbpost2.github.io/tree/main/files/SLGfiles/neal/deeplearning/hitchhikers-guide),
     [videos](https://www.youtube.com/watch?v=ITW1XlGLK1A&list=PLZ8YyTHkWK9yHXllnqk9UuiRzx22HQkDz))
 -   Dendi Suhubdy: Deep Learning for Images
     ([files](../files/SLGfiles/dendi/DeepLearningForImages.pptx),
@@ -121,10 +122,10 @@ below. The presentations were:
     ([files](https://www4.stat.ncsu.edu/~dickey/),
     [videos](https://www.youtube.com/watch?v=HwVWkhMEY5g&list=PLZ8YyTHkWK9ybDWMDnOkaCuEbOXIugPJS))
 -   Justin Post: Analysis of a Dataset and More with Trees
-    ([files](../files/SLGfiles/justinTrees),
+    ([files](https://github.com/jbpost2/jbpost2.github.io/tree/main/files/SLGfiles/justinTrees),
     [videos](https://www.youtube.com/watch?v=WyExDt9XSfo&list=PLZ8YyTHkWK9w7tGhRlKuh0iE8ea7z1LD_))
 -   Todd Wilson: Support Vector Machines
-    ([files](../files/SLGfiles/todd/SVM),
+    ([files](https://github.com/jbpost2/jbpost2.github.io/tree/main/files/SLGfiles/todd/SVM),
     [videos](https://www.youtube.com/watch?v=eiLfl-_AVus&list=PLZ8YyTHkWK9wbwJHfyyYRvHzZBWl_iKcC))
 -   Josh Day: Introduction to Julia
     ([files](../files/SLGfiles/josh/SLG-09_26_14-V2.html),
@@ -134,7 +135,7 @@ below. The presentations were:
 -   Isaac Michaud: Bayesian Optimization
     ([files](../files/SLGfiles/isaac/bayesianoptimization.pdf))
 -   Todd Wilson: `apply()` Yourself
-    ([files](../files/SLGfiles/todd/apply),
+    ([files](https://github.com/jbpost2/jbpost2.github.io/tree/main/files/SLGfiles/apply),
     [videos](https://www.youtube.com/watch?v=iZq5U3BzBVc&list=PLZ8YyTHkWK9xxkzaQmgOGgMC3kpf-ansS))
 
 ### Spring 2017
@@ -143,11 +144,11 @@ below. The presentations were:
     ([files](../files/SLGfiles/jess/Hadoop.pdf),
     [videos](https://www.youtube.com/watch?v=UdluRvNywuc))
 -   Isaac Michaud: Parallel Computing in R
-    ([files](../files/SLGfiles/isaac/parallel))
+    ([files](https://github.com/jbpost2/jbpost2.github.io/tree/main/files/SLGfiles/parallel))
 -   Kara Martinez: Is it Numbers? ([files](../files/SLGfiles/kara),
     [videos](https://www.youtube.com/watch?v=I46w5J9hiYU&list=PLZ8YyTHkWK9xHFwd4yiV3MJRbHcYLIee1))
 -   Jami Jackson Mulgrave: Gaussian Graphical Models
-    ([files](../files/SLGfiles/jami/GMM),
+    ([files](https://github.com/jbpost2/jbpost2.github.io/tree/main/files/SLGfiles/jami/GMM),
     [videos](https://www.youtube.com/watch?v=5pDAfvDexoY&list=PLZ8YyTHkWK9xF1nl8G7CqsvyetNWfMKA-))
 -   Amanda Muyskens: Introduction to Spectral Methods
     ([files](../files/SLGfiles/amanda/IntroToSpectralDomain.pptx))
@@ -161,12 +162,12 @@ below. The presentations were:
     Learning Important? ([files](../files/SLGfiles/todd/SLGIntro.pdf),
     [videos](https://www.youtube.com/watch?v=5TpHbbicj8s))
 -   Justin Post: Introduction to R Shiny
-    ([files](../files/SLGfiles/justinShiny2))
+    ([files](https://github.com/jbpost2/jbpost2.github.io/tree/main/files/SLGfiles/justinShiny2))
 -   Isaac Michaud: Approximate Bayes Computation
-    ([files](../files/SLGfiles/isaac/ApproxBayesComp),
+    ([files](https://github.com/jbpost2/jbpost2.github.io/tree/main/files/SLGfiles/isaac/ApproxBayesComp),
     [videos](https://www.youtube.com/watch?v=JIYY22zAJok))
 -   Pat Samranvedhya: Multivariate Mediation
     ([files](https://prezi.com/p/imrlwu7yuvaz/),
     [videos](https://www.youtube.com/watch?v=bKHW6bINWz4))
 -   Joyce Cahoon: The `purr` Package and Docker Containers
-    ([files](../files/SLGfiles/joyce))
+    ([files](https://github.com/jbpost2/jbpost2.github.io/tree/main/files/SLGfiles/joyce))
