@@ -6,9 +6,6 @@ output:
             before_body: ../render/menu.html
 ---
 
-
-## Undergrad Research (UR)
-
 For three years I led the departmental efforts to improve access to research for undergraduate students.
 Students involved in UR gain sought after critical thinking skills and often form a deeper connection with the department (this being very important as our department's undergraduate program has grown a ton over the past 15 years).
 

@@ -27,14 +27,20 @@
             <a href="OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
-    <li class = "menu"><a class = "menu" href="OtherActivities.html">Other Activities</a></li>
-    <!--<li class = "menu"><a class = "menu" href="Outreach.html">Outreach</a></li>
-    <li class = "menu"><a class = "menu" href="QL.html">Numeracy</a></li>
-    <li class = "menu"><a class = "menu" href="Misc.html">Misc.</a></li>-->
+    <li class = "menu"><a class = "menu" href="OtherActivities.html">Other Activities</a>
+        <div class="dropdown-content">
+            <a href="OutreachDiversity.html">Outreach & Diversity</a>
+            <a href="UndergradResearch.html">Undergraduate Research</a>
+            <a href="StatisticalLearningGroup.html">Statistical Learning Group</a>
+            <a href="SportsStats">Sports Statistics</a>
+            <a href="ArticlesWorkshops">Articles, Workshops, Quantitative Literacy, & More</a>
+        </div>
+    </li>
     <li class = "menu" style="float:right"><a class = "menu" href="CV.html">CV</a></li>
 </ul>
 
 <br style = "display: block; content: ''; margin-top: 10; ">
+
 
 ## Stat’n’Chat
 
@@ -50,16 +56,69 @@ list!
 
 ## Cary Academy
 
-In progress <!--
-Met Craig Lazarski and Kristi Ramey @ cary academy
--->
+I met [Craig Lazarksi](https://www.linkedin.com/in/craig-lazarski/) and
+Kristi Ramey as their instructor in our online master’s program. They
+are both local and teach in the math department at [Cary
+Academy](https://www.caryacademy.org/).
+
+<div style="float: right; padding: 7px 7px 7px 7px;">
+
+<img src = "../images/CraigAward.jpg" alt = "Craig with his Honor a Teacher Award" width = "350">
+Craig was recently awarded the Cary Chamber of Commerce Honor a Teacher
+Award!
+
+</div>
+
+As fellow educators we struck up a friendship. They approached me about
+a collaboration with their high school ‘statculus’ course and I was
+excited to join in. This course had a lot of flexibility but blended
+calculus ideas with statistics (and a bit of R).
+
+<div style="float: left; padding: 7px 7px 7px 7px;">
+
+<img src = "../images/JustinCaryAcademy.jpg" alt = "Justin teaching at Cary Academy" width = "350">
+
+</div>
+
+I taught six guest lectures around the ideas of using a model to
+predict, including quantifying quality of predictions using loss
+functions and how calculus is important to those ideas. The methods we
+focused on were multiple linear regression and k-nearest neighbors. In
+the end we had the students break into teams and compete in a kaggle
+competition (inactive one but still a great experience). It was a great
+experience and we hope to continue with similar collaborations.
+
+You can find [information about the material presented
+here](https://github.com/jbpost2/caryAcademy).
+
+## NC Education Datathon
+
+The North Carolina Department of Education put on an education datathon
+to analyze the digital divide in North Carolina. I particpated on a team
+with [Victoria Seng](https://www.linkedin.com/in/victoria-seng/), Craig
+Lazarski, and Kristi Ramey. Our team placed first (the other team
+members did 95% of the work, I was mostly just advising!) and we won the
+$2000 dollar prize!
+
+You can see our [github repo
+here](https://github.com/jbpost2/Edu-tastic) and you can see our final
+presentation below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qPrM3FqpAf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 ## Juntos
 
-Juntos is a program that NC State started in 2007 to ‘provide high
-school Latino students and their families with the knowledge, skills,
-and resources to ensure high school graduate and increase college access
-and attendance rates.’
+[Juntos](https://juntos.dasa.ncsu.edu/#) is a program that NC State
+started in 2007 to ‘provide high school Latino students and their
+families with the knowledge, skills, and resources to ensure high school
+graduate and increase college access and attendance rates.’
+
+<div style="float: right; padding: 7px 7px 7px 7px;">
+
+<img src = "../images/TL-2.png" alt = "Juntos timeline" width = "350">
+
+</div>
 
 I got started with the group in 2017 when one of our undergraduate
 students did a project with them. After meeting with them, we decided to
@@ -102,6 +161,12 @@ State). Ultimately we stopped hearing back from the Cary PD after our
 initial findings of some differences in traffic stop distributions.
 
 ## GLBT advocate
+
+<div style="float: right; padding: 7px 7px 7px 7px;">
+
+<img src = "../images/WWW.RespectPack.2017.jpg" alt = "NC State Talley" width = "350">
+
+</div>
 
 > The GLBT Advocate Program is intended to be a continuing education and
 > engagement program for NC State faculty and staff. The Program is
