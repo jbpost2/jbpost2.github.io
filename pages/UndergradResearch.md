@@ -67,9 +67,8 @@ My goals as the Director of Undergraduate Research were:
 
 Providing clear expectations about the projects really helped the
 students and faculty. ([See here for an example blank
-contract.](https://github.com/jbpost2/jbpost2.github.io/blob/main/files/UndergradResearchFiles/ProjectSyllabus.docx))
-We required that each project should (almost always) include the
-following:
+contract.](../files/UndergradResearchFiles/ProjectSyllabus.docx)) We
+required that each project should (almost always) include the following:
 
 -   the use of software
 -   a striking visual demonstration (graph or video) to highlight the
@@ -92,13 +91,13 @@ required):
         end when they had a solid elevator speech to both the lay and
         statistical audience.  
 -   filling out [a weekly progress
-    form](https://github.com/jbpost2/jbpost2.github.io/blob/main/files/UndergradResearchFiles/MeetingProgressForm.docx)
-    with their advisor at each meeting
+    form](../files/UndergradResearchFiles/MeetingProgressForm.docx) with
+    their advisor at each meeting
 
 I organized a session around
 <a href = "https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215256" target = "_blank">undergraduate
 research as JSM 2018</a> ([slides available
-here](https://github.com/jbpost2/jbpost2.github.io/blob/main/files/UndergradResearchFiles/Post_Justin_Implementing_a_Department-wide_Undergraduate_Research_Program_153.pdf)).
+here](../files/UndergradResearchFiles/Post_Justin_Implementing_a_Department-wide_Undergraduate_Research_Program_153.pdf)).
 Unfortunately, with a change in leadership the role disappeared when I
 moved to being Director of Online Education. I still have lots of
 thoughts about UR at a departmental level. If you want to chat about it,
