@@ -57,16 +57,15 @@ list!
 
 ## Cary Academy
 
-I met [Craig Lazarksi](https://www.linkedin.com/in/craig-lazarski/) and
-Kristi Ramey as their instructor in our online master’s program. They
-are both local and teach in the math department at [Cary
-Academy](https://www.caryacademy.org/).
+I met [Craig Lazarksi](https://www.linkedin.com/in/craig-lazarski/)
+(winner of the Cary Chamber of Commerce Honor a Teacher Award in 2022!
+see picture below for proof) and Kristi Ramey as their instructor in our
+online master’s program. They are both local and teach in the math
+department at [Cary Academy](https://www.caryacademy.org/).
 
 <div style="float: right; padding: 7px 7px 7px 7px;">
 
 <img src = "../images/CraigAward.jpg" alt = "Craig with his Honor a Teacher Award" width = "150">
-Craig was recently awarded the Cary Chamber of Commerce Honor a Teacher
-Award!
 
 </div>
 
@@ -178,9 +177,9 @@ initial findings of some differences in traffic stop distributions.
 </div>
 
 I’ve enjoyed being a [GLBT
-advocate](https://diversity.ncsu.edu/glbt/glbt-advocate-list/) since
-2017. The program is really educational and has helped me to understand
-barriers and issues faced by those in the GLBT community.
+advocate](https://diversity.ncsu.edu/glbt/glbt-advocate-list/). The
+program is really educational and has helped me to understand barriers
+and issues faced by those in the GLBT community.
 
 ## Pack Promise Mentor
 
