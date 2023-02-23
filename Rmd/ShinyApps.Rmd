@@ -88,6 +88,14 @@ An applet to visualize the transformation from a Gamma to an Inverse Gamma Rando
 
 <hr class = "cool"> 
 
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/TvsZ/" target = "_blank">Comparing the T distribution to the Standard Normal App</a>
+
+This application visualizes the standard normal distribution and t distributions with user specified degrees of freedom.  Probabilities can be calculated from each distribution and compared.
+
+<a href="https://shiny.stat.ncsu.edu/jbpost2/TvsZ/" target = "_blank"><img   src="../images/TvsZ.png" alt=""></a>
+
+<hr class = "cool"> 
+
 ## Other Useful <strong>Vis and App Sites</strong>
 
 <ul>

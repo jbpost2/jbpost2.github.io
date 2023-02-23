@@ -56,12 +56,12 @@ account</a>). There you’ll find all of the code for the [shiny
 apps](ShinyApps.html) I’ve created and a lot of statistical programming
 material as well.
 
--   <a href="SAS.html">Basics of SAS Course</a>
--   <a href="Python.html">Basics of Python Course</a>
--   <a href="R.html">Basics of R Course</a>
--   <a href="OtherRCourses.html#TeachingWithR">Teaching with R</a>
--   <a href="OtherRCourses.html#DataMatters">Basics of R for Data
-    Science and Statistics</a>
--   <a href="OtherRCourses.html#DataMatters">Improving R Programs</a>
--   <a href="OtherRCourses.html#DataMatters">R for Automating Workflow
-    and Sharing Work</a>
+- <a href="SAS.html">Basics of SAS Course</a>
+- <a href="Python.html">Basics of Python Course</a>
+- <a href="R.html">Basics of R Course</a>
+- <a href="OtherRCourses.html#TeachingWithR">Teaching with R</a>
+- <a href="OtherRCourses.html#DataMatters">Basics of R for Data Science
+  and Statistics</a>
+- <a href="OtherRCourses.html#DataMatters">Improving R Programs</a>
+- <a href="OtherRCourses.html#DataMatters">R for Automating Workflow and
+  Sharing Work</a>

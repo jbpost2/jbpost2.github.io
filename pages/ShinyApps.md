@@ -102,7 +102,7 @@ non-corrected probabilities.
 
 This applet visualizes the sampling distribution of different
 statistics. The parent population can easily be changed to many of the
-commonly named distributions. Great for debunking the *n* \> 30 myth.
+commonly named distributions. Great for debunking the $n>30$ myth.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/SamplingDistribution/" target = "_blank"><img src="../images/SamplingDist.png" alt=""></a>
 
@@ -157,6 +157,16 @@ Gamma Random Variable. The app attempts to show how the CDFs of the
 original random variable and the transformed random variable behave.
 
 <a href="https://shiny.stat.ncsu.edu/jbpost2/Transform/" target = "_blank"><img   src="../images/transform.png" alt=""></a>
+
+<hr class = "cool">
+
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/TvsZ/" target = "_blank">Comparing the T distribution to the Standard Normal App</a>
+
+This application visualizes the standard normal distribution and t
+distributions with user specified degrees of freedom. Probabilities can
+be calculated from each distribution and compared.
+
+<a href="https://shiny.stat.ncsu.edu/jbpost2/TvsZ/" target = "_blank"><img   src="../images/TvsZ.png" alt=""></a>
 
 <hr class = "cool">
 

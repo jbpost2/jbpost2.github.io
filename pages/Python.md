@@ -60,10 +60,10 @@ This course is designed to demonstrate the basic use of python for
 reading, manipulating, and plotting data via RStudio. By the end of this
 course students will be able to:
 
--   read and write basic notebooks using python
--   import well-formatted raw data with python
--   complete common data manipulation tasks in python
--   produce numerical and graphical summaries in python
+- read and write basic notebooks using python
+- import well-formatted raw data with python
+- complete common data manipulation tasks in python
+- produce numerical and graphical summaries in python
 
 ## Joining the Course
 

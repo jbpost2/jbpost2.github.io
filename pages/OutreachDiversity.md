@@ -98,7 +98,7 @@ to analyze the digital divide in North Carolina. I particpated on a team
 with [Victoria Seng](https://www.linkedin.com/in/victoria-seng/), Craig
 Lazarski, and Kristi Ramey. Our team placed first (the other team
 members did 95% of the work, I was mostly just advising!) and we won the
-$2000 dollar prize!
+\$2000 dollar prize!
 
 You can see our [github repo
 here](https://github.com/jbpost2/Edu-tastic) and you can see our final

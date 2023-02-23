@@ -94,9 +94,9 @@ enrollment undergraduate courses that are taught in a hybrid or flipped
 manner with graduate students hosting the in-person portions of the
 class.
 
--   ST 311 – Introduction to Statistics (direct oversight one semester)
--   ST 307 – Introduction to Statistical Programming – R
--   ST 308 – Introduction to Statistical Programming – SAS
+- ST 311 – Introduction to Statistics (direct oversight one semester)
+- ST 307 – Introduction to Statistical Programming – R
+- ST 308 – Introduction to Statistical Programming – SAS
 
 Each of 311 and 307/308 enrolls approximately 800 students per regular
 semester.

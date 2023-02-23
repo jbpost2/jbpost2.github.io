@@ -49,20 +49,19 @@ In most graduate (and undergraduate) statistics programs two courses on
 probability and statistics form the core theory courses. Historically,
 the courses were taught solely using pen and paper where:
 
--   the first course focused on probability theory and properties of
-    random variables
--   the second course looked at finding estimators and their properties,
-    forming confidence intervals, and deriving hypothesis tests
+- the first course focused on probability theory and properties of
+  random variables
+- the second course looked at finding estimators and their properties,
+  forming confidence intervals, and deriving hypothesis tests
 
 While I don’t think there is anything inherently wrong with the
 traditional setup for the courses, there are a few issues that often pop
 up:
 
--   intuition about the theory often gets lost in the details
--   the mathematics and calculus used in derivations obscures the
-    concepts
--   linking theory and practice can be difficult for those just entering
-    the statistics discipline
+- intuition about the theory often gets lost in the details
+- the mathematics and calculus used in derivations obscures the concepts
+- linking theory and practice can be difficult for those just entering
+  the statistics discipline
 
 At NC State we decided to split our first year PhD theory courses from
 our master’s level theory courses. I had the opportunity to design these
@@ -70,15 +69,15 @@ new master’s level courses! With this fantastic opportunity I tried to
 modernize the treatment of the theory courses. While the core theory is
 still covered, I put an emphasis on:
 
--   the infusion of computing (via R) to simulate data for exploration
-    of concepts and gaining intuition about results
--   provide a dedicated focus on the ‘why’ of the material linking the
-    ideas to statistical inference in the first course rather than
-    waiting until the second course
--   utilizing Monte Carlo simulation studies to look at large-sample
-    theory and the performance of competing confidence interval and
-    hypothesis testing methods
--   introducing modern ideas such as the bootstrap and MCMC sampling
+- the infusion of computing (via R) to simulate data for exploration of
+  concepts and gaining intuition about results
+- provide a dedicated focus on the ‘why’ of the material linking the
+  ideas to statistical inference in the first course rather than waiting
+  until the second course
+- utilizing Monte Carlo simulation studies to look at large-sample
+  theory and the performance of competing confidence interval and
+  hypothesis testing methods
+- introducing modern ideas such as the bootstrap and MCMC sampling
 
 The courses have been very well received. The main difficulty in
 transitioning the course to the format is finding an appropriate book to
@@ -97,7 +96,7 @@ sequence</a> (in many of the same ways I’m discussing here).
 
 ## List of posts:
 
--   Coming soon
+- Coming soon
 
 <!--
 - <a class = "blog" href = "Post1.html"> Post #1 - description</a>

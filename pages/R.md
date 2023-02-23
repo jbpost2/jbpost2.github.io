@@ -60,11 +60,11 @@ This course is designed to demonstrate the basic use of R for reading,
 manipulating, and plotting data via RStudio. By the end of this course
 students will be able to:
 
--   read and write basic R programs
--   import well-formatted raw data into R using the `tidyverse`
--   complete common data manipulation tasks in R using the `tidyverse`
--   produce numerical and graphical summaries in R in `baseR` and the
-    `tidyverse`
+- read and write basic R programs
+- import well-formatted raw data into R using the `tidyverse`
+- complete common data manipulation tasks in R using the `tidyverse`
+- produce numerical and graphical summaries in R in `baseR` and the
+  `tidyverse`
 
 ## Joining the Course
 

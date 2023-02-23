@@ -49,22 +49,22 @@
 
 **Ph.D.**, Statistics
 
--   North Carolina State University, Raleigh, NC
--   Title: Methods to Improve Prediction Accuracy Using Structural
-    Constraints
--   Advisor: Howard D. Bondell
--   Research interests: Statistics Education, Online Education, Adaptive
-    Learning, Statistics in Sports, Data Science, Quantitative Literacy
+- North Carolina State University, Raleigh, NC
+- Title: Methods to Improve Prediction Accuracy Using Structural
+  Constraints
+- Advisor: Howard D. Bondell
+- Research interests: Statistics Education, Online Education, Adaptive
+  Learning, Statistics in Sports, Data Science, Quantitative Literacy
 
 **Master of Statistics**
 
--   North Carolina State University. Raleigh, NC
--   Concentration in Biomedical Statistics
+- North Carolina State University. Raleigh, NC
+- Concentration in Biomedical Statistics
 
 **Bachelor of Science** in Mathematics
 
--   Penn State Erie, The Behrend College. Erie, PA
--   Minor in Statistics
+- Penn State Erie, The Behrend College. Erie, PA
+- Minor in Statistics
 
 ## Professional Positions
 
@@ -89,128 +89,126 @@ guidance for other online/hybrid course offerings.
 
 #### Online master’s and certificate programs
 
--   Program direction
-    -   Created goals for master’s and certificate programs
-    -   Assessment of programs and student outcomes
-    -   Plan course offerings and update curriculum
--   Advise current and potential students  
--   Developed student support and bridge materials
-    -   Online program orientation sessions
-    -   Created open programming courses
-    -   Hold sessions on useful/interesting topics (git/github, using
-        the CLI, latex, makefiles, etc.)
--   Program advertisement and recruitment
-    -   Created and maintain online program websites
-    -   Write current student, alumni, and faculty spotlight articles
-    -   Established a virtual graduate program information session with
-        in-person program director
-    -   Monitor google ad activity and keywords
--   Networking
-    -   Coordination of networking events and social media groups
--   Admissions for online master’s program
+- Program direction
+  - Created goals for master’s and certificate programs
+  - Assessment of programs and student outcomes
+  - Plan course offerings and update curriculum
+- Advise current and potential students  
+- Developed student support and bridge materials
+  - Online program orientation sessions
+  - Created open programming courses
+  - Hold sessions on useful/interesting topics (git/github, using the
+    CLI, latex, makefiles, etc.)
+- Program advertisement and recruitment
+  - Created and maintain online program websites
+  - Write current student, alumni, and faculty spotlight articles
+  - Established a virtual graduate program information session with
+    in-person program director
+  - Monitor google ad activity and keywords
+- Networking
+  - Coordination of networking events and social media groups
+- Admissions for online master’s program
 
 #### Recording studio
 
--   Created lightboard and lecture recording space
--   Developed training materials and best practices for faculty and
-    teaching assistant use
+- Created lightboard and lecture recording space
+- Developed training materials and best practices for faculty and
+  teaching assistant use
 
 #### Coordination of Large Introductory Courses
 
--   ST 311 – Introduction to Statistics (direct oversight one semester)
--   ST 307 – Introduction to Statistical Programming – R
--   ST 308 – Introduction to Statistical Programming – SAS
-    -   Approximately 800-1000 students per semester in each of ST 311
-        and ST 307/308
-    -   Provide training to in-person and hybrid teaching assistant
-        instructors
-    -   Development and updating of course materials
+- ST 311 – Introduction to Statistics (direct oversight one semester)
+- ST 307 – Introduction to Statistical Programming – R
+- ST 308 – Introduction to Statistical Programming – SAS
+  - Approximately 800-1000 students per semester in each of ST 311 and
+    ST 307/308
+  - Provide training to in-person and hybrid teaching assistant
+    instructors
+  - Development and updating of course materials
 
 ## Teaching & Curriculum Activity
 
 ### Traditional (face-to-face) Course Development
 
--   Created ST 501 and ST 502 (Fundamentals of Statistical Inference I
-    & II)
-    -   Statistics master’s degree core courses also serving financial
-        mathematics students and graduate students interested in a PhD
-        minor in statistics.  
-    -   Modern treatment of theory with simulation (via the R software)
-        used throughout to enhance understanding and intuition
-    -   Created interactive applications to allow students to
-        investigate topics visually
-    -   Students implement simulation studies to investigate competing
-        confidence interval and hypothesis testing methods
+- Created ST 501 and ST 502 (Fundamentals of Statistical Inference I &
+  II)
+  - Statistics master’s degree core courses also serving financial
+    mathematics students and graduate students interested in a PhD minor
+    in statistics.  
+  - Modern treatment of theory with simulation (via the R software) used
+    throughout to enhance understanding and intuition
+  - Created interactive applications to allow students to investigate
+    topics visually
+  - Students implement simulation studies to investigate competing
+    confidence interval and hypothesis testing methods
 
 ### Hybrid (or flipped) Course Development
 
--   Created ST 308 – Introduction to Statistical Programming – R (one
-    credit)
--   Transformed ST 307 – Introduction to Statistical Programming – SAS
-    (one credit)
-    -   Both courses are required for statistics majors/minors and
-        students form the College of Management
-    -   Interactive videos used as the lecture component with short
-        follow up quizzes
-    -   I lead and train a team of teaching assistants that facilitate
-        the hands-on in-person programming activities
+- Created ST 308 – Introduction to Statistical Programming – R (one
+  credit)
+- Transformed ST 307 – Introduction to Statistical Programming – SAS
+  (one credit)
+  - Both courses are required for statistics majors/minors and students
+    form the College of Management
+  - Interactive videos used as the lecture component with short follow
+    up quizzes
+  - I lead and train a team of teaching assistants that facilitate the
+    hands-on in-person programming activities
 
 ### Online Course Development
 
--   Created ST 558 - Data Science for Statisticians (R based)
-    -   Statistics master’s elective and graduate certificate course
-    -   Deep dive into the use of R, R Markdown, the tidyverse, good
-        programming practices, and the creation of dashboards via R
-        Shiny
-    -   Survey of common machine learning methods, creation of APIs, and
-        use of containers (via docker)
-    -   Comprehensive projects used to build a portfolio on github
-    -   Obtained Quality Matters certification of the course in Summer
-        2020
--   Created ST 554 (pending course approval, ST 590) – Analysis of Big
-    Data (python based)
-    -   Statistics master’s elective and graduate certificate course
-    -   Deep dive into the use of python (along with commonly used
-        packages such as pandas, numpy, and scikit-learn), jupyter lab,
-        and good programming practices
-    -   Use of spark (via pyspark) to handle, summarize, and model big
-        data via pipelines
--   Developed ST 513 and ST 514 (Statistics for Management and Social
-    Sciences I & II)
-    -   Core sequence for our graduate certificate in Applied Statistics
-        and Data Management
-    -   Hands-on statistical method sequence with use of software (SAS)
-        throughout
-    -   Project based assessments and reports to hone student skills
+- Created ST 558 - Data Science for Statisticians (R based)
+  - Statistics master’s elective and graduate certificate course
+  - Deep dive into the use of R, R Markdown, the tidyverse, good
+    programming practices, and the creation of dashboards via R Shiny
+  - Survey of common machine learning methods, creation of APIs, and use
+    of containers (via docker)
+  - Comprehensive projects used to build a portfolio on github
+  - Obtained Quality Matters certification of the course in Summer 2020
+- Created ST 554 (pending course approval, ST 590) – Analysis of Big
+  Data (python based)
+  - Statistics master’s elective and graduate certificate course
+  - Deep dive into the use of python (along with commonly used packages
+    such as pandas, numpy, and scikit-learn), jupyter lab, and good
+    programming practices
+  - Use of spark (via pyspark) to handle, summarize, and model big data
+    via pipelines
+- Developed ST 513 and ST 514 (Statistics for Management and Social
+  Sciences I & II)
+  - Core sequence for our graduate certificate in Applied Statistics and
+    Data Management
+  - Hands-on statistical method sequence with use of software (SAS)
+    throughout
+  - Project based assessments and reports to hone student skills
 
 ### Open Online Course Development
 
--   Created Basics of R course
--   Created Basics of SAS course
-    -   Designed to support our graduate students and faculty by
-        providing basic training in R or SAS
-    -   Full course with quizzes and assignments available
--   See “Other Teaching” for additional open course materials
+- Created Basics of R course
+- Created Basics of SAS course
+  - Designed to support our graduate students and faculty by providing
+    basic training in R or SAS
+  - Full course with quizzes and assignments available
+- See “Other Teaching” for additional open course materials
 
 ## Courses Taught at NC State
 
--   ST 307 - Introduction to Statistical Programming - SAS
--   ST 308 - Introduction to Statistical Programming - R
--   ST 311 - Introduction to Statistics
--   ST 370 - Probability and Statistics for Engineers
--   ST 372 - Introduction to Statistical Inference and Regression
--   ST 421 - Introduction to Mathematical Statistics I
--   ST 422 - Introduction to Mathematical Statistics II
--   ST 498 - Honors Research Project
--   ST 501 - Fundamentals of Statistical Inference I
--   ST 502 - Fundamentals of Statistical Inference II
--   ST 511 - Statistics Methods for Researchers I
--   ST 512 - Statistics Methods for Researchers II
--   ST 513 - Statistics for Management and Social Sciences I
--   ST 521 - Statistical Theory I
--   ST 555 - Statistical Programming I
--   ST 558 - Data Science for Statisticians
--   ST 590 - Analysis of Big Data
+- ST 307 - Introduction to Statistical Programming - SAS
+- ST 308 - Introduction to Statistical Programming - R
+- ST 311 - Introduction to Statistics
+- ST 370 - Probability and Statistics for Engineers
+- ST 372 - Introduction to Statistical Inference and Regression
+- ST 421 - Introduction to Mathematical Statistics I
+- ST 422 - Introduction to Mathematical Statistics II
+- ST 498 - Honors Research Project
+- ST 501 - Fundamentals of Statistical Inference I
+- ST 502 - Fundamentals of Statistical Inference II
+- ST 511 - Statistics Methods for Researchers I
+- ST 512 - Statistics Methods for Researchers II
+- ST 513 - Statistics for Management and Social Sciences I
+- ST 521 - Statistical Theory I
+- ST 555 - Statistical Programming I
+- ST 558 - Data Science for Statisticians
+- ST 590 - Analysis of Big Data
 
 ## Other Teaching Activity
 
@@ -236,13 +234,13 @@ United States Conference on Teaching Statistics workshops
 
 NC State Executive Education programs
 
--   Infosys Data Science Program (2019-2020)
-    -   Calculus for Data Science  
-    -   Statistical Thinking
--   Cisco Foundations of Data Science Courses (2016-2018)
-    -   Multivariate Calculus for Data Science  
-    -   Probability Overview  
-    -   Statistics Overview
+- Infosys Data Science Program (2019-2020)
+  - Calculus for Data Science  
+  - Statistical Thinking
+- Cisco Foundations of Data Science Courses (2016-2018)
+  - Multivariate Calculus for Data Science  
+  - Probability Overview  
+  - Statistics Overview
 
 ## Director of Undergraduate Education Roles
 
@@ -252,48 +250,46 @@ Get every student in the undergraduate program involved in an
 undergraduate research project or internship at least once during their
 time at NCSU
 
--   Worked with statistics faculty to develop syllabi and expectations
-    for projects suitable to undergraduates and language for inclusion
-    of funding for projects in grant proposals. Projects needed to
-    include:
-    -   Application of methods to real data
-    -   Statistical programming
-    -   Write-up and presentation of analysis and results to both
-        technical and non-technical audiences
-    -   Interactive application or striking visualization
-    -   Reflection on work completed and its relation to coursework and
-        future plans
--   Provided student support via
-    -   Advertisement of opportunities and matching of skillsets to
-        projects
-    -   Mentoring and help through weekly group work meetings
-    -   Monthly group discussions and practice presentations
+- Worked with statistics faculty to develop syllabi and expectations for
+  projects suitable to undergraduates and language for inclusion of
+  funding for projects in grant proposals. Projects needed to include:
+  - Application of methods to real data
+  - Statistical programming
+  - Write-up and presentation of analysis and results to both technical
+    and non-technical audiences
+  - Interactive application or striking visualization
+  - Reflection on work completed and its relation to coursework and
+    future plans
+- Provided student support via
+  - Advertisement of opportunities and matching of skillsets to projects
+  - Mentoring and help through weekly group work meetings
+  - Monthly group discussions and practice presentations
 
 ## Awards, Nominations, & Certifications
 
 | Year       | Item                                                                                                       |
 |:-----------|:-----------------------------------------------------------------------------------------------------------|
-| 2022       | Course Quality Program Faculty Lead (NC State: DELTA $5000)                                                |
-| 2022       | North Carolina Education Datathon (member of winning team) ($2000)                                         |
+| 2022       | Course Quality Program Faculty Lead (NC State: DELTA \$5000)                                               |
+| 2022       | North Carolina Education Datathon (member of winning team) (\$2000)                                        |
 | 2021       | Gertrude Cox Gertrude Cox Award for Innovative Excellence in Teaching and Learning with Technology Nominee |
 | 2021       | Michael Dickey Outstanding Research Mentor Award Nominee                                                   |
 | 2013-2021  | Sixteen “Thank a teacher awards”                                                                           |
 | 2019-2020  | D.D. Mason Award (Distinction to the statistics department through teaching, research, or service)         |
-| 2020       | ST 513/514 course redesign (Statistics Department $10,000)                                                 |
-| 2020       | Online Course Improvement Program Grant (NC State: DELTA $4,000)                                           |
-| 2020       | STEM Education Initiative Grant (NC State: Provost’s Office $20,000)                                       |
-| 2018-2020  | Quantitative Literacy Champion (NC State: DASA $1,500/semester)                                            |
+| 2020       | ST 513/514 course redesign (Statistics Department \$10,000)                                                |
+| 2020       | Online Course Improvement Program Grant (NC State: DELTA \$4,000)                                          |
+| 2020       | STEM Education Initiative Grant (NC State: Provost’s Office \$20,000)                                      |
+| 2018-2020  | Quantitative Literacy Champion (NC State: DASA \$1,500/semester)                                           |
 | 2019       | Moodle Educator Certification                                                                              |
 | 2019       | Quality Matters APPQMR Certification                                                                       |
-| 2019       | Open Textbook Grant (NC State: Libraries $1,500)                                                           |
-| 2018, 2019 | DELTA Faculty Fellows (NC State: DELTA $10,000)                                                            |
+| 2019       | Open Textbook Grant (NC State: Libraries \$1,500)                                                          |
+| 2018, 2019 | DELTA Faculty Fellows (NC State: DELTA \$10,000)                                                           |
 | 2019       | Certificate of Reflective Teaching Award                                                                   |
-| 2018       | Graduate student recruitment grant (NC State: Graduate School $1,400)                                      |
-| 2018       | Critical Path Redesign grant: renewal (NC State: DELTA $9,000)                                             |
-| 2017       | Critical Path Redesign grant (NC State: DELTA $24,000)                                                     |
+| 2018       | Graduate student recruitment grant (NC State: Graduate School \$1,400)                                     |
+| 2018       | Critical Path Redesign grant: renewal (NC State: DELTA \$9,000)                                            |
+| 2017       | Critical Path Redesign grant (NC State: DELTA \$24,000)                                                    |
 | 2017       | Alumni Outstanding Teaching Award Recipient                                                                |
 | 2017       | Outstanding Teaching Award Recipient                                                                       |
-| 2013-2014  | Interdisciplinary Liaisons Initiative Award (NC State: CHASS $1,000)                                       |
+| 2013-2014  | Interdisciplinary Liaisons Initiative Award (NC State: CHASS \$1,000)                                      |
 | 2010-2011  | Gertrude M. Cox Academic Achievement Award Fellow (Outstanding Ph.D. Candidate)                            |
 | 2010-2011  | Francis G. Giesbrecht Award (For excellence in Statistical Consulting)                                     |
 | 2010-2011  | Paige Plagge Graduate Award for Citizenship (Services to the department and students)                      |
@@ -302,107 +298,104 @@ time at NCSU
 
 ### Papers
 
--   Spencer, D., Griffith, E., Briska, K., Post, J., Willis, C.. (In
-    revision) The Role of Non-cognitive Factors in the Introductory
-    Statistics Classroom. Statistics Education Research Journal.
--   Lin, T., Shah, Sanjay B., Wang-Li, L. Oviedo-Rondon, Edgar 0., Post,
-    J.. (2016), Development of MOS sensor-based NH3 monitor for use in
-    poultry houses. Computers and Electronics in Agriculture, 127:
-    708-715.
--   McCormick, M., Grand, L., Post, J., and Cubeta, M.. (2013),
-    Phylogenetic relatedness and phenotypic characterization of Fomes
-    fasciatus and Fomes fomentarius sampled from the United States.
-    Mycologia, 105, no 6: 1524-1534.
--   Post, J. B. and Bondell, H. D. (2013), Factor Selection and
-    Structural Identification in the Interaction ANOVA Model.
-    Biometrics, 69: 70–79. doi: 10.1111/j.1541-0420.2012.01810.x
+- Spencer, D., Griffith, E., Briska, K., Post, J., Willis, C.. (In
+  revision) The Role of Non-cognitive Factors in the Introductory
+  Statistics Classroom. Statistics Education Research Journal.
+- Lin, T., Shah, Sanjay B., Wang-Li, L. Oviedo-Rondon, Edgar 0., Post,
+  J.. (2016), Development of MOS sensor-based NH3 monitor for use in
+  poultry houses. Computers and Electronics in Agriculture, 127:
+  708-715.
+- McCormick, M., Grand, L., Post, J., and Cubeta, M.. (2013),
+  Phylogenetic relatedness and phenotypic characterization of Fomes
+  fasciatus and Fomes fomentarius sampled from the United States.
+  Mycologia, 105, no 6: 1524-1534.
+- Post, J. B. and Bondell, H. D. (2013), Factor Selection and Structural
+  Identification in the Interaction ANOVA Model. Biometrics, 69: 70–79.
+  doi: 10.1111/j.1541-0420.2012.01810.x
 
 ### Posters
 
--   Connecting to an API and Creating a Word Cloud in R, Justin Post.
-    2021 United States Conference on Teaching Statistics.
--   Using Visuals to Improve Quantitative Literacy Outcomes in
-    Principles of Genetics (GN 311), Justin Post. 2021 NC State Teaching
-    and Learning Symposium.
--   Case-Study Based Redesign of a Large Introductory Course for
-    Non-Majors, Justin Post, Jonathan Duggins. 2018 Electronic
-    Conference on Teaching Statistics.
--   Scheduling Effects in the NBA and NHL, Jason A. Osborne, Justin
-    Post. 2018 North Carolina American Statistical Association Recycled
-    Poster Event, Hillsborough, NC.
--   Scheduling Effects in the NBA and NHL, Jason A. Osborne, Justin
-    Post. 2017 New England Symposium on Statistics in Sports, Harvard
-    University, Cambridge, MA.
--   Interactive Math Stat Visualizations Using R Shiny, Justin Post.
-    2016 Electronic Conference on Teaching Statistics.
--   Modelling Umpire Misclassification of Balls and Strikes using
-    PitchFX Data, Justin Post, Jason A. Osborne. 2013 New England
-    Symposium on Statistics in Sports, Harvard University, Cambridge,
-    MA.
+- Connecting to an API and Creating a Word Cloud in R, Justin Post. 2021
+  United States Conference on Teaching Statistics.
+- Using Visuals to Improve Quantitative Literacy Outcomes in Principles
+  of Genetics (GN 311), Justin Post. 2021 NC State Teaching and Learning
+  Symposium.
+- Case-Study Based Redesign of a Large Introductory Course for
+  Non-Majors, Justin Post, Jonathan Duggins. 2018 Electronic Conference
+  on Teaching Statistics.
+- Scheduling Effects in the NBA and NHL, Jason A. Osborne, Justin Post.
+  2018 North Carolina American Statistical Association Recycled Poster
+  Event, Hillsborough, NC.
+- Scheduling Effects in the NBA and NHL, Jason A. Osborne, Justin Post.
+  2017 New England Symposium on Statistics in Sports, Harvard
+  University, Cambridge, MA.
+- Interactive Math Stat Visualizations Using R Shiny, Justin Post. 2016
+  Electronic Conference on Teaching Statistics.
+- Modelling Umpire Misclassification of Balls and Strikes using PitchFX
+  Data, Justin Post, Jason A. Osborne. 2013 New England Symposium on
+  Statistics in Sports, Harvard University, Cambridge, MA.
 
 ### Talks, Webinars, & Non-peer reviewed articles
 
--   Early Adopters of Moodle 4 Share Experiences. 2022 North Carolina
-    State University, DELTA article (Discussant)
--   Talking Quantitative Data Through Discussion Boards. Justin Post.
-    2020 North Carolina State University, Provost’s newsletter, Pack
-    hacks for Faculty. (Article)
--   Creating a hands-on data exploration activity for your students - no
-    programming required! Justin Post. 2020 North Carolina State
-    University, Office of Faculty Development and Division of Academic
-    and Student Affairs (Webinar).
--   Championing General Education: A Model for Faculty Engagement in the
-    General Education Assessment Process. Stephany Dunston, Samantha
-    Rich, Justin Post. 2019 UNC System Student Success Conference.
-    (Talk)
--   Teaching Statements. 2019 North Carolina State University, Academic
-    Packways (Discussant)
--   Flip Forward into the Pool of Student Engagement, Justin Post,
-    Christopher Beeson. 2018, 2019 North Carolina State University.
-    (Workshop given twice)
--   Friday Live: Discussions on Teaching with Technology – Understanding
-    how and why to flip a course. Justin Post. 2019 North Carolina State
-    University, DELTA Friday webinar. (Webinar)
--   Investing in Your Students: How to build a great TA Partnership.
-    2019 North Carolina State University, DELTA (Panel Member)
--   Blended Learning, Bethany Smith, Justin Post. 2018 North Carolina
-    State University. (Webinar)
--   Sports and Statistics at NC State, Justin Post, Nick Kapur. 2018
-    Chancellor’s Visit, 2018 North Carolina State University. (Talk)
--   Implementing a Department-wide Undergraduate Research Program,
-    Justin Post. 2018 Joint Statistical Meetings, Vancouver, WA. (Talk)
--   Integrating Programming into Statistics Curricula, Jonathan Duggins,
-    Justin Post. 2018 Electronic Conference on Teaching Statistics.
-    (Birds of a feather discussion)
--   Discussing the Uses and Creation of R Shiny Applications, Justin
-    Post. 2017 Joint Statistical Meetings, Baltimore, MD. (Roundtable)
--   Increasing Undergraduate Student Knowledge and Interest Using a
-    Sports Stats Club (Invited Session), Justin Post. 2015 Joint
-    Statistical Meetings, Seattle, WA. (Talk)
--   NFL Play Predictions, Will Burton and Michael Dickey (Adviser). 2015
-    Joint Statistical Meetings, Seattle, WA. (Speed session)
--   Using NFL Draft Metrics to Predict Player Success, James Gilman,
-    Nick Kapur, Justin Post. 2014 Joint Statistical Meetings, Boston,
-    MA. (Talk)
--   Effect of Shot Location Trends on Offensive Efficiency in the NBA,
-    Michael Dickey, Justin Post. 2014 Joint Statistical Meetings,
-    Boston, MA. (Speed Session) Engagement & Activities with
-    Professional Associations
--   Joint Statistical Meetings
-    -   2018 - Topic Contributed Session Organizer - Statistics
-        Education
-    -   2015 - Invited Session Organizer - Sports Data in Statistics
-        Education
-    -   2014 - Topic Contributed Session Chair - Sports Section Speed
-        Session
--   Ohio Spring Regional MAA Meetings
-    -   2013 - Session Chair
--   National Center for Faculty Development & Diversity member
-    -   2016-2020
--   American Statistical Association Sponsored Data Fest at Duke
-    University
-    -   2015, 2017 Judge
-    -   2016 VIP Consultant
+- Early Adopters of Moodle 4 Share Experiences. 2022 North Carolina
+  State University, DELTA article (Discussant)
+- Talking Quantitative Data Through Discussion Boards. Justin Post. 2020
+  North Carolina State University, Provost’s newsletter, Pack hacks for
+  Faculty. (Article)
+- Creating a hands-on data exploration activity for your students - no
+  programming required! Justin Post. 2020 North Carolina State
+  University, Office of Faculty Development and Division of Academic and
+  Student Affairs (Webinar).
+- Championing General Education: A Model for Faculty Engagement in the
+  General Education Assessment Process. Stephany Dunston, Samantha Rich,
+  Justin Post. 2019 UNC System Student Success Conference. (Talk)
+- Teaching Statements. 2019 North Carolina State University, Academic
+  Packways (Discussant)
+- Flip Forward into the Pool of Student Engagement, Justin Post,
+  Christopher Beeson. 2018, 2019 North Carolina State University.
+  (Workshop given twice)
+- Friday Live: Discussions on Teaching with Technology – Understanding
+  how and why to flip a course. Justin Post. 2019 North Carolina State
+  University, DELTA Friday webinar. (Webinar)
+- Investing in Your Students: How to build a great TA Partnership. 2019
+  North Carolina State University, DELTA (Panel Member)
+- Blended Learning, Bethany Smith, Justin Post. 2018 North Carolina
+  State University. (Webinar)
+- Sports and Statistics at NC State, Justin Post, Nick Kapur. 2018
+  Chancellor’s Visit, 2018 North Carolina State University. (Talk)
+- Implementing a Department-wide Undergraduate Research Program, Justin
+  Post. 2018 Joint Statistical Meetings, Vancouver, WA. (Talk)
+- Integrating Programming into Statistics Curricula, Jonathan Duggins,
+  Justin Post. 2018 Electronic Conference on Teaching Statistics. (Birds
+  of a feather discussion)
+- Discussing the Uses and Creation of R Shiny Applications, Justin Post.
+  2017 Joint Statistical Meetings, Baltimore, MD. (Roundtable)
+- Increasing Undergraduate Student Knowledge and Interest Using a Sports
+  Stats Club (Invited Session), Justin Post. 2015 Joint Statistical
+  Meetings, Seattle, WA. (Talk)
+- NFL Play Predictions, Will Burton and Michael Dickey (Adviser). 2015
+  Joint Statistical Meetings, Seattle, WA. (Speed session)
+- Using NFL Draft Metrics to Predict Player Success, James Gilman, Nick
+  Kapur, Justin Post. 2014 Joint Statistical Meetings, Boston, MA.
+  (Talk)
+- Effect of Shot Location Trends on Offensive Efficiency in the NBA,
+  Michael Dickey, Justin Post. 2014 Joint Statistical Meetings, Boston,
+  MA. (Speed Session) Engagement & Activities with Professional
+  Associations
+- Joint Statistical Meetings
+  - 2018 - Topic Contributed Session Organizer - Statistics Education
+  - 2015 - Invited Session Organizer - Sports Data in Statistics
+    Education
+  - 2014 - Topic Contributed Session Chair - Sports Section Speed
+    Session
+- Ohio Spring Regional MAA Meetings
+  - 2013 - Session Chair
+- National Center for Faculty Development & Diversity member
+  - 2016-2020
+- American Statistical Association Sponsored Data Fest at Duke
+  University
+  - 2015, 2017 Judge
+  - 2016 VIP Consultant
 
 ## North Carolina State University Related Service
 

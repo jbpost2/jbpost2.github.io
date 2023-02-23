@@ -53,7 +53,7 @@ Below you can find links to pages about my teaching philosophy, my
 experience with online education, some (hopefully) useful R Shiny apps I
 use when teaching, and my modern math stat blog.
 
--   [Philosophy & Courses](PhilosophyCourses.html)
--   [Online Education](Online.html)
--   [R Shiny Teaching Apps](ShinyApps.html)
--   [Teaching Mathematical Statistics Blog](MathStat.html)
+- [Philosophy & Courses](PhilosophyCourses.html)
+- [Online Education](Online.html)
+- [R Shiny Teaching Apps](ShinyApps.html)
+- [Teaching Mathematical Statistics Blog](MathStat.html)

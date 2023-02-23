@@ -158,24 +158,24 @@ for our online Master’s program. The courses I’ve taught are listed
 below. I really enjoy creating new courses and creating a coherent
 curriculum. The courses I’ve designed or revamped are in bold.
 
--   **ST 307 - Introduction to Statistical Programming - SAS**
--   **ST 308 - Introduction to Statistical Programming - R**
--   ST 311 - Introduction to Statistics
--   ST 370 - Probability and Statistics for Engineers
--   ST 372 - Introduction to Statistical Inference and Regression
--   ST 421 - Introduction to Mathematical Statistics I
--   ST 422 - Introduction to Mathematical Statistics II
--   **ST 501 - Fundamentals of Inference I**
--   **ST 502 - Fundamentals of Inference II**
--   ST 511 - Statistical Methods For Researchers I
--   ST 512 - Statistical Methods For Researchers II
--   **ST 513 - Statistics for Management and Social Sciences I**
--   **ST 514 - Statistics for Management and Social Sciences I** (I’ve
-    not been the instructor of record for this course.)
--   ST 521 - Statistical Theory I
--   **ST 554 - Big Data Analysis**
--   ST 555 - Statistical Programming I
--   **ST 558 - Introduction to Data Science**
+- **ST 307 - Introduction to Statistical Programming - SAS**
+- **ST 308 - Introduction to Statistical Programming - R**
+- ST 311 - Introduction to Statistics
+- ST 370 - Probability and Statistics for Engineers
+- ST 372 - Introduction to Statistical Inference and Regression
+- ST 421 - Introduction to Mathematical Statistics I
+- ST 422 - Introduction to Mathematical Statistics II
+- **ST 501 - Fundamentals of Inference I**
+- **ST 502 - Fundamentals of Inference II**
+- ST 511 - Statistical Methods For Researchers I
+- ST 512 - Statistical Methods For Researchers II
+- **ST 513 - Statistics for Management and Social Sciences I**
+- **ST 514 - Statistics for Management and Social Sciences I** (I’ve not
+  been the instructor of record for this course.)
+- ST 521 - Statistical Theory I
+- **ST 554 - Big Data Analysis**
+- ST 555 - Statistical Programming I
+- **ST 558 - Introduction to Data Science**
 
 If you are currently enrolled in one of these courses, the material for
 the classes is available on

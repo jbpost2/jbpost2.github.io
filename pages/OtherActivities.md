@@ -49,10 +49,9 @@ One of the best things about NC State is the abundant opportunities to
 get involved! Below you can read about a few of the fun things I’ve had
 the chance to do.
 
--   [Outreach & Diversity](OutreachDiversity.html)
--   [Undergraduate Research](UndergradResearch.html)
--   [Statistical Learning Group](StatisticalLearningGroup.html) @ NC
-    State
--   [Sports Statistics](SportsStats.html)
--   [Articles, Workshops, Quantitative Literacy, &
-    More](ArticlesWorkshops.html)
+- [Outreach & Diversity](OutreachDiversity.html)
+- [Undergraduate Research](UndergradResearch.html)
+- [Statistical Learning Group](StatisticalLearningGroup.html) @ NC State
+- [Sports Statistics](SportsStats.html)
+- [Articles, Workshops, Quantitative Literacy, &
+  More](ArticlesWorkshops.html)

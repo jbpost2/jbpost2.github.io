@@ -59,40 +59,39 @@ as it can be difficult to have collaborations that end successfully.
 
 My goals as the Director of Undergraduate Research were:
 
--   to make UR opportunities an essential part of the curriculum
--   provide a centralized place for students to get information about
-    opportunities and see past examples of projects
--   promote/create new opportunities for students to get involved
--   facilitate success for both the students and faculty mentors
+- to make UR opportunities an essential part of the curriculum
+- provide a centralized place for students to get information about
+  opportunities and see past examples of projects
+- promote/create new opportunities for students to get involved
+- facilitate success for both the students and faculty mentors
 
 Providing clear expectations about the projects really helped the
 students and faculty. ([See here for an example blank
 contract.](../files/UndergradResearchFiles/ProjectSyllabus.docx)) We
 required that each project should (almost always) include the following:
 
--   the use of software
--   a striking visual demonstration (graph or video) to highlight the
-    important question and result under consideration
--   real-data analysis
--   communication in both oral and written forms
+- the use of software
+- a striking visual demonstration (graph or video) to highlight the
+  important question and result under consideration
+- real-data analysis
+- communication in both oral and written forms
 
 We created a research cohort across the department that included (all
 required):
 
--   weekly working meetings with me (and Jonathan Duggins) where we
-    would provide general support
-    -   This proved effective in preventing the students from hitting a
-        simple roadblock and getting stuck (which often would lead to
-        ineffective meetings with their faculty advisors)
--   low stakes discussions among the cohort (with free pizza) each month
-    -   This was highly effective. It was really amazing to see the
-        students grow from their first sessions where they often
-        struggled to articulate what they were even trying to do to the
-        end when they had a solid elevator speech to both the lay and
-        statistical audience.  
--   filling out [a weekly progress
-    form](../files/UndergradResearchFiles/MeetingProgressForm.docx) with
-    their advisor at each meeting
+- weekly working meetings with me (and Jonathan Duggins) where we would
+  provide general support
+  - This proved effective in preventing the students from hitting a
+    simple roadblock and getting stuck (which often would lead to
+    ineffective meetings with their faculty advisors)
+- low stakes discussions among the cohort (with free pizza) each month
+  - This was highly effective. It was really amazing to see the students
+    grow from their first sessions where they often struggled to
+    articulate what they were even trying to do to the end when they had
+    a solid elevator speech to both the lay and statistical audience.  
+- filling out [a weekly progress
+  form](../files/UndergradResearchFiles/MeetingProgressForm.docx) with
+  their advisor at each meeting
 
 I organized a session around
 <a href = "https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215256" target = "_blank">undergraduate
