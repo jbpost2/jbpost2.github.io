@@ -51,9 +51,9 @@ that have gotten together to network and share ideas. We’ve had people
 from NC State, Wake Tech Community College, Meredith College, Cary
 Academy, and a few others.
 
-We usually meet monthly on Friday for dinner and discussion. If you are
-interested in joining, please e-mail me and I’ll add you to our mailing
-list!
+We usually meet monthly on a Friday for dinner and discussion. If you
+are interested in joining, please e-mail me and I’ll add you to our
+mailing list!
 
 ## Cary Academy
 
@@ -80,15 +80,21 @@ calculus ideas with statistics (and a bit of R).
 
 </div>
 
-I taught six guest lectures around the ideas of using a model to
-predict, including quantifying quality of predictions using loss
-functions and how calculus is important to those ideas. The methods we
-focused on were multiple linear regression and k-nearest neighbors. In
-the end we had the students break into teams and compete in a kaggle
-competition (inactive one but still a great experience). It was a great
-experience and we hope to continue with similar collaborations.
+In fall 2021 I taught six guest lectures around the ideas of using a
+model to predict, including quantifying quality of predictions using
+loss functions and how calculus is important to those ideas. The methods
+we focused on were multiple linear regression and k-nearest neighbors.
+In the end we had the students break into teams and compete in a kaggle
+competition (inactive one but still a great experience).
 
-You can find [information about the material presented
+In spring 2023 we renewed the collaboration with a slightly different
+focus. This time the students were participating in an actuarial data
+challenge. They had to find a problem with data and propose a change or
+recommendation based on an analysis. The lectures I taught focused on
+inference when using linear and logistic regression along with the R
+implementation!
+
+You can find [information about the materials presented
 here](https://github.com/jbpost2/caryAcademy).
 
 ## NC Education Datathon
@@ -106,6 +112,9 @@ presentation below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qPrM3FqpAf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
+
+The application itself is available to play around with here:
+<https://shiny.stat.ncsu.edu/jbpost2/DigitalDivide>
 
 ## Juntos
 
