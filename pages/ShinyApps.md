@@ -213,7 +213,7 @@ related in terms of probabilities.
 
 <hr class = "cool">
 
-### <a href="https://shiny.stat.ncsu.edu/jbpost2/BinomialAlphaControl/" target = "_blank">Investigating $\alpha$ Control when Sampling from the Binomial</a>
+### <a href="https://shiny.stat.ncsu.edu/jbpost2/BinomialAlphaControl/" target = "_blank">Investigating Type I Error Control when Sampling from the Binomial</a>
 
 An applet to simulate data from a $Bin(n, 0.5)$, dynamically set the
 rejection region, and observe the proportion of falsely rejected null

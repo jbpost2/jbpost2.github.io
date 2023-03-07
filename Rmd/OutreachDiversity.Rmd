@@ -29,7 +29,7 @@ In fall 2021 I taught six guest lectures around the ideas of using a model to pr
 
 In spring 2023 we renewed the collaboration with a slightly different focus. This time the students were participating in an actuarial data challenge. They had to find a problem with data and propose a change or recommendation based on an analysis. The lectures I taught focused on inference when using linear and logistic regression along with the R implementation!
 
-You can find [information about the materials presented here](https://github.com/jbpost2/caryAcademy).
+You can find [information about the materials here](https://github.com/jbpost2/caryAcademy).
 
 ## NC Education Datathon
 

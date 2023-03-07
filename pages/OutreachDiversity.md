@@ -94,7 +94,7 @@ recommendation based on an analysis. The lectures I taught focused on
 inference when using linear and logistic regression along with the R
 implementation!
 
-You can find [information about the materials presented
+You can find [information about the materials
 here](https://github.com/jbpost2/caryAcademy).
 
 ## NC Education Datathon
