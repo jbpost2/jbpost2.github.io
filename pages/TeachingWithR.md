@@ -44,17 +44,24 @@
 <br style = "display: block; content: ''; margin-top: 10; ">
 
 
-## Teaching
+## <a href = "https://jbpost2.github.io/TeachingWithR/CourseFiles.html" target="_blank">Teaching With R</a>
 
-Teaching is my passion and is the work that I enjoy the most. Connecting
-with students and helping them learn difficult material gets me out of
-bed in the morning!
+At the
+<a href = "https://www.causeweb.org/cause/uscots/" target = "_blank">United
+States Conference on Teaching Statistics (USCOTS)</a> 2021 I gave a
+workshop (with
+<a href = "https://science.psu.edu/stat/people/mdb268" target = "_blank">Matthew
+Beckman</a> from Penn State) called `TeachingWithR`.
 
-Below you can find links to pages about my teaching philosophy, my
-experience with online education, some (hopefully) useful R Shiny apps I
-use when teaching, and my modern math stat blog.
+The workshop was intended to provide an introduction to data wrangling
+and visualization using packages from the `tidyverse`, creating
+reproducible analyses using `R Markdown`, and producing basic
+interactivity using `R Shiny`.
 
-- [Philosophy & Courses](PhilosophyCourses.html)
-- [Online Education](Online.html)
-- [R Shiny Teaching Apps](ShinyApps.html)
-- [Teaching Mathematical Statistics Blog](MathStat.html)
+The goals for the workshop were that teachers would leave being able to
+create HTML documents that provide documentation of their work, do
+common manipulations of data, produce customized graphics, and allow for
+interactivity with `R` using the `shiny` package.
+
+<a href = "https://jbpost2.github.io/TeachingWithR/CourseFiles.html" target = "_blank">Here
+is the workshop site.</a>

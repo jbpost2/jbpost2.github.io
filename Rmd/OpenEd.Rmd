@@ -14,8 +14,9 @@ I've always been a fan of open source software (which is part of the reason to l
 - <a href="SAS.html">Basics of SAS Course</a>
 - <a href="Python.html">Basics of Python Course</a>
 - <a href="R.html">Basics of R Course</a>
-- <a href="OtherRCourses.html#TeachingWithR">Teaching with R</a>
-- <a href="OtherRCourses.html#DataMatters">Basics of R for Data Science and Statistics</a>
-- <a href="OtherRCourses.html#DataMatters">Improving R Programs</a>
-- <a href="OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
+- <a href="TeachingWithR.html">Teaching with R</a>
+- <a href="R4Reproducibility.html">R4Reproducibility</a>
+- <a href="DataMattersCourses.html">Basics of R for Data Science and Statistics</a>
+- <a href="DataMattersCourses.html">Improving R Programs</a>
+- <a href="DataMattersCourses.html">R for Automating Workflow and Sharing Work</a>
 

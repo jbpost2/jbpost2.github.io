@@ -44,17 +44,15 @@
 <br style = "display: block; content: ''; margin-top: 10; ">
 
 
-## Teaching
+## <a href = "https://jbpost2.github.io/R4Reproducibility/" target="_blank">R4Reproducibility</a>
 
-Teaching is my passion and is the work that I enjoy the most. Connecting
-with students and helping them learn difficult material gets me out of
-bed in the morning!
+At the
+<a href = "https://testscience.org/dataworks-sessions-archive/?session=Short%20Course" target = "_blank">2022
+Dataworks</a> conference I gave a workshop called `R4Reproducibility`.
 
-Below you can find links to pages about my teaching philosophy, my
-experience with online education, some (hopefully) useful R Shiny apps I
-use when teaching, and my modern math stat blog.
+The goal of the workshop was to teach common data manipulation and
+summary measures through the use of the `tidyverse` while emphasizing
+the creation of reproducibile workflows through `R Markdown`.
 
-- [Philosophy & Courses](PhilosophyCourses.html)
-- [Online Education](Online.html)
-- [R Shiny Teaching Apps](ShinyApps.html)
-- [Teaching Mathematical Statistics Blog](MathStat.html)
+<a href = "https://jbpost2.github.io/R4Reproducibility/" target = "_blank">Here
+is the workshop site.</a>

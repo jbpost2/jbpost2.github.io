@@ -21,10 +21,11 @@
             <a href="SAS.html">Basics of SAS Course</a>
             <a href="Python.html">Basics of Python Course</a>
             <a href="R.html">Basics of R Course</a>
-            <a href="OtherRCourses.html#TeachingWithR">Teaching with R</a>
-            <a href="OtherRCourses.html#DataMatters">Basics of R for Data Science and Statistics</a>
-            <a href="OtherRCourses.html#DataMatters">Improving R Programs</a>
-            <a href="OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
+            <a href="TeachingWithR.html">Teaching with R</a>
+            <a href="R4Reproducibility.html">R4Reproducibility</a>
+            <a href="DataMattersCourses.html">Basics of R for Data Science and Statistics</a>
+            <a href="DataMattersCourses.html">Improving R Programs</a>
+            <a href="DataMattersCourses.html">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
     <li class = "menu dropdown">
@@ -215,7 +216,7 @@ related in terms of probabilities.
 
 ### <a href="https://shiny.stat.ncsu.edu/jbpost2/BinomialAlphaControl/" target = "_blank">Investigating Type I Error Control when Sampling from the Binomial</a>
 
-An applet to simulate data from a $Bin(n, 0.5)$, dynamically set the
+An applet to simulate data from a Bin(n, 0.5), dynamically set the
 rejection region, and observe the proportion of falsely rejected null
 hypotheses (the empirical type I error rate).
 

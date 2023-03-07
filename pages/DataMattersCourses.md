@@ -21,10 +21,11 @@
             <a href="SAS.html">Basics of SAS Course</a>
             <a href="Python.html">Basics of Python Course</a>
             <a href="R.html">Basics of R Course</a>
-            <a href="OtherRCourses.html#TeachingWithR">Teaching with R</a>
-            <a href="OtherRCourses.html#DataMatters">Basics of R for Data Science and Statistics</a>
-            <a href="OtherRCourses.html#DataMatters">Improving R Programs</a>
-            <a href="OtherRCourses.html#DataMatters">R for Automating Workflow and Sharing Work</a>
+            <a href="TeachingWithR.html">Teaching with R</a>
+            <a href="R4Reproducibility.html">R4Reproducibility</a>
+            <a href="DataMattersCourses.html">Basics of R for Data Science and Statistics</a>
+            <a href="DataMattersCourses.html">Improving R Programs</a>
+            <a href="DataMattersCourses.html">R for Automating Workflow and Sharing Work</a>
         </div>
      </li>
     <li class = "menu dropdown">
@@ -49,7 +50,7 @@ I’ve taught the following three courses for
 <a href ="https://datamatters.org/" target = "_blank">Data Matters</a> a
 week-long series of one and two-day courses aimed at students and
 professionals in business, research, and government from 2016-2021. The
-material is open to anyone. Feel free to use these materials for any
+material is open to anyone. Feel free to use these materials for
 educational purpose!
 
 <hr class = "cool">
@@ -141,25 +142,3 @@ Students will learn about the following topics:
 is the course site.</a>
 
 <hr class = "cool">
-
-## <a name = "TeachingWithR"></a> <a href = "https://jbpost2.github.io/TeachingWithR/CourseFiles.html" target="_blank">Teaching With R</a>
-
-At the
-<a href = "https://www.causeweb.org/cause/uscots/" target = "_blank">United
-States Conference on Teaching Statistics (USCOTS)</a> 2021 I gave a
-workshop (with
-<a href = "https://science.psu.edu/stat/people/mdb268" target = "_blank">Matthew
-Beckman</a> from Penn State) called `TeachingWithR`.
-
-The workshop was intended to provide an introduction to data wrangling
-and visualization using packages from the `tidyverse`, creating
-reproducible analyses using `R Markdown`, and producing basic
-interactivity using `R Shiny`.
-
-The goals for the workshop were that teachers would leave being able to
-create HTML documents that provide documentation of their work, do
-common manipulations of data, produce customized graphics, and allow for
-interactivity with `R` using the `shiny` package.
-
-<a href = "https://jbpost2.github.io/TeachingWithR/CourseFiles.html" target = "_blank">Here
-is the workshop site.</a>

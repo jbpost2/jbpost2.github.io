@@ -8,7 +8,7 @@ output:
 
 ## <a name = "DataMatters"></a> Data Matters Courses  
 
-I've taught the following three courses for <a href ="https://datamatters.org/" target = "_blank">Data Matters</a> a week-long series of one and two-day courses aimed at students and professionals in business, research, and government from 2016-2021. The material is open to anyone. Feel free to use these materials for any educational purpose!
+I've taught the following three courses for <a href ="https://datamatters.org/" target = "_blank">Data Matters</a> a week-long series of one and two-day courses aimed at students and professionals in business, research, and government from 2016-2021. The material is open to anyone. Feel free to use these materials for educational purpose!
 
 <hr class = "cool">
 
@@ -78,14 +78,3 @@ Students will learn about the following topics:
 <a href = "https://jbpost2.github.io/R-for-Automating-Workflow-Sharing-Work/CourseFiles.html" target = "_blank">Here is the course site.</a>
 
 <hr class = "cool">
-
-
-## <a name = "TeachingWithR"></a> <a href = "https://jbpost2.github.io/TeachingWithR/CourseFiles.html" target="_blank">Teaching With R</a>
-
-At the <a href = "https://www.causeweb.org/cause/uscots/" target = "_blank">United States Conference on Teaching Statistics (USCOTS)</a> 2021 I gave a workshop (with <a href = "https://science.psu.edu/stat/people/mdb268" target = "_blank">Matthew Beckman</a> from Penn State) called `TeachingWithR`.
-
-The workshop was intended to provide an introduction to data wrangling and visualization using packages from the `tidyverse`, creating reproducible analyses using `R Markdown`, and producing basic interactivity using `R Shiny`. 
-
-The goals for the workshop were that teachers would leave being able to create HTML documents that provide documentation of their work, do common manipulations of data, produce customized graphics, and allow for interactivity with `R` using the `shiny` package.
-
-<a href = "https://jbpost2.github.io/TeachingWithR/CourseFiles.html" target = "_blank">Here is the workshop site.</a>
