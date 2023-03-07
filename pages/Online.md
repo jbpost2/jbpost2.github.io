@@ -75,7 +75,7 @@ In this role I’ve had the opportunity to rethink the graduate program
 curriculum and course offerings. I’ve designed new courses in Data
 Science (ST 558) and Big Data Analysis (ST 554) to fill gaps in the
 curriculum and as well as redesigning dated courses to include more
-**practice doing statistics** using software.
+**practice actually doing statistics** using software.
 
 As we try to incorporate computing into all of our courses, there was a
 clear need for supplemental basic programming courses to get everyone up
@@ -116,7 +116,9 @@ can’t say enough great things about the people over there!
 
 As a faculty fellow I had the opportunity to discuss teaching best
 practices for online and flipped courses, training of teaching
-assistants, and more!
+assistants, and more! See the
+<a href = "ArticlesWorkshops.html" target = "_blank">articles,
+workshops, quantititative literacy, & more</a> page for more details.
 
 ## Quality Matters (QM) course certification
 

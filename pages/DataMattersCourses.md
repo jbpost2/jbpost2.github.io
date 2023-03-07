@@ -49,7 +49,7 @@
 I’ve taught the following three courses for
 <a href ="https://datamatters.org/" target = "_blank">Data Matters</a> a
 week-long series of one and two-day courses aimed at students and
-professionals in business, research, and government from 2016-2021. The
+professionals in business, research, and government from 2016-2023. The
 material is open to anyone. Feel free to use these materials for
 educational purpose!
 

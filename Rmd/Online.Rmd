@@ -16,7 +16,7 @@ Learning online requires a lot of self-motivation and discipline for the learner
 
 My main role is to improve and develop our online master of statistics and graduate certificate in applied statistics and data management programs. I also provide guidance for other online/hybrid course offerings in our department (hence the shuttering thinking back on the beginning of the pandemic and the massive shift to *everything* being online). 
 
-In this role I’ve had the opportunity to rethink the graduate program curriculum and course offerings. I've designed new courses in Data Science (ST 558) and Big Data Analysis (ST 554) to fill gaps in the curriculum and as well as redesigning dated courses to include more **practice doing statistics** using software. 
+In this role I’ve had the opportunity to rethink the graduate program curriculum and course offerings. I've designed new courses in Data Science (ST 558) and Big Data Analysis (ST 554) to fill gaps in the curriculum and as well as redesigning dated courses to include more **practice actually doing statistics** using software. 
 
 As we try to incorporate computing into all of our courses, there was a clear need for supplemental basic programming courses to get everyone up to speed. I developed courses in [R](R.html) and [SAS](SAS.html) (python coming soon) which are freely available to anyone, not just our graduate students. 
 
@@ -36,7 +36,7 @@ Each of 311 and 307/308 enrolls approximately 800 students per regular semester.
 
 From 2018 to 2020 I served as a <a href = "https://delta.ncsu.edu/about-delta/meet-our-faculty-fellows/" target = "_blank">DELTA Faculty Fellow</a>.  DELTA (Digital Education and Learning Technology Applications) is the group on campus that handles and trains people on most all of our <a href = "https://ncsu.service-now.com/delta?id=delta_home" target = "_blank">digital education components (Moodle, Zoom, Panopto, etc.)</a>.  DELTA is really the group that sets our university up for success in the online space.  I can't say enough great things about the people over there! 
 
-As a faculty fellow I had the opportunity to discuss teaching best practices for online and flipped courses, training of teaching assistants, and more!
+As a faculty fellow I had the opportunity to discuss teaching best practices for online and flipped courses, training of teaching assistants, and more! See the <a href = "ArticlesWorkshops.html" target = "_blank">articles, workshops, quantititative literacy, & more</a> page for more details.
 
 ## Quality Matters (QM) course certification  
 

@@ -144,32 +144,6 @@ master’s of statistics program.)
 
 This is a really fantastic program and I’m happy to have been involved!
 
-## Cary PD
-
-In 2017 I advised [Grant
-Swigart](https://www.linkedin.com/in/grantswigart/) on a really
-interesting project with the Cary Police Department. The goal was:
-
-> To utilize a neutral, third party subject matter expert (NCSU
-> Statistics) to proactively analyze Cary PD’s traffic stops on both an
-> aggregate and individual level and determine if we have any
-> statistically significant deviations from a normal range as it relates
-> to officer traffic stops, searches, and arrests of women, persons of
-> color and Hispanic heritage. Our benchmark/point of comparison will be
-> the gender, race, and heritage of persons involved in traffic
-> collisions as captured by Cary PD’s traffic collision reports. These
-> data are much more representative of who makes up the motoring public
-> than census data, which is designed purely to captures residency
-> information. Statistical deviations from the norm in and of themselves
-> will not to be considered indicative of wrongdoing, but rather will
-> serve as an impetus to further examine the circumstances involved with
-> the officer or group of officers outside the normal range.
-
-Grant did a great job working through the data and literature (he
-ultimately went on to get a master’s degree in statistics from NC
-State). Ultimately we stopped hearing back from the Cary PD after our
-initial findings of some differences in traffic stop distributions.
-
 ## GLBT advocate
 
 > The GLBT Advocate Program is intended to be a continuing education and
@@ -205,3 +179,53 @@ department and campus, and generally answered any questions about how
 things work at the university. All things I wish I had when I was an
 undergraduate student! (I never even considered graduate school until my
 senior year of college!)
+
+## Pine Springs Preparatory Academy
+
+<div style="float: right; padding: 7px 7px 7px 7px;">
+
+<img src = "../images/soda_pop_coke.png" alt = "Map showing where 'soda', 'pop', and 'coke' are used to describe a fizzy beverage. (Josh Katz)" width = "500">
+
+</div>
+
+In the spring of 2023 I met
+<a href = "https://www.linkedin.com/in/josiah-vanderkin-179a5a232/" target="_blank">Josiah
+Vanderkin</a> during a networking event for our online program. Josiah
+was teaching 7th grade math and the curriculum at
+<a href = "https://pinespringsprep.org/" target= "_blank">Pine Spring
+Preparatory Academy</a> was a project based learning (PBL) curriculum.
+As part of the PBL curriculum a subject matter expert is supposed to
+come in and talk to the students about the material and how it is
+important.
+
+I did my best to keep the students engaged (fun maps, explosions, and
+sports kind of worked) and to show them how statistics and probability
+can be used in the real world! Overall, the experience was enjoyable.
+The <a href = "../files/PBL.pptx" target = "_blank">presentation used is
+available at this link</a>.
+
+## Cary PD
+
+In 2017 I advised [Grant
+Swigart](https://www.linkedin.com/in/grantswigart/) on a really
+interesting project with the Cary Police Department. The goal was:
+
+> To utilize a neutral, third party subject matter expert (NCSU
+> Statistics) to proactively analyze Cary PD’s traffic stops on both an
+> aggregate and individual level and determine if we have any
+> statistically significant deviations from a normal range as it relates
+> to officer traffic stops, searches, and arrests of women, persons of
+> color and Hispanic heritage. Our benchmark/point of comparison will be
+> the gender, race, and heritage of persons involved in traffic
+> collisions as captured by Cary PD’s traffic collision reports. These
+> data are much more representative of who makes up the motoring public
+> than census data, which is designed purely to captures residency
+> information. Statistical deviations from the norm in and of themselves
+> will not to be considered indicative of wrongdoing, but rather will
+> serve as an impetus to further examine the circumstances involved with
+> the officer or group of officers outside the normal range.
+
+Grant did a great job working through the data and literature (he
+ultimately went on to get a master’s degree in statistics from NC
+State). Ultimately we stopped hearing back from the Cary PD after our
+initial findings of some differences in traffic stop distributions.

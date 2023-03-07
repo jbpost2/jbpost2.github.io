@@ -44,8 +44,26 @@
 <br style = "display: block; content: ''; margin-top: 10; ">
 
 
-# Sports Stats
-
 In progress
 
-<!-- students that have gone onto sports jobs-->
+<!--
+2013 – 2018 Faculty Advisor to Sports Analytics Club
+
+
+students that have gone onto sports jobs
+
+Scheduling Effects in the NBA and NHL, Jason A. Osborne, Justin Post. 2017 New England Symposium on Statistics in Sports, Harvard University, Cambridge, MA.'
+
+
+Modelling Umpire Misclassification of Balls and Strikes using PitchFX Data, Justin Post, Jason A. Osborne. 2013 New England Symposium on Statistics in Sports, Harvard University, Cambridge, MA.
+
+
+Increasing Undergraduate Student Knowledge and Interest Using a Sports Stats Club (Invited Session), Justin Post. 2015 Joint Statistical Meetings, Seattle, WA. (Talk)
+Post_Justin_JSM2015_Sports_Stats_Club_Formation.pdf
+
+NFL Play Predictions, Will Burton and Michael Dickey (Adviser). 2015 Joint Statistical Meetings, Seattle, WA. (Speed session)
+
+Using NFL Draft Metrics to Predict Player Success, James Gilman, Nick Kapur, Justin Post. 2014 Joint Statistical Meetings, Boston, MA. (Talk)
+
+Effect of Shot Location Trends on Offensive Efficiency in the NBA, Michael Dickey, Justin Post. 2014 Joint Statistical Meetings, Boston, MA. (Speed Session) Engagement & Activities with Professional Associations
+-->
