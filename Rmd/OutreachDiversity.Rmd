@@ -74,7 +74,7 @@ I've enjoyed being a [GLBT advocate](https://diversity.ncsu.edu/glbt/glbt-advoca
 ## Pine Springs Preparatory Academy
 
 <div style = "float: right; padding: 7px 7px 7px 7px;">
-  <img src = "../images/soda_pop_coke.png" alt = "Map showing where 'soda', 'pop', and 'coke' are used to describe a fizzy beverage. (Josh Katz)" width = "500">
+  <img src = "../images/soda_pop_coke.png" alt = "Map showing where 'soda', 'pop', and 'coke' are used to describe a fizzy beverage. (Josh Katz)" width = "350">
 </div> 
 
 In the spring of 2023 I met <a href = "https://www.linkedin.com/in/josiah-vanderkin-179a5a232/" target="_blank">Josiah Vanderkin</a> during a networking event for our online program. Josiah was teaching 7th grade math and the curriculum at <a href = "https://pinespringsprep.org/" target= "_blank">Pine Spring Preparatory Academy</a> was a project based learning (PBL) curriculum. As part of the PBL curriculum a subject matter expert is supposed to come in and talk to the students about the material and how it is important. 

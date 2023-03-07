@@ -48,7 +48,7 @@
 
 <div style="float: left; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/literacy.jpeg" alt = "Diagram showing relationships surrounding Data Literacy (from https://www.lifescied.org/doi/full/10.1187/cbe.18-02-0023?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3Dpubmed)" width = "400">
+<img src = "../images/literacy.jpeg" alt = "Diagram showing relationships surrounding Data Literacy (from https://www.lifescied.org/doi/full/10.1187/cbe.18-02-0023?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3Dpubmed)" width = "300">
 
 </div>
 
@@ -91,7 +91,7 @@ The most significant project I worked on is outlined below.
 
 <div style="float: right; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/selection.jpg" alt = "Image from the intervention on understanding selection of genetic traits" width = "650">
+<img src = "../images/selection.jpg" alt = "Image from the intervention on understanding selection of genetic traits" width = "400">
 
 </div>
 
@@ -116,7 +116,7 @@ course.
 
 <div style="float: left; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/hw.jpg" alt = "Image from the intervention on understanding hardy weinburg equilibrium" width = "600">
+<img src = "../images/hw.jpg" alt = "Image from the intervention on understanding hardy weinburg equilibrium" width = "350">
 
 </div>
 
@@ -147,7 +147,7 @@ probabilities of different alleles</a>
 
 <div style="float: right; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/selection_app.jpg" alt = "Image from the interactive application to aide in understanding selection from a population in HW equilibrium" width = "600">
+<img src = "../images/selection_app.jpg" alt = "Image from the interactive application to aide in understanding selection from a population in HW equilibrium" width = "350">
 
 </div>
 
@@ -196,7 +196,7 @@ topics included:
 
 <div style="float: right; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/git_branch_diagram.png" alt = "Diagram of a common git workflow" width = "400">
+<img src = "../images/git_branch_diagram.png" alt = "Diagram of a common git workflow" width = "250">
 
 </div>
 
@@ -215,7 +215,7 @@ about the presentations here</a>.
 
 <div style="float: right; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/word_cloud.jpg" alt = "Word cloud created about June-teenth" width = "450">
+<img src = "../images/word_cloud.jpg" alt = "Word cloud created about June-teenth" width = "350">
 
 </div>
 

@@ -184,7 +184,7 @@ senior year of college!)
 
 <div style="float: right; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/soda_pop_coke.png" alt = "Map showing where 'soda', 'pop', and 'coke' are used to describe a fizzy beverage. (Josh Katz)" width = "500">
+<img src = "../images/soda_pop_coke.png" alt = "Map showing where 'soda', 'pop', and 'coke' are used to describe a fizzy beverage. (Josh Katz)" width = "350">
 
 </div>
 
