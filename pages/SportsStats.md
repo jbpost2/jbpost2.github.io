@@ -54,7 +54,7 @@ Club (SAC)</a> here at NC State.
 
 <div style="float: right; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/baseball.jpg" alt = "Excerpt from poster on umpire calls" width = "300">
+<img src = "../images/baseball.jpg" alt = "Excerpt from poster on umpire calls" width = "370">
 
 </div>
 
@@ -119,7 +119,7 @@ session</a> on this topic at the 2014 Joint Statistical Meetings.
 
 <div style="float: left; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/football_combine.jpg" alt = "Plot showing 40 time vs running back rating" width = "300">
+<img src = "../images/football_combine.jpg" alt = "Plot showing 40 time vs running back rating" width = "350">
 
 </div>
 
@@ -144,7 +144,7 @@ session</a> on this topic at the 2014 Joint Statistical Meetings.
 
 <div style="float: right; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/NBA.gif" alt = "GIF showing changes in shot location over time" width = "300">
+<img src = "../images/NBA.gif" alt = "GIF showing changes in shot location over time" width = "350">
 
 </div>
 
@@ -173,7 +173,7 @@ superbowl!
 
 <div style="float: right; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/nfl_probs.jpg" alt = "Plots of probabilities associated with passing" width = "300">
+<img src = "../images/nfl_probs.jpg" alt = "Plots of probabilities associated with passing" width = "500">
 
 </div>
 
@@ -205,7 +205,7 @@ now).
 
 <div style="float: left; padding: 7px 7px 7px 7px;">
 
-<img src = "../images/scheduling_graphs.jpg" alt = "Plots of average Margin of Victory and Win Probabilities based on previous day game indicator" width = "300">
+<img src = "../images/scheduling_graphs.jpg" alt = "Plots of average Margin of Victory and Win Probabilities based on previous day game indicator" width = "500">
 
 </div>
 
