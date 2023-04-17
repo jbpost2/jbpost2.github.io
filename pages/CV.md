@@ -108,6 +108,7 @@ guidance for other online/hybrid course offerings.
   - Monitor google ad activity and keywords
 - Networking
   - Coordination of networking events and social media groups
+  - Hosting of research round robin (PhD and master’s programs)
 - Admissions for online master’s program
 
 #### Recording studio
@@ -214,7 +215,7 @@ guidance for other online/hybrid course offerings.
 ## Other Teaching Activity
 
 Data Matters (Yearly data science courses put on by the Odum Institute,
-2016-2022)  
+2016-2023)  
 - Basics of R for Data Science and Statistics  
 - Improving R Programming  
 - R for Automating Workflow and Sharing Work
@@ -225,9 +226,12 @@ DATAWorks workshops
 - Introduction to R (2018)
 
 Cary Academy (High School) guest lectures  
-- Six lectures relating optimization, mathematical statistics, and
-machine learning  
-- Students applied ideas to a Kaggle competition
+- 2023 lectures: Six lectures about statistical modeling & inference
+including multiple linear regression and logistic regression. Students
+applied ideas to an actuarial competition  
+- 2021 lectures: Six lectures relating optimization, mathematical
+statistics, and machine learning. Students applied ideas to a Kaggle
+competition
 
 United States Conference on Teaching Statistics workshops  
 - Teaching With R (2021)  
@@ -270,6 +274,8 @@ time at NCSU
 
 | Year       | Item                                                                                                       |
 |:-----------|:-----------------------------------------------------------------------------------------------------------|
+| 2023       | RED Inclusive Teaching Certification                                                                       |
+| 2023       | Quality Matters Peer Reviewer Certification                                                                |
 | 2022       | Course Quality Program Faculty Lead (NC State: DELTA \$5000)                                               |
 | 2022       | North Carolina Education Datathon (member of winning team) (\$2000)                                        |
 | 2021       | Gertrude Cox Gertrude Cox Award for Innovative Excellence in Teaching and Learning with Technology Nominee |
@@ -299,9 +305,9 @@ time at NCSU
 
 ### Papers
 
-- Spencer, D., Griffith, E., Briska, K., Post, J., Willis, C.. (In
-  revision) The Role of Non-cognitive Factors in the Introductory
-  Statistics Classroom. Statistics Education Research Journal.
+- Spencer, D., Griffith, E., Briska, K., Post, J., Willis, C.. (2023)
+  The Role of Non-cognitive Factors in the Introductory Statistics
+  Classroom. Statistics Education Research Journal.
 - Lin, T., Shah, Sanjay B., Wang-Li, L. Oviedo-Rondon, Edgar 0., Post,
   J.. (2016), Development of MOS sensor-based NH3 monitor for use in
   poultry houses. Computers and Electronics in Agriculture, 127:
@@ -316,6 +322,12 @@ time at NCSU
 
 ### Posters
 
+- Introductory Data Science Course Project: Retrieving data from an API
+  and conducting an EDA, Justin Post. 2023 United States Conference on
+  Teaching Statistics.
+- Teaching and Student Exploration of Convergence Concepts Using
+  Interactive Shiny Applications, Xiaoxia Champon, Justin Post. 2023
+  United States Conference on Teaching Statistics.
 - Connecting to an API and Creating a Word Cloud in R, Justin Post. 2021
   United States Conference on Teaching Statistics.
 - Using Visuals to Improve Quantitative Literacy Outcomes in Principles
@@ -338,6 +350,10 @@ time at NCSU
 
 ### Talks, Webinars, & Non-peer reviewed articles
 
+- ChatGPT – Adapt, Embrace, or Reject. 2023 NC State Conference on
+  Faculty Excellence (Roundtable organizer and participant)
+- Statistics: Worlds of Opportunities. 2023 Pine Springs Preparatory
+  Academy (Project-Based Learning Expert Talk)
 - Early Adopters of Moodle 4 Share Experiences. 2022 North Carolina
   State University, DELTA article (Discussant)
 - Talking Quantitative Data Through Discussion Boards. Justin Post. 2020
@@ -406,6 +422,7 @@ time at NCSU
 | 2017 – present              | GLBT Advocate                                                     |
 | 2017 – present              | Teaching mentor to various statistics department faculty          |
 | 2015 – 2018, 2022 – present | Stat’n’Chat Organizer (Local Stat-Ed Group)                       |
+| 2023                        | Lecturer Search Committee Chair                                   |
 | 2018 – 2021                 | Quant Literacy Champion: Division of Academic and Student Affairs |
 | 2020                        | Faculty Advisor to Deep Learning with R group                     |
 | 2018 – 2020                 | DELTA Faculty Fellow                                              |
