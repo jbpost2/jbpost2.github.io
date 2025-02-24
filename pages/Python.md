@@ -19,8 +19,9 @@
         <a href="OpenEd.html" class="dropbtn">Open Ed</a>
         <div class="dropdown-content">
             <a href="SAS.html">Basics of SAS Course</a>
-            <a href="Python.html">Basics of Python Course</a>
             <a href="R.html">Basics of R Course</a>
+            <a href="Python.html">Big Data (with python)</a>
+            <a href="558R.html">Data Science for Statisticians</a>
             <a href="TeachingWithR.html">Teaching with R</a>
             <a href="R4Reproducibility.html">R4Reproducibility</a>
             <a href="DataMattersCourses.html">Basics of R for Data Science and Statistics</a>
@@ -44,35 +45,11 @@
 <br style = "display: block; content: ''; margin-top: 10; ">
 
 
-## Basics of Python
+## Analysis of Big Data
 
-As part of our efforts to prepare our Online Master of Statistics and
-Applied Statistics and Data Management Certificate students, we’ve
-developed this short course on learning to use python.
+The course ST 554 - Analysis of Big Data takes a deep dive into python
+programming and then looks at analyzing big data using pyspark.
 
-The course is a free, open, non-credit course and is meant to provide
-training to our current graduate students on the basics of python so
-that learning how to use python doesn’t hinder their learning in the
-courses that use python in our programs.
-
-## Course Goals
-
-This course is designed to demonstrate the basic use of python for
-reading, manipulating, and plotting data via RStudio. By the end of this
-course students will be able to:
-
-- read and write basic notebooks using python
-- import well-formatted raw data with python
-- complete common data manipulation tasks in python
-- produce numerical and graphical summaries in python
-
-## Joining the Course
-
-The course will be made available soon.
-
-## Online Statistics Programs @ NC State
-
-Want to join our online community?
-<a href ="https://statistics.sciences.ncsu.edu/graduate/online-programs/" target = "_blank">Check
-here for more information about our Online Master of Statistics and
-Online Graduate Certificate programs.</a>
+The course learning materials are
+<a href = "https://jbpost2.github.io/ST-554-Big-Data-with-Python/" target = "_blank">freely
+available here</a>.

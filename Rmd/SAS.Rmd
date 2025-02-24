@@ -8,9 +8,9 @@ output:
 
 ## Basics of SAS  
 
-As part of our efforts to prepare our Online Master of Statistics and Applied Statistics and Data Management Certificate students, we've developed this short course on learning to use the SAS software.  
+As part of my efforts to prepare our Online Master of Statistics and Applied Statistics and Data Management Certificate students, I developed this short course on learning to use the SAS software.  
 
-The course is a free, open, non-credit course and is meant to provide training to our current graduate students on the basics of SAS so that learning how to use SAS doesn’t hinder their learning in the courses that use SAS in our programs.
+The course was a free, open, non-credit course and is meant to provide training to our current graduate students on the basics of SAS so that learning how to use SAS doesn’t hinder their learning in the courses that use SAS in our programs.
 
 ## Course Goals
 
@@ -23,11 +23,7 @@ By the end of this course students will be able to:
 - produce numerical and graphical summaries in SAS
 - conduct a basic correlation and regression analysis
 
-## Joining the Course  
-
-If you'd like to join the course, please do!  <a href = "https://docs.google.com/document/d/13M5UFpKpPUY3jyQKSrwg9rsctE7BeegXRY5fqLTkNCM/edit?usp=sharing" target = "_blank">View the enrollment information.</a>
-
-For those that just want to watch the video lectures from the course (no access to the code, assignments, etc.) you can find the <a href = "https://bit.ly/SAS-playlist" target = "_blank">course videos at this playlist</a>.  
+Although the course is no longer available, the video lectures from the course (no access to the code, assignments, etc.) can be found on this <a href = "https://bit.ly/SAS-playlist" target = "_blank">course video at this playlist</a>.  
 
 ## Online Statistics Programs @ NC State  
 

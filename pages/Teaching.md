@@ -19,8 +19,9 @@
         <a href="OpenEd.html" class="dropbtn">Open Ed</a>
         <div class="dropdown-content">
             <a href="SAS.html">Basics of SAS Course</a>
-            <a href="Python.html">Basics of Python Course</a>
             <a href="R.html">Basics of R Course</a>
+            <a href="Python.html">Big Data (with python)</a>
+            <a href="558R.html">Data Science for Statisticians</a>
             <a href="TeachingWithR.html">Teaching with R</a>
             <a href="R4Reproducibility.html">R4Reproducibility</a>
             <a href="DataMattersCourses.html">Basics of R for Data Science and Statistics</a>

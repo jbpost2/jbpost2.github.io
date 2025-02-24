@@ -19,8 +19,9 @@
         <a href="OpenEd.html" class="dropbtn">Open Ed</a>
         <div class="dropdown-content">
             <a href="SAS.html">Basics of SAS Course</a>
-            <a href="Python.html">Basics of Python Course</a>
             <a href="R.html">Basics of R Course</a>
+            <a href="Python.html">Big Data (with python)</a>
+            <a href="558R.html">Data Science for Statisticians</a>
             <a href="TeachingWithR.html">Teaching with R</a>
             <a href="R4Reproducibility.html">R4Reproducibility</a>
             <a href="DataMattersCourses.html">Basics of R for Data Science and Statistics</a>
@@ -46,11 +47,11 @@
 
 ## Basics of SAS
 
-As part of our efforts to prepare our Online Master of Statistics and
-Applied Statistics and Data Management Certificate students, we’ve
-developed this short course on learning to use the SAS software.
+As part of my efforts to prepare our Online Master of Statistics and
+Applied Statistics and Data Management Certificate students, I developed
+this short course on learning to use the SAS software.
 
-The course is a free, open, non-credit course and is meant to provide
+The course was a free, open, non-credit course and is meant to provide
 training to our current graduate students on the basics of SAS so that
 learning how to use SAS doesn’t hinder their learning in the courses
 that use SAS in our programs.
@@ -68,15 +69,9 @@ programs
 - produce numerical and graphical summaries in SAS - conduct a basic
 correlation and regression analysis
 
-## Joining the Course
-
-If you’d like to join the course, please do!
-<a href = "https://docs.google.com/document/d/13M5UFpKpPUY3jyQKSrwg9rsctE7BeegXRY5fqLTkNCM/edit?usp=sharing" target = "_blank">View
-the enrollment information.</a>
-
-For those that just want to watch the video lectures from the course (no
-access to the code, assignments, etc.) you can find the
-<a href = "https://bit.ly/SAS-playlist" target = "_blank">course videos
+Although the course is no longer available, the video lectures from the
+course (no access to the code, assignments, etc.) can be found on this
+<a href = "https://bit.ly/SAS-playlist" target = "_blank">course video
 at this playlist</a>.
 
 ## Online Statistics Programs @ NC State

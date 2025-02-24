@@ -19,8 +19,9 @@
         <a href="pages/OpenEd.html" class="dropbtn">Open Ed</a>
         <div class="dropdown-content">
             <a href="pages/SAS.html">Basics of SAS Course</a>
-            <a href="pages/Python.html">Basics of Python Course</a>
             <a href="pages/R.html">Basics of R Course</a>
+            <a href="pages/Python.html">Big Data (with python)</a>
+            <a href="pages/558R.html">Data Science for Statisticians</a>
             <a href="pages/TeachingWithR.html">Teaching with R</a>
             <a href="pages/R4Reproducibility.html">R4Reproducibility</a>
             <a href="pages/DataMattersCourses.html">Basics of R for Data Science and Statistics</a>
@@ -53,21 +54,16 @@
 
 <div style="padding: 10px;">
 
-Hello and thank you for visiting my web page. I am currently an
-Associate Teaching Professor and the Director of Online Education in the
-Department of Statistics at North Carolina State University.
+I am currently a Teaching Professor in the Department of Statistics at
+North Carolina State University.
 
 </div>
 
 I have been involved in the department on and off since 2007. I was a
 graduate student from 2007-2012 and came back to the university in 2013
 as a Teaching Assistant Professor. NC State has a wonderful statistics
-department. If you have any questions about our graduate programs
-(especially our
-<a href = "https://statistics.sciences.ncsu.edu/graduate/online-programs/" target ="_blank">online
-master’s of statistics or applied statistics and data management
-certificate</a>), please don’t hesitate to reach out to me at
-(`justin_post@ncsu.edu`)!
+department. If you have any questions about our graduate programs,
+please don’t hesitate to reach out to me at (`justin_post@ncsu.edu`)!
 
 Education is my passion and the focus of my career. I really enjoy
 curriculum development and course creation, but being in the classroom
@@ -82,15 +78,3 @@ software. I’ve [developed a number of programming courses for
 professional development and student/faculty
 support](pages/OpenEd.html). The materials are all freely available on
 github if you’d like to use them.
-
-Recently, I’ve been serving as the Director of Online Education in our
-department. The main task of this role involves administering the
-<a href = "https://statistics.sciences.ncsu.edu/graduate/online-programs/" target ="_blank">online
-Master of Statistics and online graduate certificates programs</a>. I
-head the efforts to continually improve the programs and courses, assess
-the program goals, plan course offerings, help advise students, support
-student success, train and support faculty, and market the program.
-
-I have an oversight role for our large undergraduate introductory course
-(ST 311) and administer a few of our introductory programming courses
-(ST 307/308), which are flipped courses taught by our graduate students.

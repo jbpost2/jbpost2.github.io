@@ -19,8 +19,9 @@
         <a href="OpenEd.html" class="dropbtn">Open Ed</a>
         <div class="dropdown-content">
             <a href="SAS.html">Basics of SAS Course</a>
-            <a href="Python.html">Basics of Python Course</a>
             <a href="R.html">Basics of R Course</a>
+            <a href="Python.html">Big Data (with python)</a>
+            <a href="558R.html">Data Science for Statisticians</a>
             <a href="TeachingWithR.html">Teaching with R</a>
             <a href="R4Reproducibility.html">R4Reproducibility</a>
             <a href="DataMattersCourses.html">Basics of R for Data Science and Statistics</a>
@@ -53,8 +54,8 @@ transition during ‘the COVID years’ (shutters). I started teaching ST
 format for our
 <a href = "https://statistics.sciences.ncsu.edu/graduate/online-programs/" target = "_blank">online
 master of statistics program</a> in 2015. I took over as director of the
-online program (and certificate program) in 2018 and since then have
-been almost solely teaching online and developing online courses.
+online program (and certificate program) in 2018 and lead the program
+until the spring of 2025.
 
 Learning online requires a lot of self-motivation and discipline for the
 learner to be successful. While this isn’t ideal for the typical
@@ -64,36 +65,30 @@ their careers.
 
 ## Director of Online Education
 
-My main role is to improve and develop our online master of statistics
+My main role was to improve and develop our online master of statistics
 and graduate certificate in applied statistics and data management
-programs. I also provide guidance for other online/hybrid course
+programs. I also provided guidance for other online/hybrid course
 offerings in our department (hence the shuttering thinking back on the
 beginning of the pandemic and the massive shift to *everything* being
 online).
 
-In this role I’ve had the opportunity to rethink the graduate program
-curriculum and course offerings. I’ve designed new courses in Data
-Science (ST 558) and Big Data Analysis (ST 554) to fill gaps in the
-curriculum and as well as redesigning dated courses to include more
-**practice actually doing statistics** using software.
+In this role I had the opportunity to rethink the graduate program
+curriculum and course offerings. I designed new courses in Data Science
+(ST 558) and Big Data Analysis (ST 554) to fill gaps in the curriculum
+as well as redesigning dated courses to include more **practice actually
+doing statistics** using software. I attempted to push our faculty to
+incorporate computing into all of our courses.
 
-As we try to incorporate computing into all of our courses, there was a
-clear need for supplemental basic programming courses to get everyone up
-to speed. I developed courses in [R](R.html) and [SAS](SAS.html) (python
-coming soon) which are freely available to anyone, not just our graduate
-students.
-
-I’ve met a ton of awesome and interesting people in our online programs.
-If you are interested, there are
+I met a ton of awesome and interesting people in our online programs. If
+you are interested, there are
 <a href= "https://statistics.sciences.ncsu.edu/graduate/online-programs/online-students-faculty/" target ="_blank">articles
 about some of them here</a>!
 
 ### Oversight of Hybrid Courses
 
-As part of the role I’ve also had oversight of some of our large
-enrollment undergraduate courses that are taught in a hybrid or flipped
-manner with graduate students hosting the in-person portions of the
-class.
+As part of the role I had oversight of some of our large enrollment
+undergraduate courses that are taught in a hybrid or flipped manner with
+graduate students hosting the in-person portions of the class.
 
 - ST 311 – Introduction to Statistics (direct oversight one semester)
 - ST 307 – Introduction to Statistical Programming – R
@@ -131,5 +126,5 @@ There is a
 <a href = "https://delta.ncsu.edu/course-planning/delta-grants/" target = "_blank">dedicated
 group at DELTA</a> (led by Bethanne Winzeler and Jill Anderson) that
 takes a cohort of faculty through the QM certification process each
-year. I now happily serve as a faculty mentor for other folks going
+year. I have happily served as a faculty mentor for other folks going
 through QM certification process!

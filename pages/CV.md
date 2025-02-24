@@ -19,8 +19,9 @@
         <a href="OpenEd.html" class="dropbtn">Open Ed</a>
         <div class="dropdown-content">
             <a href="SAS.html">Basics of SAS Course</a>
-            <a href="Python.html">Basics of Python Course</a>
             <a href="R.html">Basics of R Course</a>
+            <a href="Python.html">Big Data (with python)</a>
+            <a href="558R.html">Data Science for Statisticians</a>
             <a href="TeachingWithR.html">Teaching with R</a>
             <a href="R4Reproducibility.html">R4Reproducibility</a>
             <a href="DataMattersCourses.html">Basics of R for Data Science and Statistics</a>
@@ -69,16 +70,16 @@
 
 ## Professional Positions
 
-| Date             | Position                                                                                                  |
-|:-----------------|:----------------------------------------------------------------------------------------------------------|
-| 6/2018 – present | Teaching Associate Professor at North Carolina State University                                           |
-| 6/2018 – present | Director of Online Education                                                                              |
-| 8/2013 – 5/2018  | Teaching Assistant Professor at North Carolina State University                                           |
-| 5/2015 – 5/2018  | Director of Undergraduate Research                                                                        |
-| 8/2012 – 5/2013  | Assistant Professor at the University of Mount Union                                                      |
-| 5/2013 – 8/2013  | Adjunct Instructor at North Carolina State University                                                     |
-| 7/2010 – 6/2012  | Statistical Consultant to the College of Agriculture and Life Sciences at North Carolina State University |
-| 8/2007 – 5/2010  | Teaching Assistant at North Carolina State University                                                     |
+| Date | Position |
+|:---|:---|
+| 6/2018 – present | Teaching Associate Professor at North Carolina State University |
+| 6/2018 – 2025 | Director of Online Education |
+| 8/2013 – 5/2018 | Teaching Assistant Professor at North Carolina State University |
+| 5/2015 – 5/2018 | Director of Undergraduate Research |
+| 8/2012 – 5/2013 | Assistant Professor at the University of Mount Union |
+| 5/2013 – 8/2013 | Adjunct Instructor at North Carolina State University |
+| 7/2010 – 6/2012 | Statistical Consultant to the College of Agriculture and Life Sciences at North Carolina State University |
+| 8/2007 – 5/2010 | Teaching Assistant at North Carolina State University |
 
 ## Director of Online Education Responsibilities
 
@@ -272,34 +273,34 @@ time at NCSU
 
 ## Awards, Nominations, & Certifications
 
-| Year       | Item                                                                                                       |
-|:-----------|:-----------------------------------------------------------------------------------------------------------|
-| 2023       | RED Inclusive Teaching Certification                                                                       |
-| 2023       | Quality Matters Peer Reviewer Certification                                                                |
-| 2022       | Course Quality Program Faculty Lead (NC State: DELTA \$5000)                                               |
-| 2022       | North Carolina Education Datathon (member of winning team) (\$2000)                                        |
-| 2021       | Gertrude Cox Gertrude Cox Award for Innovative Excellence in Teaching and Learning with Technology Nominee |
-| 2021       | Michael Dickey Outstanding Research Mentor Award Nominee                                                   |
-| 2013-2021  | Sixteen “Thank a teacher awards”                                                                           |
-| 2019-2020  | D.D. Mason Award (Distinction to the statistics department through teaching, research, or service)         |
-| 2020       | ST 513/514 course redesign (Statistics Department \$10,000)                                                |
-| 2020       | Online Course Improvement Program Grant (NC State: DELTA \$4,000)                                          |
-| 2020       | STEM Education Initiative Grant (NC State: Provost’s Office \$20,000)                                      |
-| 2018-2020  | Quantitative Literacy Champion (NC State: DASA \$1,500/semester)                                           |
-| 2019       | Moodle Educator Certification                                                                              |
-| 2019       | Quality Matters APPQMR Certification                                                                       |
-| 2019       | Open Textbook Grant (NC State: Libraries \$1,500)                                                          |
-| 2018, 2019 | DELTA Faculty Fellows (NC State: DELTA \$10,000)                                                           |
-| 2019       | Certificate of Reflective Teaching Award                                                                   |
-| 2018       | Graduate student recruitment grant (NC State: Graduate School \$1,400)                                     |
-| 2018       | Critical Path Redesign grant: renewal (NC State: DELTA \$9,000)                                            |
-| 2017       | Critical Path Redesign grant (NC State: DELTA \$24,000)                                                    |
-| 2017       | Alumni Outstanding Teaching Award Recipient                                                                |
-| 2017       | Outstanding Teaching Award Recipient                                                                       |
-| 2013-2014  | Interdisciplinary Liaisons Initiative Award (NC State: CHASS \$1,000)                                      |
-| 2010-2011  | Gertrude M. Cox Academic Achievement Award Fellow (Outstanding Ph.D. Candidate)                            |
-| 2010-2011  | Francis G. Giesbrecht Award (For excellence in Statistical Consulting)                                     |
-| 2010-2011  | Paige Plagge Graduate Award for Citizenship (Services to the department and students)                      |
+| Year | Item |
+|:---|:---|
+| 2023 | RED Inclusive Teaching Certification |
+| 2023 | Quality Matters Peer Reviewer Certification |
+| 2022 | Course Quality Program Faculty Lead (NC State: DELTA \$5000) |
+| 2022 | North Carolina Education Datathon (member of winning team) (\$2000) |
+| 2021 | Gertrude Cox Gertrude Cox Award for Innovative Excellence in Teaching and Learning with Technology Nominee |
+| 2021 | Michael Dickey Outstanding Research Mentor Award Nominee |
+| 2013-2021 | Sixteen “Thank a teacher awards” |
+| 2019-2020 | D.D. Mason Award (Distinction to the statistics department through teaching, research, or service) |
+| 2020 | ST 513/514 course redesign (Statistics Department \$10,000) |
+| 2020 | Online Course Improvement Program Grant (NC State: DELTA \$4,000) |
+| 2020 | STEM Education Initiative Grant (NC State: Provost’s Office \$20,000) |
+| 2018-2020 | Quantitative Literacy Champion (NC State: DASA \$1,500/semester) |
+| 2019 | Moodle Educator Certification |
+| 2019 | Quality Matters APPQMR Certification |
+| 2019 | Open Textbook Grant (NC State: Libraries \$1,500) |
+| 2018, 2019 | DELTA Faculty Fellows (NC State: DELTA \$10,000) |
+| 2019 | Certificate of Reflective Teaching Award |
+| 2018 | Graduate student recruitment grant (NC State: Graduate School \$1,400) |
+| 2018 | Critical Path Redesign grant: renewal (NC State: DELTA \$9,000) |
+| 2017 | Critical Path Redesign grant (NC State: DELTA \$24,000) |
+| 2017 | Alumni Outstanding Teaching Award Recipient |
+| 2017 | Outstanding Teaching Award Recipient |
+| 2013-2014 | Interdisciplinary Liaisons Initiative Award (NC State: CHASS \$1,000) |
+| 2010-2011 | Gertrude M. Cox Academic Achievement Award Fellow (Outstanding Ph.D. Candidate) |
+| 2010-2011 | Francis G. Giesbrecht Award (For excellence in Statistical Consulting) |
+| 2010-2011 | Paige Plagge Graduate Award for Citizenship (Services to the department and students) |
 
 ## Other Scholarly Activity
 
@@ -416,17 +417,17 @@ time at NCSU
 
 ## North Carolina State University Related Service
 
-| Data                        | Item                                                              |
-|:----------------------------|:------------------------------------------------------------------|
-| 2019 – present              | Statistics department curriculum committee                        |
-| 2017 – present              | GLBT Advocate                                                     |
-| 2017 – present              | Teaching mentor to various statistics department faculty          |
-| 2015 – 2018, 2022 – present | Stat’n’Chat Organizer (Local Stat-Ed Group)                       |
-| 2023                        | Lecturer Search Committee Chair                                   |
-| 2018 – 2021                 | Quant Literacy Champion: Division of Academic and Student Affairs |
-| 2020                        | Faculty Advisor to Deep Learning with R group                     |
-| 2018 – 2020                 | DELTA Faculty Fellow                                              |
-| 2017 – 2020                 | Pack Promise Mentor (First Generation College Students)           |
-| 2017 – 2020                 | Goodnight scholar mentor                                          |
-| 2013 – 2018                 | Faculty Advisor to Sports Analytics Club                          |
-| 2014 – 2017                 | Faculty Advisor to Statistical Learning Group                     |
+| Data | Item |
+|:---|:---|
+| 2019 – present | Statistics department curriculum committee |
+| 2017 – present | GLBT Advocate |
+| 2017 – present | Teaching mentor to various statistics department faculty |
+| 2015 – 2018, 2022 – present | Stat’n’Chat Organizer (Local Stat-Ed Group) |
+| 2023 | Lecturer Search Committee Chair |
+| 2018 – 2021 | Quant Literacy Champion: Division of Academic and Student Affairs |
+| 2020 | Faculty Advisor to Deep Learning with R group |
+| 2018 – 2020 | DELTA Faculty Fellow |
+| 2017 – 2020 | Pack Promise Mentor (First Generation College Students) |
+| 2017 – 2020 | Goodnight scholar mentor |
+| 2013 – 2018 | Faculty Advisor to Sports Analytics Club |
+| 2014 – 2017 | Faculty Advisor to Statistical Learning Group |
