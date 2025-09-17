@@ -73,7 +73,7 @@
 | Date | Position |
 |:---|:---|
 | 8/2024 – present | Teaching Professor at North Carolina State University |
-| 6/2018 – 5/2025 | Director of Online Education |
+| 6/2018 – 7/2025 | Director of Online Education |
 | 3/2023 – 12/2024 | Research Consultant, Criminal Justice Institute, University of North Carolina - Chapel Hill |
 | 8/2018 – 7/2024 | Teaching Associate Professor at North Carolina State University |
 | 8/2013 – 7/2018 | Teaching Assistant Professor at North Carolina State University |
@@ -95,24 +95,24 @@ guidance for other online/hybrid course offerings.
 
 - Program direction
   - Created goals for master’s and certificate programs
-  - Assessment of programs and student outcomes
-  - Plan course offerings and update curriculum
-- Advise current and potential students  
+  - Assessed programs and student outcomes
+  - Planned course offerings and updated curriculum
+- Advised current and potential students
 - Developed student support and bridge materials
-  - Online program orientation sessions
+  - Hosted online program orientation sessions
   - Created open programming courses
-  - Hold sessions on useful/interesting topics (git/github, using the
+  - Held sessions on useful/interesting topics (git/github, using the
     CLI, latex, makefiles, etc.)
 - Program advertisement and recruitment
   - Created and maintain online program websites
-  - Write current student, alumni, and faculty spotlight articles
+  - Wrote current student, alumni, and faculty spotlight articles
   - Established a virtual graduate program information session with
     in-person program director
-  - Monitor google ad activity and keywords
+  - Monitored google ad activity and keywords
 - Networking
-  - Coordination of networking events and social media groups
-  - Hosting of research round robin (PhD and master’s programs)
-- Admissions for online master’s program
+  - Coordinated networking events and social media groups +Hosted of
+    research round robin (PhD and master’s programs)
+- Conducted admissions for online master’s program
 
 #### Recording studio
 
@@ -132,6 +132,17 @@ guidance for other online/hybrid course offerings.
   - Development and updating of course materials
 
 ## Teaching & Curriculum Activity
+
+### Creation of Teaching and Learning Statistics & Data Science Graduate Certificate
+
+- Re-envisioned defunct Statistics Education graduate certificate with
+  Dr. Hollylynne Lee
+- Program focuses on developing knowledge of core statistical and data
+  science concepts and methods along with best practices for their
+  instruction.
+- Meant to serve practicing high school and college teachers in any
+  discipline that uses data as well as graduate students interested in
+  faculty or teaching careers.
 
 ### Traditional (face-to-face) Course Development
 
@@ -170,16 +181,15 @@ guidance for other online/hybrid course offerings.
     of containers (via docker)
   - Comprehensive projects used to build a portfolio on github
   - Obtained Quality Matters certification of the course in Summer 2020
-- Created ST 554 (pending course approval, ST 590) – Analysis of Big
-  Data (python based)
+- Created ST 554 – Analysis of Big Data (python based)
   - Statistics master’s elective and graduate certificate course
   - Deep dive into the use of python (along with commonly used packages
     such as pandas, numpy, and scikit-learn), jupyter lab, and good
     programming practices
   - Use of spark (via pyspark) to handle, summarize, and model big data
     via pipelines
-- Developed ST 513 and ST 514 (Statistics for Management and Social
-  Sciences I & II)
+- Developed ST 513 and ST 514 - Statistics for Management and Social
+  Sciences I & II
   - Core sequence for our graduate certificate in Applied Statistics and
     Data Management
   - Hands-on statistical method sequence with use of software (SAS)
@@ -188,12 +198,15 @@ guidance for other online/hybrid course offerings.
 
 ### Open Online Course Development
 
-- Created Basics of R course
-- Created Basics of SAS course
+- Created Basics of R course & Basics of SAS course
   - Designed to support our graduate students and faculty by providing
     basic training in R or SAS
-  - Full course with quizzes and assignments available
-- See “Other Teaching” for additional open course materials
+- Created website with learning materials for
+  <a href = "https://jbpost2.github.io/ST-558-Data-Science-for-Statisticians/" target = "_blank">ST
+  558 - Data Science for Statisticians</a>
+- Created website with learning materials for
+  <a href = "https://jbpost2.github.io/ST-554-Big-Data-with-Python/" target = "_blank">ST
+  554 - Analysis of Big Data</a>
 
 ## Courses Taught at NC State
 
@@ -213,7 +226,9 @@ guidance for other online/hybrid course offerings.
 - ST 521 - Statistical Theory I
 - ST 554 - Analysis of Big Data
 - ST 555 - Statistical Programming I
+- ST 557 - Using Technology to Teach and Learn with Data
 - ST 558 - Data Science for Statisticians
+- ST 563 – Introduction to Statistical Learning
 
 ## Other Teaching Activity
 
@@ -229,15 +244,18 @@ DATAWorks workshops
 - Introduction to R (2018)
 
 Cary Academy (High School) guest lectures  
-- 2023 lectures: Six lectures about statistical modeling & inference
-including multiple linear regression and logistic regression. Students
-applied ideas to an actuarial competition  
+- 2024 lecture: Brought 18 Cary Academy high school students to campus
+for a day and taught them about data visualization best practices - 2023
+lectures: Six lectures about statistical modeling & inference including
+multiple linear regression and logistic regression. Students applied
+ideas to an actuarial competition  
 - 2021 lectures: Six lectures relating optimization, mathematical
 statistics, and machine learning. Students applied ideas to a Kaggle
 competition
 
 United States Conference on Teaching Statistics workshops  
-- Teaching With R (2021)  
+- Modules to support statistics instructors in actively engaging
+students with authentic data (2025) - Teaching With R (2021)  
 - Creating R shiny Applications (with Dr. Herle McGowan, 2017)
 
 NC State Executive Education programs
@@ -277,6 +295,7 @@ time at NCSU
 
 | Year | Item |
 |:---|:---|
+| 2025-current | Research Fellow for DELTA’s Course Quality Program (NC State: DELTA \$5000) |
 | 2023-current | Co-PI, Modules for Statistics Graduate Teaching Assistants Learning to Teach Equitably with Authentic Data (GTAs-LEAD) (NSF: IUSE \$400,000) |
 | 2023-2024 | SoTL Institute Scholar (NC State: OFE \$1500) |
 | 2023-2024 | Course Quality Program Faculty Lead (NC State: DELTA \$5000) |
@@ -314,9 +333,12 @@ time at NCSU
 
 ### Papers
 
-- Spencer, D., Griffith, E., Briska, K., Post, J., Willis, C.. (In
-  revision) The Role of Non-cognitive Factors in the Introductory
-  Statistics Classroom. Statistics Education Research Journal.
+- Ferrell, M. and Post, J. (In revision), Implementing Oral Exams at
+  Scale Using Graduate Student Instructors. Journal of Statistic and
+  Data Science Education.
+- Spencer, D., Griffith, E., Briska, K., Post, J., Willis, C.. (2023)
+  The Role of Non-cognitive Factors in the Introductory Statistics
+  Classroom. Statistics Education Research Journal.
 - Lin, T., Shah, Sanjay B., Wang-Li, L. Oviedo-Rondon, Edgar 0., Post,
   J.. (2016), Development of MOS sensor-based NH3 monitor for use in
   poultry houses. Computers and Electronics in Agriculture, 127:
@@ -331,6 +353,23 @@ time at NCSU
 
 ### Posters
 
+- Implementing Oral Exams at Scale Using Graduate Student Instructors,
+  Justin Post and Matthew Ferrell. 2025 United States Conference on
+  Teaching Statistics: Research Satellite.
+- Authentic Data Explorations: Immersive Statistical Investigations in
+  Real-world Contexts, Maria Cruiciani and Justin Post. 2025 United
+  States Conference on Teaching Statistics.
+- Implementing Oral Exams at Scale Using Graduate Student Instructors,
+  Justin Post and Matthew Ferrell. 2025 NC State Conference on Faculty
+  Excellence.
+- Authentic Data Explorations: Investigating the Normal Distribution
+  through Comparative Rent Data, Maria Cruciani, Justin Post, Jennifer
+  Green, & Sunghwan Byun. 2024 Joint Statistical Meetings.
+- Authentic Data Explorations: Exploring the Normal Distribution through
+  Comparative Rent Data, Maria Cruciani, Justin Post, Jennifer Green, &
+  Sunghwan Byun. 2024 Electronic Conference on Teaching Statistics.
+- Persistence of Online Graduate Students in Statistics Programs, Justin
+  Post. 2024 NC State Conference on Faculty Excellence.
 - Introductory Data Science Course Project: Retrieving data from an API
   and conducting an EDA, Justin Post. 2023 United States Conference on
   Teaching Statistics.
@@ -359,93 +398,126 @@ time at NCSU
 
 ### Talks, Webinars, & Non-peer reviewed articles
 
-- Using Generative AI to Supplement Learning in Statistical Programming
-  Courses (Invited Session), Justin Post. 2024 Joint Statistical
-  Meetings, Portland, OR. (Talk)
-- Authentic Data Explorations: Investigating the Normal Distribution
-  through Comparative Rent Data (Speed Session), Maria Cruciani, Justin
+- (Talk) Flipped Course Requirements and Student Outcomes: Evidence from
+  a Randomized Controlled Trial, Elizabeth Davis and Justin Post. 2025
+  UNC System Quality Matters Summit, Durham, NC
+- (Talk) Opening Session Five Minute Talk, Kickoff Dinner, Justin Post.
+  2025 United States Conference on Teaching Statistics, Ames, IA
+- (Talk) Building a Thinking Classroom (BTC) to Improve Student Learning
+  in Statistics and Data Science, Nathan Kenny and Justin Post. 2025
+  United States Conference on Teaching Statistics, Ames, IA
+- (Webinar Panel Member) Using AI for Teaching Statistics in Health
+  Sciences. ASA Section Statistics In the Health Sciences Winter
+  Webinar, 2025
+- (Invited Talk) Teaching Reproducible Workflows, Justin Post. 2025
+  Southern Regional Council on Statistics, Jekyll Island, GA
+- (Talk) Using Generative AI to Supplement Learning in Statistical
+  Programming Courses (Invited Session), Justin Post. 2024 Joint
+  Statistical Meetings, Portland, OR
+- (Speed Session) Authentic Data Explorations: Investigating the Normal
+  Distribution through Comparative Rent Data, Maria Cruciani, Justin
   Post, Jennifer Green, Sunghwan Byun. 2024 Joint Statistical Meetings,
-  Portland, OR. (Co-author)
-- GTAs’ Problems of Practice for Teaching Introductory Statistics
-  Coruses (Topic-Contributed Paper Session), Sunghwan Byun, Jennifer
+  Portland, OR
+- (Talk) GTAs’ Problems of Practice for Teaching Introductory Statistics
+  Courses (Topic-Contributed Paper Session), Sunghwan Byun, Jennifer
   Green, Justin Post, Maria Cruciani, Matthew Ferrell. 2024 Joint
-  Statistical Meetings, Portland, OR. (Co-author)
-- AI Chatbots & Statistics/Data Science Education, Justin Post, Matthew
-  Beckman. 2023 United States Conference on Teaching Statistics. (Birds
-  of a Feather Discussion)
-- ChatGPT – Adapt, Embrace, or Reject. Roundtable. 2023 North Carolina
-  State University Conference on Faculty Excellence (Organizer and
-  Discussant)
-- Statistics: Worlds of Opportunities. 2023 Pine Springs Preparatory
-  Academy (Project-Based Learning Expert Talk)
-- Early Adopters of Moodle 4 Share Experiences. 2022 North Carolina
-  State University, DELTA article (Discussant)
-- Talking Quantitative Data Through Discussion Boards. Justin Post. 2020
-  North Carolina State University, Provost’s newsletter, Pack hacks for
-  Faculty. (Article)
-- Creating a hands-on data exploration activity for your students - no
-  programming required! Justin Post. 2020 North Carolina State
-  University, Office of Faculty Development and Division of Academic and
-  Student Affairs (Webinar).
-- Championing General Education: A Model for Faculty Engagement in the
-  General Education Assessment Process. Stephany Dunston, Samantha Rich,
-  Justin Post. 2019 UNC System Student Success Conference. (Talk)
-- Teaching Statements. 2019 North Carolina State University, Academic
-  Packways (Discussant)
-- Flip Forward into the Pool of Student Engagement, Justin Post,
-  Christopher Beeson. 2018, 2019 North Carolina State University.
-  (Workshop given twice)
-- Friday Live: Discussions on Teaching with Technology – Understanding
-  how and why to flip a course. Justin Post. 2019 North Carolina State
-  University, DELTA Friday webinar. (Webinar)
-- Investing in Your Students: How to build a great TA Partnership. 2019
-  North Carolina State University, DELTA (Panel Member)
-- Blended Learning, Bethany Smith, Justin Post. 2018 North Carolina
-  State University. (Webinar)
-- Sports and Statistics at NC State, Justin Post, Nick Kapur. 2018
-  Chancellor’s Visit, 2018 North Carolina State University. (Talk)
-- Implementing a Department-wide Undergraduate Research Program, Justin
-  Post. 2018 Joint Statistical Meetings, Vancouver, WA. (Talk)
-- Integrating Programming into Statistics Curricula, Jonathan Duggins,
-  Justin Post. 2018 Electronic Conference on Teaching Statistics. (Birds
-  of a feather discussion)
-- Discussing the Uses and Creation of R Shiny Applications, Justin Post.
-  2017 Joint Statistical Meetings, Baltimore, MD. (Roundtable)
-- Increasing Undergraduate Student Knowledge and Interest Using a Sports
-  Stats Club (Invited Session), Justin Post. 2015 Joint Statistical
-  Meetings, Seattle, WA. (Talk)
-- NFL Play Predictions, Will Burton and Michael Dickey (Adviser). 2015
-  Joint Statistical Meetings, Seattle, WA. (Speed session)
-- Using NFL Draft Metrics to Predict Player Success, James Gilman, Nick
-  Kapur, Justin Post. 2014 Joint Statistical Meetings, Boston, MA.
-  (Talk)
-- Effect of Shot Location Trends on Offensive Efficiency in the NBA,
-  Michael Dickey, Justin Post. 2014 Joint Statistical Meetings, Boston,
-  MA. (Speed Session) Engagement & Activities with Professional
-  Associations
+  Statistical Meetings, Portland, OR
+- (Talk) Statistics GTAs’ Conceptualizations of Equitable Teaching,
+  Sunghwan Byun, Jennifer Green, Maria Cruciani, Justin Post, and
+  Matthew Ferrell. 2024 Joint Statistical Meetings, Portland, OR
+- (Talk) Teaching Reproducible Workflows Using Digital Notebooks, Justin
+  Post. 2024 North Carolina eCOTS regional conference, Raleigh, NC
+- (Birds of a Feather Discussion) AI Chatbots & Statistics/Data Science
+  Education, Justin Post, Matthew Beckman. 2023 United States Conference
+  on Teaching Statistics.
+- (Roundtable organizer and participant) ChatGPT – Adapt, Embrace, or
+  Reject. 2023 NC State Conference on Faculty Excellence
+- (Project-Based Learning Expert Talk) Statistics: Worlds of
+  Opportunities. 2023 Pine Springs Preparatory Academy
+- (Discussant) Early Adopters of Moodle 4 Share Experiences. 2022 North
+  Carolina State University, DELTA article
+- (Article) Talking Quantitative Data Through Discussion Boards. Justin
+  Post. 2020 North Carolina State University, Provost’s newsletter, Pack
+  hacks for Faculty.
+- (Webinar) Creating a hands-on data exploration activity for your
+  students - no programming required! Justin Post. 2020 North Carolina
+  State University, Office of Faculty Development and Division of
+  Academic and Student Affairs
+- (Talk) Championing General Education: A Model for Faculty Engagement
+  in the General Education Assessment Process. Stephany Dunston,
+  Samantha Rich, Justin Post. 2019 UNC System Student Success Conference
+- (Talk) Championing General Education: A Model for Faculty Engagement
+  in the General Education Assessment Process. Stephany Dunston,
+  Samantha Rich, Casie Fedukovich, Justin Post, Carrie Zelna. 2019 NCAIR
+  conference
+- (Discussant) Teaching Statements. 2019 North Carolina State
+  University, Academic Packways
+- (Workshop, given twice) Flip Forward into the Pool of Student
+  Engagement, Justin Post, Christopher Beeson. 2018, 2019 North Carolina
+  State University
+- (Webinar) Friday Live: Discussions on Teaching with Technology –
+  Understanding how and why to flip a course. Justin Post. 2019 North
+  Carolina State University, DELTA Friday webinar
+- (Panel Member) Investing in Your Students: How to build a great TA
+  Partnership. 2019 North Carolina State University, DELTA
+- (Webinar) Blended Learning, Bethany Smith, Justin Post. 2018 North
+  Carolina State University
+- (Talk) Sports and Statistics at NC State, Justin Post, Nick Kapur.
+  2018 Chancellor’s Visit, 2018 North Carolina State University
+- (Talk) Implementing a Department-wide Undergraduate Research Program,
+  Justin Post. 2018 Joint Statistical Meetings, Vancouver, WA
+- (Birds of a feather discussion) Integrating Programming into
+  Statistics Curricula, Jonathan Duggins, Justin Post. 2018 Electronic
+  Conference on Teaching Statistics
+- (Roundtable) Discussing the Uses and Creation of R Shiny Applications,
+  Justin Post. 2017 Joint Statistical Meetings, Baltimore, MD
+- (Talk) Increasing Undergraduate Student Knowledge and Interest Using a
+  Sports Stats Club (Invited Session), Justin Post. 2015 Joint
+  Statistical Meetings, Seattle, WA
+- (Speed session) NFL Play Predictions, Will Burton and Michael Dickey
+  (Adviser). 2015 Joint Statistical Meetings, Seattle, WA
+- (Talk) Using NFL Draft Metrics to Predict Player Success, James
+  Gilman, Nick Kapur, Justin Post. 2014 Joint Statistical Meetings,
+  Boston, MA
+- (Speed Session) Effect of Shot Location Trends on Offensive Efficiency
+  in the NBA, Michael Dickey, Justin Post. 2014 Joint Statistical
+  Meetings, Boston, MA
+
+### Engagement & Activities with Professional Associations
+
+- 2025 – present, Mentor for ASA Section on Statistics and Data Science
+  Education Program (Sarah Medley)
+- 2024 – present, Mentor for ASA Section on Statistics and Data Science
+  Education High School Teacher Fellowship (Nathan Kenny)
+- 2025, Mentor for United States Conference on Teaching Statistics Speed
+  Mentoring
+- 2023 - present, Journal of Statistics and Data Science Education
+  Reviewer
 - Joint Statistical Meetings
-  - 2018 - Topic Contributed Session Organizer - Statistics Education
-  - 2015 - Invited Session Organizer - Sports Data in Statistics
+  - 2018, Topic Contributed Session Organizer - Statistics Education
+  - 2015, Invited Session Organizer - Sports Data in Statistics
     Education
-  - 2014 - Topic Contributed Session Chair - Sports Section Speed
-    Session
-- Ohio Spring Regional MAA Meetings
-  - 2013 - Session Chair
-- National Center for Faculty Development & Diversity member
-  - 2016-2020
+  - 2014, Topic Contributed Session Chair - Sports Section Speed Session
+- 2013, Session Chair, Ohio Spring Regional MAA Meetings
+- 2016-2020, National Center for Faculty Development & Diversity member
 - American Statistical Association Sponsored Data Fest at Duke
   University
   - 2015, 2017 Judge
   - 2016 VIP Consultant
 
-## North Carolina State University Related Service
+## Service
+
+### North Carolina State University
 
 | Year | Item |
 |:---|:---|
-| 2024 - present | (Chair) Master’s and Graduate Certificate Curriculum Committee |
+| 2025 – present | Master’s and Graduate Certificate Curriculum Committee |
+| 2025 - present | Statistics Department Awards Committee |
 | 2017 – present | Teaching Mentor to Statistics Faculty |
+| 2025 | STEM Education Search Committee |
+| 2024 – 2025 | (Chair) Master’s and Graduate Certificate Curriculum Committee |
 | 2019 – 2024 | Statistics Department Curriculum Committee |
-| 2020 - 2024 | Statistics Department Research Round Robin Host |
+| 2020 – 2024 | Statistics Department Research Round Robin Host |
 | 2024 | Lecturer Search Committee Chair |
 | 2023 | Lecturer Search Committee Chair |
 | 2017 – 2023 | GLBT Advocate |
@@ -454,17 +526,19 @@ time at NCSU
 | 2018 – 2020 | DELTA Faculty Fellow |
 | 2017 – 2020 | Pack Promise Mentor (First Generation College Students) |
 | 2017 – 2020 | Goodnight scholar mentor |
-| 2016 - 2017 | JUNTOS program development of reporting and database systems |
+| 2016 – 2017 | JUNTOS program development of reporting and database systems |
 | 2013 – 2018 | Faculty Advisor to Sports Analytics Club |
 | 2014 – 2017 | Faculty Advisor to Statistical Learning Group |
 
-## Other Service Areas
+## Other Service
 
 | Year | Item |
 |:---|:---|
-| 2015 – 2018, 2022 – present | Stat’n’Chat Organizer (Local Stat-Ed Group) |
-| 2023 - present | Reviewer, Journal of Statistics and Data Science Education |
-| 2021, 2023 | Guest Lecturer, Cary Academy |
+| 2023 – present | Reviewer, Journal of Statistics and Data Science Education |
+| 2025 | UseR Conference Orgranization and Planning Committees |
+| 2024 | Regional Electronic Conference on Statistics Education Committee |
+| 2015 – 2018, 2022 – 2024 | Stat’n’Chat Organizer (Local Stat-Ed Group) |
+| 2021, 2023, 2024 | Guest Lecturer, Cary Academy |
 | 2023 | Project-Based Learning Expert, Pine Springs Preparatory Academy |
 | 2015, 2017 | Data Fest Judge |
 | 2016 | Data Fest VIP Consultant |
