@@ -58,10 +58,10 @@ in the classroom, motivate them to learn the material, and engage them
 in a discussion of that material that leads to a deeper understanding of
 the concepts involved. By using active learning and involving them in a
 discussion of the material, students are forced to truly grapple with
-the ideas. This can foster the critical thinking and problem solving
+the ideas. This can foster the critical thinking and problem-solving
 skills they need to succeed in and out of the classroom.
 
-To me the most important aspect of teaching is to create a comfortable,
+To me, the most important aspect of teaching is to create a comfortable,
 inclusive, and interactive learning environment for our students. A
 welcoming classroom makes students feel confident enough to voice their
 questions and opinions and begin a dialogue with us. To create a
@@ -129,17 +129,16 @@ what they need to do to prosper in the course.
 
 Purposeful assessments are another way in which we can engage students
 deeply with the material. Along with the usual low stakes assessments, I
-love to give my students class concept map assignments, real-data
-projects, and open-ended assignments. I often require group work in
-these larger assignments to force the students to explain and defend
-their thinking to their peers. These types of assessments require
-purposeful communication, problem solving, and high-level critical
-thinking that truly leads to a deeper, longer lasting, understanding. To
-further push students to create high quality work, in many of my courses
-I’ve moved to having the students create webpages (using GitHub) for
-their larger assignments and projects. These sites are public facing
-and, when done well, provide a great addition to their professional
-portfolio.
+love to give my students concept-map assignments, real-data projects,
+and open-ended assignments. I often require group work in these larger
+assignments to force the students to explain and defend their thinking
+to their peers. These types of assessments require purposeful
+communication, problem solving, and high-level critical thinking that
+truly leads to a deeper, longer-lasting understanding. To further push
+students to create high quality work, in many of my courses I’ve moved
+to having the students create webpages (using GitHub) for their larger
+assignments and projects. These sites are public facing and, when done
+well, provide a great addition to their professional portfolio.
 
 Of course, with teaching, our demeanor is essential to obtain student
 buy-in. I’m very careful to show the passion and enthusiasm for their
@@ -160,9 +159,9 @@ mutual vested interest in the course.
 Lastly, teaching requires that we do our best to never become passive. I
 am always refining my craft and learning new pedagogy. Each class will
 be different, we must adapt for the current batch of students. The
-students of ten years from now will surely be as different as students
-from ten years ago. To keep up, I make sure to continue to go to
-workshops, participate in faculty exchanges, and attend conferences.
+students ten years from now will surely be as different as students from
+ten years ago. To keep up, I make sure to continue to go to workshops,
+participate in faculty exchanges, and attend conferences.
 
 I believe that students who are comfortable in their learning
 environment, motivated to learn, and deeply engaged with the material
